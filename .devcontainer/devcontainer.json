@@ -1,0 +1,10 @@
+{
+    "name": "fidup.wiki Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
+    "features": {
+        "ghcr.io/devcontainers-contrib/features/pnpm:2": {}
+    },
+    "appPort": [5173],
+    "postCreateCommand": "pnpm install",
+    "customizations": {}
+}
