@@ -7,23 +7,35 @@
     "author": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "dev": "vitepress dev --host",
+        "test": "vitest run",
+        "test:watch": "vitest",
+        "test:coverage": "vitest run --coverage",
+        "dev": "vitepress dev",
         "build": "vitepress build",
         "preview": "vitepress preview",
         "format": "oxfmt",
-        "format:check": "oxfmt --check"
+        "format:check": "oxfmt --check",
+        "clean:diagrams": "rm -rf docs/assets/diagrams/*.svg"
+    },
+    "dependencies": {
+        "@mdit/plugin-plantuml": "^0.23.1",
+        "@types/node": "^25.2.0",
+        "arkregex": "^0.0.5",
+        "markdown-it-wikilinks": "^1.4.0",
+        "vitepress-mermaid-renderer": "^1.1.8",
+        "vitepress-plugin-frontmatter": "^2.0.1"
     },
     "devDependencies": {
-        "beautiful-mermaid": "^0.1.3",
+        "@types/pako": "^2.0.4",
         "markdown-it-mathjax3": "^4.3.2",
+        "mermaid": "^11.12.2",
         "oxfmt": "^0.28.0",
+        "pako": "^2.1.0",
         "vitepress": "2.0.0-alpha.16",
+        "vitepress-plugin-diagrams": "^1.1.2",
+        "vitepress-sidebar": "^1.33.1",
+        "vitest": "^4.0.18",
         "vue": "^3.5.27"
     },
-    "packageManager": "pnpm@10.28.2",
-    "dependencies": {
-        "@types/node": "^25.2.0",
-        "markdown-it-wikilinks": "^1.4.0"
-    }
+    "packageManager": "pnpm@10.28.2"
 }

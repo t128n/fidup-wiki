@@ -2,3 +2,5 @@ root = true
 
 [*]
 indent_size = 4
+semi = true
+single_quote = true

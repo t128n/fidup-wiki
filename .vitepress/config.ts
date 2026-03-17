@@ -1,57 +1,68 @@
-import fs from "node:fs";
 import { defineConfig } from "vitepress";
-import { renderMermaidAscii } from "beautiful-mermaid";
-// @ts-ignore — No types available
-import markdownItWikilinks from "markdown-it-wikilinks";
+import { generateSidebar } from 'vitepress-sidebar';
+import { fmTitlePlugin } from 'vitepress-plugin-frontmatter';
+import { plantuml } from "@mdit/plugin-plantuml";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    head: [
+        ['link', { rel: 'icon', href: '/icon.svg' }],
+        ['link', { rel: 'canonical', href: 'https://fidup.wiki' }]
+    ],
+
     srcDir: "docs",
     lang: "de",
     title: "fidup.wiki",
     description: "Quelloffene Wissensdatenbank für die AP2 Fachinformatiker",
     lastUpdated: true,
+    ignoreDeadLinks: true,
+
+    sitemap: {
+        hostname: 'https://fidup.wiki'
+    },
+
     markdown: {
         math: true,
-        config: (md) => {
-            const defaultFence = md.renderer.rules.fence
-
-            md.use(markdownItWikilinks(), {});
-
-            md.renderer.rules.fence = (tokens, idx, options, env, self) => {
-                const token = tokens[idx]
-                if (token.info === 'mermaid-ascii') {
-                    const ascii = renderMermaidAscii(token.content)
-                    return `<pre><code>${ascii}</code></pre>`
-                }
-
-                if (defaultFence) {
-                    return defaultFence(tokens, idx, options, env, self)
-                } else {
-                    return self.renderToken(tokens, idx, options)
-                }
-            }
-
-        }
+        config(md) {
+            md.use(fmTitlePlugin);
+            md.use(plantuml, {
+                type: "uml",
+            });
+        },
     },
     themeConfig: {
-        // https://vitepress.dev/reference/default-theme-config
-        nav: [
-            { text: "Home", link: "/" },
-            { text: "Examples", link: "/markdown-examples" },
-        ],
+        logo: '/icon.svg',
 
         sidebar: [
             {
                 text: "Lerninhalte",
-                items: fs.readdirSync("./docs/lerninhalte").map((file) => {
-                    const name = file.replace(".md", "");
-                    return { text: name, link: `/lerninhalte/${name}` };
-                }),
+                collapsed: false,
+                items: generateSidebar({
+                    documentRootPath: '/docs',
+                    scanStartPath: 'lerninhalte',
+                    useTitleFromFrontmatter: true,
+                    sortMenusByName: true,
+                }).map(item => ({
+                    ...item,
+                    link: `/lerninhalte/${item.link}`
+                }))
             },
+            {
+                text: "Rechtliches",
+                collapsed: false,
+                items: generateSidebar({
+                    documentRootPath: '/docs',
+                    scanStartPath: 'rechtliches',
+                    useTitleFromFrontmatter: true,
+                    sortMenusByName: true,
+                }).map(item => ({
+                    ...item,
+                    link: `/rechtliches/${item.link}`
+                }))
+            }
         ],
 
-        socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+        socialLinks: [{ icon: "github", link: "https://github.com/t128n/fidup-wiki" }],
 
         search: {
             provider: "local",
@@ -92,7 +103,7 @@ export default defineConfig({
             next: "Nächste Seite",
         },
         editLink: {
-            pattern: "https://github.com/user/repo/edit/main/docs/:path",
+            pattern: "https://github.com/t128n/fidup-wiki/edit/main/docs/:path",
             text: "Diese Seite auf GitHub bearbeiten",
         },
         returnToTopLabel: "Zurück nach oben",
@@ -100,5 +111,8 @@ export default defineConfig({
         darkModeSwitchLabel: "Design",
         lightModeSwitchTitle: "Zu hellem Design wechseln",
         darkModeSwitchTitle: "Zu dunklem Design wechseln",
+        footer: {
+            copyright: 'Copyright © 2026 Torben Haack'
+        }
     },
 });

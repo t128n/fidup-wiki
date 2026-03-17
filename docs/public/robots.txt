@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fidup.wiki/sitemap.xml

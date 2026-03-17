@@ -143,3 +143,10 @@ vite.config.ts.timestamp-*
 
 # pnpm
 .pnpm-store/
+
+# mise and direnv local overrides
+.mise.local.toml
+.envrc.local
+
+# fidup-wiki local files
+__internal/
