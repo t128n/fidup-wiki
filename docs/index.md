@@ -40,8 +40,3 @@ Trotz meiner Ermühung, kann die Vollständig und Richtigkeit nicht zu 100% gara
 Fragen? Hinweise? Anregungen?
 
 Scheue dich nicht mich unter [torben@fidup.wiki](mailto:torben@fidup.wiki) zu kontaktieren.
-
-## Rechtliches
-
-- [Datenschutzerklärung](/rechtliches/datenschutzerklärung/)
-- [Impressum](/rechtliches/impressum/)

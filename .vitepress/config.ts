@@ -11,6 +11,7 @@ export default defineConfig({
     ],
 
     srcDir: "docs",
+    base: "/fidup-wiki/",
     lang: "de",
     title: "fidup.wiki",
     description: "Quelloffene Wissensdatenbank für die AP2 Fachinformatiker",
@@ -45,19 +46,6 @@ export default defineConfig({
                 }).map(item => ({
                     ...item,
                     link: `/lerninhalte/${item.link}`
-                }))
-            },
-            {
-                text: "Rechtliches",
-                collapsed: false,
-                items: generateSidebar({
-                    documentRootPath: '/docs',
-                    scanStartPath: 'rechtliches',
-                    useTitleFromFrontmatter: true,
-                    sortMenusByName: true,
-                }).map(item => ({
-                    ...item,
-                    link: `/rechtliches/${item.link}`
                 }))
             }
         ],
