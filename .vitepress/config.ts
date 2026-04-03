@@ -7,19 +7,19 @@ import { plantuml } from "@mdit/plugin-plantuml";
 export default defineConfig({
     head: [
         ['link', { rel: 'icon', href: '/icon.svg' }],
-        ['link', { rel: 'canonical', href: 'https://fidup.wiki' }]
+        ['link', { rel: 'canonical', href: 'https://t128n.github.io/fidup-wiki/' }]
     ],
 
     srcDir: "docs",
     base: "/fidup-wiki/",
     lang: "de",
-    title: "fidup.wiki",
+    title: "fidup-wiki",
     description: "Quelloffene Wissensdatenbank für die AP2 Fachinformatiker",
     lastUpdated: true,
     ignoreDeadLinks: true,
 
     sitemap: {
-        hostname: 'https://fidup.wiki'
+        hostname: 'https://t128n.github.io/fidup-wiki/'
     },
 
     markdown: {

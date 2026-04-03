@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fidup.wiki/sitemap.xml
+Sitemap: https://t128n.github.io/fidup-wiki/sitemap.xml
