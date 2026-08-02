@@ -5,6 +5,7 @@ import type { Theme } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import { useData } from "vitepress";
 import { createMermaidRenderer } from "vitepress-mermaid-renderer";
+import AiDisclosure from "./components/AiDisclosure.vue";
 import Sources from "./components/Sources.vue";
 
 export default {
@@ -30,8 +31,8 @@ export default {
     );
 
     return h(DefaultTheme.Layout, null, {
-      // Inject Sources component into doc-footer-before slot
-      'doc-footer-before': () => h(Sources)
+      // Inject article disclosure and sources into doc-footer-before slot
+      "doc-footer-before": () => [h(AiDisclosure), h(Sources)],
     });
   },
 } satisfies Theme;
