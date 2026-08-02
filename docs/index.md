@@ -36,3 +36,10 @@ Die Lernzettel wurden nach besten Wissen und Gewissen für die Abschlussprüfung
 Trotz meiner Ermühung, kann die Vollständig und Richtigkeit nicht zu 100% garantiert sein. Bitte nutzt nicht ausschließlich diese Lernzettel für die Prüfungsvorbereitung. Sie sollten mehr als Ausgangspunkt gesehen werden, von welchem man aus sich einen guten Überblick über die verschiedenen Themengebiete und Inhalte bekommen kann. Bei jedem Artikel sind zudem Quellen verlinkt, von welchen aus a) die Lernzettel ursprünglich erstellt und b) mittels Einsatz künstzlicher Intelligenz gegengeprüft wurden.
 
 ## Kontakt
+
+Fragen, Rückmeldungen oder Anregungen können über folgende Wege eingereicht werden:
+
+- **Kontaktformular:** [Allgemeine Anfrage via GitHub](https://github.com/t128n/t128n/issues/new?template=generic_inquiry.yml)
+- **Website:** [t128n.dev](https://t128n.dev)
+- **GitHub Repository:** [t128n/fidup-wiki](https://github.com/t128n/fidup-wiki)
+- **Issues & Feedback:** [GitHub Issues](https://github.com/t128n/fidup-wiki/issues)
