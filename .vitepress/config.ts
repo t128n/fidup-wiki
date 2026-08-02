@@ -34,6 +34,11 @@ export default defineConfig({
     themeConfig: {
         logo: "/icon.svg",
 
+        nav: [
+            { text: "Lerninhalte", link: "/lerninhalte/" },
+            { text: "Werkzeuge", link: "/werkzeuge/" },
+        ],
+
         sidebar: [
             {
                 text: "Lerninhalte",
@@ -47,6 +52,14 @@ export default defineConfig({
                     ...item,
                     link: `/lerninhalte/${item.link}`,
                 })),
+            },
+            {
+                text: "Werkzeuge",
+                collapsed: false,
+                items: [
+                    { text: "Übersicht", link: "/werkzeuge/" },
+                    { text: "Berichtsheft Generator", link: "/werkzeuge/berichtsheft-generator" },
+                ],
             },
         ],
 
