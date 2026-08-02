@@ -2,12 +2,12 @@
 title: "PowerShell"
 description: "PowerShell ist ein plattformübergreifendes Framework zur Aufgabenautomatisierung und Konfigurationsverwaltung, das als Befehlszeilenshell und Skriptsprache dient. Es ermöglicht die effiziente Verwaltung von Systemen und Anwendungen auf Windows, Linux und macOS, insbesondere für Daten- und Prozessanalyse."
 sources:
-  - title: "Was ist PowerShell? - PowerShell | Microsoft Learn"
-    url: "https://learn.microsoft.com/de-de/powershell/scripting/overview"
-  - title: "PowerShell-Dokumentation - PowerShell | Microsoft Learn"
-    url: "https://learn.microsoft.com/de-de/powershell/"
-  - title: "Cmdlet-Übersicht - PowerShell | Microsoft Learn"
-    url: "https://learn.microsoft.com/de-de/powershell/scripting/developer/cmdlet/cmdlet-overview"
+    - title: "Was ist PowerShell? - PowerShell | Microsoft Learn"
+      url: "https://learn.microsoft.com/de-de/powershell/scripting/overview"
+    - title: "PowerShell-Dokumentation - PowerShell | Microsoft Learn"
+      url: "https://learn.microsoft.com/de-de/powershell/"
+    - title: "Cmdlet-Übersicht - PowerShell | Microsoft Learn"
+      url: "https://learn.microsoft.com/de-de/powershell/scripting/developer/cmdlet/cmdlet-overview"
 ---
 
 **PowerShell** ist ein plattformübergreifendes Framework zur Aufgabenautomatisierung und Konfigurationsverwaltung, bestehend aus einer Befehlszeilenshell und einer Skriptsprache. Anders als viele traditionelle Shells, die nur Text verarbeiten, arbeitet PowerShell mit .NET-Objekten, was die Automatisierung komplexer Aufgaben in der Daten- und Prozessanalyse erleichtert.

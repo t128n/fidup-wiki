@@ -2,12 +2,12 @@
 title: "Prozesslandkarten"
 description: "Prozesslandkarten bieten einen Überblick über die Geschäftsprozesse eines Unternehmens, gegliedert in Kern-, Führungs- und Unterstützungsprozesse. Sie unterstützen Auszubildende in Daten- und Prozessanalyse beim Verständnis der Ablauforganisation und dienen als Einstiegspunkt für detaillierte Prozessmodellierung."
 sources:
-  - title: "Prozesslandkarte - Überblick auf die Geschäftsprozesse"
-    url: "https://www.bpmo.de/bpm-wiki/prozesslandkarte/"
-  - title: "Prozesslandkarte – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Prozesslandkarte"
-  - title: "Prozesslandkarte: Aufbau, Nutzen, Erstellung"
-    url: "https://www.intellior.com/ressourcen/prozesslandkarte"
+    - title: "Prozesslandkarte - Überblick auf die Geschäftsprozesse"
+      url: "https://www.bpmo.de/bpm-wiki/prozesslandkarte/"
+    - title: "Prozesslandkarte – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Prozesslandkarte"
+    - title: "Prozesslandkarte: Aufbau, Nutzen, Erstellung"
+      url: "https://www.intellior.com/ressourcen/prozesslandkarte"
 ---
 
 **Prozesslandkarten** sind eine visuelle Darstellung der Ablauforganisation eines Unternehmens und bieten einen Überblick über alle Geschäftsprozesse. Sie gliedern diese in drei Hauptbereiche – Kernprozesse, Führungsprozesse und Unterstützungsprozesse – und schaffen Transparenz über interne Abläufe sowie Wertschöpfung. Als oberste Ebene der Prozessarchitektur dienen sie als Ausgangspunkt für detaillierte Modellierungen mit Methoden wie [BPMN](bpmn) oder [eEPK](eepk).

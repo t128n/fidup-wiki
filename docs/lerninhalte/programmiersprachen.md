@@ -2,12 +2,12 @@
 title: "Programmiersprachen"
 description: "Programmiersprachen sind formale Sprachen zur Softwareentwicklung, die sich in Ausführungsarten, Typsystemen und Abstraktionsebenen unterscheiden. Dieser Artikel unterstützt Auszubildende in Daten- und Prozessanalyse bei der Auswahl der passenden Programmiersprache für ihre Projekte."
 sources:
-  - title: "Just-In-Time Compilation (JIT) - Glossar | MDN"
-    url: "https://developer.mozilla.org/de/docs/Glossary/Just_In_Time_Compilation"
-  - title: "Compiler und Interpreter - Elektronik-Kompendium.de"
-    url: "https://www.elektronik-kompendium.de/sites/com/1705231.htm"
-  - title: "Begriffe und Konzepte der OOP, Typsysteme"
-    url: "https://u-helmich.de/inf/Begriffe/T/Typsysteme.html"
+    - title: "Just-In-Time Compilation (JIT) - Glossar | MDN"
+      url: "https://developer.mozilla.org/de/docs/Glossary/Just_In_Time_Compilation"
+    - title: "Compiler und Interpreter - Elektronik-Kompendium.de"
+      url: "https://www.elektronik-kompendium.de/sites/com/1705231.htm"
+    - title: "Begriffe und Konzepte der OOP, Typsysteme"
+      url: "https://u-helmich.de/inf/Begriffe/T/Typsysteme.html"
 ---
 
 **Programmiersprachen** sind formale Sprachen, die zur Erstellung von Software dienen und sich in verschiedenen Aspekten wie Ausführungsarten, Typsystemen und Abstraktionsebenen unterscheiden. Kompilierte Sprachen bieten hohe Effizienz, während interpretierte Sprachen oft einfacher zu handhaben sind. Die Wahl einer Sprache hängt von Projektanforderungen, Entwickler-Know-how und verfügbaren Tools ab.
@@ -116,5 +116,7 @@ In statisch typisiertem Java: `int x = 5;` – der Typ ist fest. In dynamisch ty
 ## Einzelnachweise
 
 [^1]: MDN. Just-In-Time Compilation (JIT) - Glossar.
+
 [^2]: Elektronik-Kompendium.de. Compiler und Interpreter.
+
 [^3]: U-Helmich.de. Begriffe und Konzepte der OOP, Typsysteme.

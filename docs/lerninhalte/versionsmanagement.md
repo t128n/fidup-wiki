@@ -2,12 +2,12 @@
 title: "Versionsmanagement"
 description: "Versionsmanagement bezeichnet den systematischen Prozess der Verwaltung und Nachverfolgung von Änderungen an Dateien und Projekten über die Zeit. Es ermöglicht die Zusammenarbeit mehrerer Personen, die Fehlerbehebung durch Wiederherstellung früherer Zustände sowie die Dokumentation von Entwicklungen. Beliebte Systeme sind Git, SVN und Mercurial."
 sources:
-  - title: "Git - Die dokumentierte Referenz"
-    url: "https://git-scm.com/docs/git/de"
-  - title: "Informationen zu Git - GitHub-Dokumentation"
-    url: "https://docs.github.com/de/get-started/using-git/about-git"
-  - title: "Was ist Git? - Azure DevOps | Microsoft Learn"
-    url: "https://learn.microsoft.com/de-de/devops/develop/git/what-is-git"
+    - title: "Git - Die dokumentierte Referenz"
+      url: "https://git-scm.com/docs/git/de"
+    - title: "Informationen zu Git - GitHub-Dokumentation"
+      url: "https://docs.github.com/de/get-started/using-git/about-git"
+    - title: "Was ist Git? - Azure DevOps | Microsoft Learn"
+      url: "https://learn.microsoft.com/de-de/devops/develop/git/what-is-git"
 ---
 
 **Versionsmanagement** beschreibt den systematischen Prozess der Verwaltung und Nachverfolgung von Änderungen an Dateien und Projekten über die Zeit. Es unterstützt die Zusammenarbeit mehrerer Personen an denselben Ressourcen, verhindert Konflikte und ermöglicht die Wiederherstellung früherer Zustände. Beliebte Versionskontrollsysteme wie Git, SVN und Mercurial bilden die Grundlage für effiziente Softwareentwicklung und Datenanalyse.
@@ -55,12 +55,12 @@ Merging integriert Änderungen aus verschiedenen Branches. Es kann automatisch e
 
 Zentrale Systeme wie SVN arbeiten mit einem einzigen Repository auf einem Server. Jeder Commit erfordert eine Netzwerkverbindung, und der Server ist ein Single Point of Failure. Verteilte Systeme wie Git geben jedem Nutzer eine vollständige Kopie, was Offline-Arbeit und Resilienz ermöglicht. Der Vergleich zeigt:
 
-| Aspekt | Zentral (z. B. SVN) | Verteilt (z. B. Git) |
-|--------|---------------------|----------------------|
-| Architektur | Ein zentrales Repository | Jeder hat eine Arbeitskopie |
-| Arbeitsweise | Online-Arbeit erforderlich | Offline-Arbeit möglich |
-| Geschwindigkeit | Netzwerkabhängig | Schnelle lokale Operationen |
-| Sicherheit | Server als Schwachstelle | Krypto-Hashes für Integrität |
+| Aspekt          | Zentral (z. B. SVN)        | Verteilt (z. B. Git)         |
+| --------------- | -------------------------- | ---------------------------- |
+| Architektur     | Ein zentrales Repository   | Jeder hat eine Arbeitskopie  |
+| Arbeitsweise    | Online-Arbeit erforderlich | Offline-Arbeit möglich       |
+| Geschwindigkeit | Netzwerkabhängig           | Schnelle lokale Operationen  |
+| Sicherheit      | Server als Schwachstelle   | Krypto-Hashes für Integrität |
 
 Verteilte Systeme bieten Vorteile in der Flexibilität, während zentrale einfacher in der Administration sind.
 

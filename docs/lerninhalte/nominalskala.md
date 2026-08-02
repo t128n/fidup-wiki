@@ -2,12 +2,12 @@
 title: "Nominalskala"
 description: "Die Nominalskala ist das niedrigste Skalenniveau in der Statistik, bei dem Daten in Kategorien ohne natürliche Ordnung eingeteilt werden. Sie eignet sich für qualitative Merkmale wie Geschlecht, Haarfarbe oder Blutgruppe und ermöglicht nur Häufigkeitsauszählungen und den Modus."
 sources:
-  - title: "Skalenniveaus | Methodenportal der Uni Leipzig"
-    url: "https://home.uni-leipzig.de/methodenportal/skalenniveaus/"
-  - title: "Skalenniveaus – Datenanalyse mit R (LMU München)"
-    url: "https://datenanalyse.ifkw.lmu.de/skalenniveaus/"
-  - title: "Nominalskala – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Nominalskala"
+    - title: "Skalenniveaus | Methodenportal der Uni Leipzig"
+      url: "https://home.uni-leipzig.de/methodenportal/skalenniveaus/"
+    - title: "Skalenniveaus – Datenanalyse mit R (LMU München)"
+      url: "https://datenanalyse.ifkw.lmu.de/skalenniveaus/"
+    - title: "Nominalskala – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Nominalskala"
 ---
 
 Die **Nominalskala** stellt das grundlegendste Skalenniveau in der Statistik dar, bei dem Daten lediglich in sich gegenseitig ausschließende Kategorien eingeteilt werden, ohne dass eine inhärente Ordnung oder Rangfolge besteht. Sie findet Anwendung bei qualitativen Merkmalen, deren Ausprägungen unterschieden werden können, aber nicht quantitativ bewertet oder miteinander verglichen werden.

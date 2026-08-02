@@ -2,17 +2,18 @@
 title: "Mailserver"
 description: "Ein Mailserver ist ein zentrales System für den Versand, Empfang und die Speicherung von E-Mails im Internet. Dieser Artikel erklärt die Grundlagen, Protokolle, Komponenten und Sicherheitsmechanismen, die in der Daten- und Prozessanalyse relevant sind."
 sources:
-  - title: "Technischer Hintergrund E-Mail-Sicherheit"
-    url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Onlinekommunikation/E-Mail-Sicherheit/technischer-Hintergrund-E-Mail-Sicherheit/technischer-Hintergrund-E-Mail-Sicherheit_node.html"
-  - title: "Simple Mail Transfer Protocol (SMTP)"
-    url: "https://datatracker.ietf.org/doc/html/rfc5321"
-  - title: "E-Mail-Authentifizierung - Microsoft Defender for Office 365"
-    url: "https://learn.microsoft.com/de-de/defender-office-365/email-authentication-about"
+    - title: "Technischer Hintergrund E-Mail-Sicherheit"
+      url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Onlinekommunikation/E-Mail-Sicherheit/technischer-Hintergrund-E-Mail-Sicherheit/technischer-Hintergrund-E-Mail-Sicherheit_node.html"
+    - title: "Simple Mail Transfer Protocol (SMTP)"
+      url: "https://datatracker.ietf.org/doc/html/rfc5321"
+    - title: "E-Mail-Authentifizierung - Microsoft Defender for Office 365"
+      url: "https://learn.microsoft.com/de-de/defender-office-365/email-authentication-about"
 ---
 
 Der **Mailserver** ist ein System, das elektronische Nachrichten über das Internet sendet, empfängt und speichert. Er bildet die Grundlage für die Kommunikation mittels E-Mails und nutzt spezifische Protokolle sowie Sicherheitsmechanismen zur Gewährleistung von Funktionalität und Schutz.
 
 ## Lernziele
+
 Nach der Lektüre dieses Artikels sind folgende Kenntnisse vermittelbar:
 
 - Kenntnisse zu den Funktionen eines Mailservers.
@@ -21,12 +22,15 @@ Nach der Lektüre dieses Artikels sind folgende Kenntnisse vermittelbar:
 - Fähigkeit, grundlegende Sicherheitsmechanismen zu erklären und ihre Bedeutung einzuschätzen.
 
 ## Kurzüberblick
+
 Mailserver sind zentrale Systeme, die den Austausch von E-Mails ermöglichen. Sie übernehmen Aufgaben wie den Transport zwischen Servern, die Zustellung an Empfänger und die Speicherung von Nachrichten. Typischerweise bestehen sie aus Software wie Postfix oder Microsoft Exchange und integrieren sich in Netzwerkinfrastrukturen.
 
 ## Kontext und Einordnung
+
 In der Daten- und Prozessanalyse spielen Mailserver eine Rolle bei der Kommunikation in Unternehmen und der Verarbeitung von Nachrichten als Datenströme. Sie unterstützen Prozesse wie automatische Benachrichtigungen oder die Integration in Workflows, wobei Sicherheitsaspekte wie Authentifizierung und Verschlüsselung besonders relevant sind. Für eine umfassende Betrachtung siehe auch [Datensicherheit](datensicherheit).
 
 ## Begriffe und Definitionen
+
 ### Protokolle
 
 - **SMTP**: Das Standardprotokoll für den Versand von E-Mails zwischen Servern. Es regelt den Transport von Nachrichten über das Internet und leitet diese bei Bedarf weiter.
@@ -47,6 +51,7 @@ In der Daten- und Prozessanalyse spielen Mailserver eine Rolle bei der Kommunika
 - **DMARC**: Kombiniert SPF und DKIM, legt Maßnahmen bei fehlgeschlagenen Prüfungen fest und ermöglicht Reporting.
 
 ## Beispiele
+
 Ein typischer E-Mail-Versand verläuft wie folgt: Der Absender verfasst eine Nachricht in einem MUA, das diese via SMTP an den MTA des Absenders überträgt. Der MTA leitet die Nachricht über das Internet an den MTA des Empfängers weiter, wo ein MDA sie in das Postfach zustellt. Der Empfänger ruft die Nachricht via IMAP ab, um sie auf mehreren Geräten synchron zu halten, ohne sie zu entfernen.
 
 ## Häufige Fehler und Tipps

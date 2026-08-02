@@ -2,10 +2,10 @@
 title: "Identity & Access Management"
 description: "Identity & Access Management (IAM) umfasst Strategien und Technologien zur Verwaltung digitaler Identitäten und Zugriffsrechte. Es zielt darauf ab, Sicherheit zu gewährleisten, indem Authentifizierung, Zugriffssteuerung und Überwachung eingesetzt werden, um Risiken zu minimieren."
 sources:
-  - title: "Was ist Identity und Access Management (IAM)? | IBM"
-    url: "https://www.ibm.com/de-de/think/topics/identity-access-management"
-  - title: "What Is the Principle of Least Privilege? - Palo Alto Networks"
-    url: "https://www.paloaltonetworks.com/cyberpedia/what-is-the-principle-of-least-privilege"
+    - title: "Was ist Identity und Access Management (IAM)? | IBM"
+      url: "https://www.ibm.com/de-de/think/topics/identity-access-management"
+    - title: "What Is the Principle of Least Privilege? - Palo Alto Networks"
+      url: "https://www.paloaltonetworks.com/cyberpedia/what-is-the-principle-of-least-privilege"
 ---
 
 Der **Identity & Access Management**-Begriff bezeichnet eine Disziplin der Cybersicherheit, die sich mit der Erstellung, Verwaltung und dem Schutz digitaler Identitäten sowie der Steuerung von Zugriffsrechten in IT-Systemen beschäftigt. IAM-Lösungen stellen sicher, dass autorisierte Benutzer sicheren Zugriff auf Ressourcen erhalten, während unbefugter Zugriff verhindert wird. Dies ist besonders wichtig in modernen Umgebungen mit Cloud-Diensten, Remote-Arbeit und einer Vielzahl an digitalen Identitäten, um Risiken wie Datenlecks oder Cyberangriffe zu minimieren.

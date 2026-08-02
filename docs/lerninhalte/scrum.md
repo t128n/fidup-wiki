@@ -2,10 +2,10 @@
 title: "Scrum"
 description: "Scrum ist ein agiles Framework zur Entwicklung komplexer Produkte durch selbstorganisierte Teams in iterativen Sprints. Es basiert auf empirischen Prinzipien und fördert Transparenz, Inspektion und Anpassung zur Maximierung des Produktwerts. Geeignet für Auszubildende in Daten- und Prozessanalyse zur effizienten Projektarbeit."
 sources:
-  - title: "The Scrum Guide"
-    url: "https://scrumguides.org/scrum-guide.html"
-  - title: "Scrum (Framework) | Projekt Agility Lab | Universität Stuttgart"
-    url: "https://www.project.uni-stuttgart.de/agility-lab/agility-uni-stuttgart/agile-werkzeuge/scrum/"
+    - title: "The Scrum Guide"
+      url: "https://scrumguides.org/scrum-guide.html"
+    - title: "Scrum (Framework) | Projekt Agility Lab | Universität Stuttgart"
+      url: "https://www.project.uni-stuttgart.de/agility-lab/agility-uni-stuttgart/agile-werkzeuge/scrum/"
 ---
 
 **Scrum** ist ein leichtgewichtiges agiles Framework, das Teams und Organisationen hilft, adaptive Lösungen für komplexe Probleme zu entwickeln und Wert zu schaffen. Ursprünglich aus der Softwareentwicklung stammend, setzt es iterative Sprints von einem Monat oder weniger ein, um funktionsfähige Produktinkremente zu erstellen. Scrum basiert auf empirischen Prinzipien und [Lean Thinking](lean-management), um Transparenz, Inspektion und Anpassung zu fördern. Es unterstützt selbstorganisierte Zusammenarbeit in cross-funktionalen Teams.

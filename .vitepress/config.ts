@@ -1,13 +1,13 @@
 import { defineConfig } from "vitepress";
-import { generateSidebar } from 'vitepress-sidebar';
-import { fmTitlePlugin } from 'vitepress-plugin-frontmatter';
+import { generateSidebar } from "vitepress-sidebar";
+import { fmTitlePlugin } from "vitepress-plugin-frontmatter";
 import { plantuml } from "@mdit/plugin-plantuml";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     head: [
-        ['link', { rel: 'icon', href: '/icon.svg' }],
-        ['link', { rel: 'canonical', href: 'https://t128n.github.io/fidup-wiki/' }]
+        ["link", { rel: "icon", href: "/icon.svg" }],
+        ["link", { rel: "canonical", href: "https://t128n.github.io/fidup-wiki/" }],
     ],
 
     srcDir: "docs",
@@ -19,7 +19,7 @@ export default defineConfig({
     ignoreDeadLinks: true,
 
     sitemap: {
-        hostname: 'https://t128n.github.io/fidup-wiki/'
+        hostname: "https://t128n.github.io/fidup-wiki/",
     },
 
     markdown: {
@@ -32,22 +32,22 @@ export default defineConfig({
         },
     },
     themeConfig: {
-        logo: '/icon.svg',
+        logo: "/icon.svg",
 
         sidebar: [
             {
                 text: "Lerninhalte",
                 collapsed: false,
                 items: generateSidebar({
-                    documentRootPath: '/docs',
-                    scanStartPath: 'lerninhalte',
+                    documentRootPath: "/docs",
+                    scanStartPath: "lerninhalte",
                     useTitleFromFrontmatter: true,
                     sortMenusByName: true,
-                }).map(item => ({
+                }).map((item) => ({
                     ...item,
-                    link: `/lerninhalte/${item.link}`
-                }))
-            }
+                    link: `/lerninhalte/${item.link}`,
+                })),
+            },
         ],
 
         socialLinks: [{ icon: "github", link: "https://github.com/t128n/fidup-wiki" }],
@@ -100,7 +100,7 @@ export default defineConfig({
         lightModeSwitchTitle: "Zu hellem Design wechseln",
         darkModeSwitchTitle: "Zu dunklem Design wechseln",
         footer: {
-            copyright: 'Copyright © 2026 Torben Haack'
-        }
+            copyright: "Copyright © 2026 Torben Haack",
+        },
     },
 });

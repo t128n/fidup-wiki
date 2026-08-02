@@ -2,12 +2,12 @@
 title: "Softwaretechnische Absicherung"
 description: "Softwaretechnische Absicherung beschreibt Maßnahmen zur Absicherung von IT-Systemen durch User-Management, Firewalls, Port-Security und TPM-basierte Schlüsselverwaltung, um Vertraulichkeit, Integrität und Verfügbarkeit zu gewährleisten."
 sources:
-  - title: "Microsoft Learn - TPM Fundamentals"
-    url: "https://learn.microsoft.com/en-us/windows/security/hardware-security/tpm/tpm-fundamentals"
-  - title: "Trusted Computing Group - TPM 2.0 Specification"
-    url: "https://trustedcomputinggroup.org/new-tpm-specification-redefines-firmware-security-for-connected-devices"
-  - title: "IBM Think - RBAC Definition"
-    url: "https://www.ibm.com/de-de/think/topics/rbac"
+    - title: "Microsoft Learn - TPM Fundamentals"
+      url: "https://learn.microsoft.com/en-us/windows/security/hardware-security/tpm/tpm-fundamentals"
+    - title: "Trusted Computing Group - TPM 2.0 Specification"
+      url: "https://trustedcomputinggroup.org/new-tpm-specification-redefines-firmware-security-for-connected-devices"
+    - title: "IBM Think - RBAC Definition"
+      url: "https://www.ibm.com/de-de/think/topics/rbac"
 ---
 
 Softwaretechnische Absicherung umfasst softwarebasierte Sicherheitsmechanismen zum Schutz von Systemen und Netzwerken gegen unbefugten Zugriff, Angriffe und Datenlecks. Dazu gehören rollenbasierte Zugriffskontrolle, Firewalls, Port-Security und TPM-basierte Schlüsselverwaltung. Diese Maßnahmen sichern Vertraulichkeit, Integrität und Verfügbarkeit der IT-Sicherheit. In der Daten- und Prozessanalyse schützt sie sensible Informationen und ermöglicht sichere Analyseumgebungen.

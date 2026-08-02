@@ -2,12 +2,12 @@
 title: "Geschäftsprozess"
 description: "Ein Geschäftsprozess beschreibt eine zielgerichtete Folge von betrieblichen Aktivitäten, die Input durch Einsatz von Ressourcen in Output transformieren und Kundennutzen stiften. Der Artikel erklärt Grundlagen, Prozessarten, Modellierung und Risikobewertung für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Geschäftsprozess • Definition | Gabler Wirtschaftslexikon"
-    url: "https://wirtschaftslexikon.gabler.de/definition/geschaeftsprozess-35399"
-  - title: "3.2 Geschäftsprozesse bestimmen | BSI"
-    url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-Notfallmanagement/3_BusinessImpactAnalysieren/1_GeschaeftsprozesseBestimmen/GeschaeftsprozesseBestimmen_node.html"
-  - title: "Was ist ein Prozess in ISO 9001:2015? | DGQ"
-    url: "https://www.dgq.de/fachbeitraege/prozesse-in-iso-90012015/"
+    - title: "Geschäftsprozess • Definition | Gabler Wirtschaftslexikon"
+      url: "https://wirtschaftslexikon.gabler.de/definition/geschaeftsprozess-35399"
+    - title: "3.2 Geschäftsprozesse bestimmen | BSI"
+      url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-Notfallmanagement/3_BusinessImpactAnalysieren/1_GeschaeftsprozesseBestimmen/GeschaeftsprozesseBestimmen_node.html"
+    - title: "Was ist ein Prozess in ISO 9001:2015? | DGQ"
+      url: "https://www.dgq.de/fachbeitraege/prozesse-in-iso-90012015/"
 ---
 
 Ein **Geschäftsprozess** ist eine zielgerichtete Folge von betrieblichen Aktivitäten, die Inputs durch den Einsatz materieller und immaterieller Ressourcen in Outputs transformiert und dadurch Kundennutzen schafft. Geschäftsprozesse werden durch definierte Ereignisse ausgelöst und tragen direkt oder indirekt zur Erreichung der Unternehmensziele bei. Sie können auf verschiedenen Aggregationsebenen betrachtet werden – von der Gesamtunternehmensebene bis hin zu einzelnen Funktionalbereichen.
@@ -47,7 +47,7 @@ Ein Geschäftsprozess ist eine Folge von Wertschöpfungsaktivitäten mit einem o
 - **Zielausrichtung**: Dient der Erreichung konkreter Geschäftsziele
 - **Ereignissteuerung**: Wird durch ein definiertes Startereignis ausgelöst
 
-Synonyme und englische Bezeichnungen sind *Business Process* oder kurz *Prozess*. Ein Geschäftsprozess kann in Teilprozesse unterteilt werden; mehrere Geschäftsprozesse können zu einer Prozesskette zusammengefasst werden.
+Synonyme und englische Bezeichnungen sind _Business Process_ oder kurz _Prozess_. Ein Geschäftsprozess kann in Teilprozesse unterteilt werden; mehrere Geschäftsprozesse können zu einer Prozesskette zusammengefasst werden.
 
 ### Prozessorientierter Ansatz
 

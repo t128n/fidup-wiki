@@ -2,20 +2,22 @@
 title: "Testdatengeneratoren"
 description: "Testdatengeneratoren sind Software-Tools, die automatisch Testdaten für Softwaretests erstellen. Sie umfassen zufallsbasierte, regelbasierte und datenbankbasierte Generatoren, um Vielfalt, Konsistenz und Effizienz in Tests zu gewährleisten."
 sources:
-  - title: "BfDI – Bundesbeauftragter für den Datenschutz und die Informationsfreiheit"
-    url: "https://www.bfdi.bund.de/DE/Fachthemen/Inhalte/Technik/Kurzposition_Testdaten.html"
-  - title: "Informatik Aktuell – Fachportal für KI & Datenschutz"
-    url: "https://www.informatik-aktuell.de/betrieb/kuenstliche-intelligenz/kidatenschutz-dsgvo-konforme-anonymisierung-sensibler-daten.html"
-  - title: "Testomat.io – Test Data Generator: Purpose, Tools and Best Practices"
-    url: "https://testomat.io/blog/test-data-generator-purpose-tools-and-best-practices/"
+    - title: "BfDI – Bundesbeauftragter für den Datenschutz und die Informationsfreiheit"
+      url: "https://www.bfdi.bund.de/DE/Fachthemen/Inhalte/Technik/Kurzposition_Testdaten.html"
+    - title: "Informatik Aktuell – Fachportal für KI & Datenschutz"
+      url: "https://www.informatik-aktuell.de/betrieb/kuenstliche-intelligenz/kidatenschutz-dsgvo-konforme-anonymisierung-sensibler-daten.html"
+    - title: "Testomat.io – Test Data Generator: Purpose, Tools and Best Practices"
+      url: "https://testomat.io/blog/test-data-generator-purpose-tools-and-best-practices/"
 ---
 
 Der **Testdatengenerator** ist ein Software-Tool, das automatisch Testdaten für Softwaretests erstellt. Diese Daten prüfen Funktionalität, Leistung und Sicherheit von Anwendungen. Generatoren umfassen zufallsbasierte, regelbasierte und datenbankbasierte Varianten, die Vielfalt, Konsistenz und Effizienz sicherstellen.
 
 ## Kurzüberblick
+
 Testdatengeneratoren verringern den Aufwand bei der Datenerstellung und stellen Reproduzierbarkeit sicher. Sie sind essenziell für effiziente Tests und erfordern sorgfältige Validierung für realistische, datenschutzkonforme Ergebnisse. In der Datenanalyse und Prozessanalyse simulieren sie Szenarien wie Validität, Grenzfälle und Fehlerbedingungen.
 
 ## Kontext und Einordnung
+
 Testdatengeneratoren finden in Softwareentwicklung und Qualitätssicherung Anwendung, um Testumgebungen mit realistischen Daten zu versorgen. Sie ergänzen manuelle Erstellung durch automatisierte Produktion großer Datenmengen. In der Datenanalyse unterstützen sie Simulationen von Prozessen, etwa bei [Datenqualität](datenqualitaet)-Prüfungen oder [Datensicherheit](datensicherheit)-Bewertungen. Ihre Bedeutung steigt mit der Komplexität von Anwendungen, insbesondere in E-Commerce, Finanzen und Gesundheitswesen.
 
 ## Begriffe und Definitionen
@@ -26,6 +28,7 @@ Testdatengeneratoren finden in Softwareentwicklung und Qualitätssicherung Anwen
 - **Referenzielle Integrität**: Sicherstellung, dass Beziehungen zwischen Daten, etwa in Datenbanken, während der Maskierung erhalten bleiben.
 
 ## Vorgehen
+
 Die Generierung von Testdaten erfolgt in Schritten:
 
 1. **Anforderungsanalyse**: Bestimmung von Typ und Umfang der Daten basierend auf Testfällen.
@@ -35,6 +38,7 @@ Die Generierung von Testdaten erfolgt in Schritten:
 5. **Integration**: Einbindung in CI/CD-Pipelines für automatisierte Tests.
 
 ## Beispiele
+
 Ein Beispiel für einen zufallsbasierten Generator ist Faker.js, das Benutzernamen wie "AnnaMüller42" oder E-Mail-Adressen wie "test@example.com" erzeugt. Für regelbasierte Daten erstellt ein Telefonnummern-Generator Nummern im Format "+49 123 4567890". Bei datenbasierten Ansätzen werden Datensätze aus Produktionsdatenbanken kopiert und maskiert, etwa durch Ersetzen realer Namen mit Pseudonymen zur Integritätserhaltung.
 
 ## Häufige Fehler und Tipps

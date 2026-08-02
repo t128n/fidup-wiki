@@ -110,4 +110,3 @@ Die Nutzung von VPNs unterliegt rechtlichen Rahmenbedingungen. In einigen Lände
 ## Weiterführendes
 
 Für tiefergehende Informationen zu Verschlüsselungsstandards siehe Verschlüsselung. Ergänzende Themen umfassen IPv6-Unterstützung in modernen VPNs und den Vergleich von Enterprise- versus Consumer-VPNs.
-

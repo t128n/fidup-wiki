@@ -2,12 +2,12 @@
 title: "Webserver"
 description: "Ein Webserver ist ein System aus Hardware und Software, das Webseiten und Webanwendungen über das Internet bereitstellt und Anfragen von Clients verarbeitet. Er verwendet Protokolle wie HTTP und HTTPS für die Kommunikation und integriert oft Datenbanken für dynamische Inhalte, während Sicherheitsmaßnahmen wie SSL/TLS und Firewalls den Schutz gewährleisten."
 sources:
-  - title: "HTTP caching - HTTP | MDN"
-    url: "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching"
-  - title: "NGINX Content Caching | NGINX"
-    url: "https://docs.nginx.com/nginx/admin-guide/content-cache/content-caching/"
-  - title: "Dynamic Caching and Compression | Microsoft Learn"
-    url: "https://learn.microsoft.com/en-us/iis/overview/dynamic-caching-and-compression"
+    - title: "HTTP caching - HTTP | MDN"
+      url: "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching"
+    - title: "NGINX Content Caching | NGINX"
+      url: "https://docs.nginx.com/nginx/admin-guide/content-cache/content-caching/"
+    - title: "Dynamic Caching and Compression | Microsoft Learn"
+      url: "https://learn.microsoft.com/en-us/iis/overview/dynamic-caching-and-compression"
 ---
 
 Der **Webserver** ist ein System aus Hardware und Software, das Webseiten und Webanwendungen über das Internet zugänglich macht. Er verarbeitet eingehende HTTP-Anfragen von Clients, wie Webbrowsern, und liefert die entsprechenden Inhalte aus. Dabei folgt er einem Client-Server-Modell, nutzt Protokolle wie [HTTPS](https) für sichere Kommunikation und kann Datenbanken für dynamische Inhalte integrieren.

@@ -2,10 +2,10 @@
 title: "Präventive IT-Sicherheitsmaßnahmen"
 description: "Präventive IT-Sicherheitsmaßnahmen umfassen technische, organisatorische und menschliche Ansätze zur Vorbeugung von Cyberbedrohungen. Sie zielen auf die Reduzierung der Angriffsfläche ab und sind Teil eines ganzheitlichen Informationssicherheits-Managementsystems."
 sources:
-  - title: "BSI IT-Grundschutz-Schulungen"
-    url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html"
-  - title: "IT-Grundschutzkompendium des BSI"
-    url: "https://it-grundschutzkompendium.de/"
+    - title: "BSI IT-Grundschutz-Schulungen"
+      url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/it-grundschutzschulung_node.html"
+    - title: "IT-Grundschutzkompendium des BSI"
+      url: "https://it-grundschutzkompendium.de/"
 ---
 
 **Präventive IT-Sicherheitsmaßnahmen** sind Ansätze zur Vorbeugung von Cyberbedrohungen, indem sie die Angriffsfläche reduzieren, den Zugriff auf Systeme kontrollieren und die Widerstandsfähigkeit von Infrastrukturen stärken. Sie umfassen technische, organisatorische und menschliche Aspekte und basieren auf dem Prinzip der Abwehr in der Tiefe, bei der mehrere Schutzschichten kombiniert werden. Präventive Maßnahmen grenzen sich von detektiven (erkennenden) und reaktiven (reagierenden) Maßnahmen ab, indem sie Angriffe bereits im Vorfeld verhindern. Sie sind Teil eines ganzheitlichen Informationssicherheits-Managementsystems wie dem BSI IT-Grundschutz und werden zunehmend durch regulatorische Anforderungen wie die NIS-2-Richtlinie gefordert.

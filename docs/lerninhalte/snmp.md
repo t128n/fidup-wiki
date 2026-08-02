@@ -2,10 +2,10 @@
 title: "SNMP (Simple Network Management Protocol)"
 description: "SNMP ermöglicht die Überwachung und Steuerung von Netzwerkgeräten in Daten- und Prozessanalyse-Umgebungen. Als Standardprotokoll nutzt es ein Manager-Agent-Modell mit MIB und OID für effiziente Netzwerkverwaltung und Alarmierung."
 sources:
-  - title: "SNMP Grundlagen – Thomas-Krenn-Wiki"
-    url: "https://www.thomas-krenn.com/de/wiki/SNMP_Grundlagen"
-  - title: "Was ist SNMP? – IT Explained | Paessler PRTG"
-    url: "https://www.paessler.com/de/it-explained/snmp"
+    - title: "SNMP Grundlagen – Thomas-Krenn-Wiki"
+      url: "https://www.thomas-krenn.com/de/wiki/SNMP_Grundlagen"
+    - title: "Was ist SNMP? – IT Explained | Paessler PRTG"
+      url: "https://www.paessler.com/de/it-explained/snmp"
 ---
 
 Das **Simple Network Management Protocol (SNMP)** dient der Überwachung und Steuerung von Netzwerkgeräten wie Routern, Switches, Servern und Druckern. Es ermöglicht den Austausch von Informationen zwischen einem zentralen Management-System und Agenten auf den Geräten, um Netzwerkleistung zu optimieren und Fehler frühzeitig zu erkennen.
@@ -21,12 +21,15 @@ SNMP ordnet sich in die Netzwerkverwaltung ein, wo es für Monitoring und Konfig
 ## Begriffe und Definitionen
 
 ### Manager-Agent-Modell
+
 Das Modell teilt die Verantwortlichkeiten: Der SNMP-Manager initiiert Anfragen und empfängt Benachrichtigungen, während der Agent auf den Geräten die Daten bereitstellt oder Änderungen vornimmt.
 
 ### MIB und OID
+
 Die Management Information Base (MIB) ist eine Textdatei (.mib), die alle abfragbaren Objekte eines Geräts beschreibt, ohne selbst Daten zu speichern. Jedes Objekt erhält eine eindeutige Object Identifier (OID), eine hierarchische Zahlenfolge wie 1.3.6.1.4.1.6574, die den Pfad im Namensraum angibt.
 
 ### Nachrichtentypen
+
 SNMP nutzt sechs Haupttypen von Protokolldateneinheiten (PDUs):
 
 - GET: Anfrage eines spezifischen Werts.

@@ -2,12 +2,12 @@
 title: "Selbstkonfigurierende Systeme"
 description: "Einführung in selbstkonfigurierende Systeme als Teil des Autonomic Computing, mit Fokus auf Self-CHOP-Prinzipien, MAPE-K-Loop und praktischen Anwendungen in Daten- und Prozessanalyse."
 sources:
-  - title: "Autonomic Computing – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Autonomic_Computing"
-  - title: "What is Autonomic Computing and How Does It Work?"
-    url: "https://www.techtarget.com/whatis/definition/What-is-autonomic-computing"
-  - title: "Was Autonomic in DB2 leistet"
-    url: "https://www.computerwoche.de/article/2877376/was-autonomic-in-db2-leistet.html"
+    - title: "Autonomic Computing – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Autonomic_Computing"
+    - title: "What is Autonomic Computing and How Does It Work?"
+      url: "https://www.techtarget.com/whatis/definition/What-is-autonomic-computing"
+    - title: "Was Autonomic in DB2 leistet"
+      url: "https://www.computerwoche.de/article/2877376/was-autonomic-in-db2-leistet.html"
 ---
 
 **Selbstkonfigurierende Systeme** sind IT-Systeme, die ihre Konfiguration automatisch anpassen und optimieren können, ohne menschliches Eingreifen. Sie basieren auf dem Paradigma des Autonomic Computing und zielen darauf ab, die Komplexität der IT-Verwaltung zu reduzieren.

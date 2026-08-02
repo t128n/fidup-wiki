@@ -2,10 +2,10 @@
 title: "Qualitätssicherung und Qualitätskontrolle"
 description: "Qualitätssicherung und Qualitätskontrolle sind zentrale Konzepte im Datenqualitätsmanagement. Während Qualitätssicherung vorbeugend und prozessorientiert wirkt, um Fehler zu vermeiden, konzentriert sich Qualitätskontrolle nachsorgend auf die Prüfung bereits verarbeiteter Daten. Der Artikel erklärt Methoden, Datenqualitätsdimensionen und wirtschaftliche Überlegungen für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Was ist Datenqualitätsmanagement? | IBM"
-    url: "https://www.ibm.com/de-de/think/topics/data-quality-management"
-  - title: "Die wahren Kosten schlechter Datenqualität: Eine detaillierte Analyse – datamastr"
-    url: "https://datamastr.com/kosten-schlechter-datenqualitat/"
+    - title: "Was ist Datenqualitätsmanagement? | IBM"
+      url: "https://www.ibm.com/de-de/think/topics/data-quality-management"
+    - title: "Die wahren Kosten schlechter Datenqualität: Eine detaillierte Analyse – datamastr"
+      url: "https://datamastr.com/kosten-schlechter-datenqualitat/"
 ---
 
 **Qualitätssicherung und Qualitätskontrolle** sind zwei grundlegende Ansätze im Datenqualitätsmanagement. Qualitätssicherung wirkt vorbeugend und prozessorientiert, um hohe Datenqualität langfristig zu gewährleisten, während Qualitätskontrolle nachsorgend die Qualität bereits verarbeiteter Daten überprüft. Beide Ansätze integrieren Methoden wie Validierung und Tests, wobei wirtschaftliche Aspekte die Auswahl der Maßnahmen beeinflussen.

@@ -2,12 +2,12 @@
 title: "Prozessindikatoren"
 description: "Prozessindikatoren sind messbare Kennzahlen zur Überwachung, Steuerung und Optimierung von Geschäftsprozessen. Sie unterstützen Auszubildende in Daten- und Prozessanalyse bei der Bewertung von Effizienz, Qualität und Wirkung, fördern die kontinuierliche Verbesserung und erfüllen Normen wie ISO 9001."
 sources:
-  - title: "Qualitätskennzahlen ISO 9001 & ISO 9000"
-    url: "https://www.dgq.de/fachbeitraege/qm-kennzahlen-in-iso-9000-und-iso-9001/"
-  - title: "Grundbegriffe der Wirkungsorientierung"
-    url: "https://www.phineo.org/magazin/glossar-grundbegriffe-wirkungsorientierung"
-  - title: "Prozesskennzahlen: Effizienz und Produktivität optimieren"
-    url: "https://www.aiio.de/wiki/prozesskennzahlen"
+    - title: "Qualitätskennzahlen ISO 9001 & ISO 9000"
+      url: "https://www.dgq.de/fachbeitraege/qm-kennzahlen-in-iso-9000-und-iso-9001/"
+    - title: "Grundbegriffe der Wirkungsorientierung"
+      url: "https://www.phineo.org/magazin/glossar-grundbegriffe-wirkungsorientierung"
+    - title: "Prozesskennzahlen: Effizienz und Produktivität optimieren"
+      url: "https://www.aiio.de/wiki/prozesskennzahlen"
 ---
 
 **Prozessindikatoren** sind spezifische, messbare Größen, die zur Bewertung, Steuerung und Optimierung von Geschäftsprozessen dienen. Sie ermöglichen eine quantitative Analyse der Effektivität, Effizienz und Qualität von Abläufen und helfen dabei, Engpässe zu identifizieren sowie kontinuierliche Verbesserungen voranzutreiben. In der Daten- und Prozessanalyse dienen sie als Basis für datenbasierte Entscheidungen und die Einhaltung von Qualitätsstandards wie ISO 9001.
@@ -22,9 +22,11 @@ sources:
 - Häufige Fehler bei der Auswahl und Nutzung von Prozessindikatoren vermeiden
 
 ## Definition und Bedeutung
+
 Prozessindikatoren, auch als Key Performance Indicators (KPIs) oder Prozesskennzahlen bezeichnet, sind messbare Größen, die die Leistung von Geschäftsprozessen quantifizieren. Im Gegensatz zu allgemeinen Zielen sind sie spezifisch, quantifizierbar und auf die Überwachung von Prozessabläufen ausgerichtet. Ihre Bedeutung liegt in der Unterstützung des Qualitätsmanagements: Sie decken Abweichungen auf, ermöglichen die Identifikation von Optimierungspotenzialen und fördern Transparenz gegenüber Stakeholdern. Gemäß ISO 9001:2015 sind sie in Kapitel 9.1 als Anforderung für die Überwachung, Messung, Analyse und Bewertung von Prozessleistungen vorgesehen. Sie bilden zudem die Grundlage für den kontinuierlichen Verbesserungsprozess (KVP), indem sie Daten für datenbasierte Entscheidungen liefern.
 
 ## Klassifizierung nach Prozessposition (IOOI-Modell)
+
 Das IOOI-Modell unterscheidet Indikatoren nach ihrer Position im Prozessablauf und beschreibt eine Wirkungskette von Input über Output zu Outcome und Impact.
 
 - **Input-Indikatoren** messen die Ressourcen, die in einen Prozess eingehen, wie Personalaufwand, Materialverbrauch oder Investitionen. Sie zeigen die Verfügbarkeit von Ressourcen an, sagen aber allein noch nichts über die Prozessqualität aus.
@@ -43,6 +45,7 @@ graph LR
 Dieses Diagramm zeigt die Wirkungskette: Ressourcen fließen in den Prozess ein, führen zu direkten Ergebnissen, die wiederum Veränderungen bewirken, welche langfristige Auswirkungen haben.
 
 ## Klassifizierung nach Messrichtung
+
 Neben der prozessualen Position lassen sich Indikatoren nach ihrer Messrichtung einteilen, um unterschiedliche Aspekte zu beleuchten:
 
 - **Zeitbasierte Indikatoren** fokussieren auf Geschwindigkeit und Dauer, wie Durchlaufzeit oder Bearbeitungszeit.
@@ -51,6 +54,7 @@ Neben der prozessualen Position lassen sich Indikatoren nach ihrer Messrichtung 
 - **Produktivitätsbasierte Indikatoren** messen die Ressourcennutzung, wie Auslastung oder Mitarbeiterproduktivität.
 
 ## Merkmale guter Prozessindikatoren
+
 Gute Prozessindikatoren zeichnen sich durch folgende Eigenschaften aus, die ihre Nützlichkeit sicherstellen:
 
 - **Messbarkeit**: Sie liefern quantifizierbare Daten, die regelmäßig erfasst werden können.
@@ -62,6 +66,7 @@ Gute Prozessindikatoren zeichnen sich durch folgende Eigenschaften aus, die ihre
 Das SMART-Prinzip (Spezifisch, Messbar, Erreichbar, Relevant, Zeitgebunden) dient als Checkliste für die Auswahl. Zu viele Indikatoren führen zu einem "Zahlenfriedhof" – besser wenige, zielgerichtete KPIs wählen, die zu Maßnahmen führen.
 
 ## Typische Prozessindikatoren mit Beispielen
+
 Typische Indikatoren umfassen zeit-, qualitäts-, kosten- und produktivitätsbasierte Messungen. Hier Beispiele mit Dummy-Daten für einen Produktionsprozess in einem Unternehmen, das 100 Einheiten pro Tag herstellt:
 
 - **Durchlaufzeit**: Gesamtzeit vom Auftragseingang bis zur Auslieferung, z. B. 5 Tage. Eine Reduzierung auf 3 Tage deutet auf Effizienzsteigerungen hin.
@@ -74,6 +79,7 @@ Typische Indikatoren umfassen zeit-, qualitäts-, kosten- und produktivitätsbas
 In einem Beispielprozess zur Kundenauftragsbearbeitung: Input-Indikator (Personalstunden: 10 pro Auftrag), Output-Indikator (Anzahl bearbeiteter Aufträge: 50 pro Tag), Outcome-Indikator (Kundenzufriedenheit: 90 % positive Rückmeldungen). Eine Verbesserung der Durchlaufzeit von 7 auf 5 Tage führte zu einer Steigerung der Zufriedenheit um 5 %.
 
 ## Anwendung im Kontext der kontinuierlichen Verbesserung
+
 Prozessindikatoren sind essenziell für den [PDCA-Zyklus](pdca): Im Plan-Schritt werden relevante Indikatoren definiert, im Do-Schritt gemessen, im Check-Schritt analysiert und im Act-Schritt für Verbesserungen genutzt. Sie unterstützen den kontinuierlichen Verbesserungsprozess (KVP), indem sie Verbesserungspotenziale aufdecken und die Wirkung von Maßnahmen messen. Im [Benchmarking](benchmarking) dienen sie dem Vergleich mit Best Practices, und im Reporting informieren sie Stakeholder über Leistungen.
 
 ## Häufige Fehler und Tipps

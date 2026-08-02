@@ -7,6 +7,7 @@ sources: []
 Der **SQL versus NoSQL**-Vergleich beleuchtet zwei grundlegende Ansätze zur Organisation und Verwaltung von Daten in Datenbanksystemen. SQL-Datenbanken nutzen relationale Tabellen mit festen Schemata und ACID-Eigenschaften für eine zuverlässige Datenkonsistenz, während NoSQL-Datenbanken flexible Strukturen und BASE-Eigenschaften bieten, die sich für große, unstrukturierte Datenmengen eignen.
 
 ## Lernziele
+
 Dieser Artikel vermittelt Kenntnisse zu:
 
 - den Hauptunterschieden zwischen SQL- und NoSQL-Datenbanken,
@@ -15,9 +16,11 @@ Dieser Artikel vermittelt Kenntnisse zu:
 - den vier Haupttypen von NoSQL-Datenbanken.
 
 ## Kurzüberblick
+
 SQL-Datenbanken, auch relationale Datenbanken genannt, speichern Daten in tabellarischen Strukturen mit festgelegten Beziehungen. Sie unterstützen eine standardisierte Abfragesprache und gewährleisten strenge Konsistenz durch ACID-Prinzipien. NoSQL-Datenbanken hingegen verzichten auf feste Schemata und bieten vielfältige Modelle für unterschiedliche Datenarten, wobei sie auf horizontale Skalierbarkeit und BASE-Prinzipien setzen.
 
 ## Kontext und Einordnung
+
 Datenbanksysteme sind zentrale Komponenten in der [Datenanalyse](datenanalyse) und [Datenbankarchitektur](datenbankarchitektur). SQL-Datenbanken dominieren seit Jahrzehnten Bereiche wie Finanzwesen und Unternehmensanwendungen, wo Datenintegrität entscheidend ist. Mit dem Aufkommen von Big Data und [Cloud-Diensten](cloud-dienste) haben NoSQL-Datenbanken an Bedeutung gewonnen, da sie besser auf variable Datenmengen und hohe Skalierungsanforderungen reagieren können.
 
 ## Begriffe und Definitionen
@@ -36,18 +39,19 @@ NoSQL-Datenbanken umfassen vier Haupttypen:
 - **Graphdatenbanken**: Fokussieren auf Beziehungen zwischen Datenpunkten (z. B. Neo4j).
 
 ## Vorgehen
+
 Der Vergleich beruht auf einer systematischen Betrachtung der Kriterien Datenspeicherung, Datenstruktur, Schema, Skalierbarkeit, Redundanz und Transaktionseigenschaften.
 
 ### Vergleichstabelle
 
-| Kriterium                  | SQL                                                                 | NoSQL                                                                 |
-|----------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------|
-| **Datenspeicherung**      | Relationale Tabellen mit fester Struktur                           | Schlüssel-Wert-Paare oder Dokumente ohne feste Struktur              |
-| **Datenstruktur**         | Komplexe Beziehungen durch Tabellenjoins                            | Hierarchische oder flexible Formate wie JSON                          |
-| **Schema**                | Statisch, vorab definiert                                           | Dynamisch, schemalos                                                  |
-| **Skalierbarkeit**        | Vertikal (Scale-up)                                                 | Horizontal (Scale-out) über Sharding                                  |
-| **Redundanz**             | Gering durch Normalisierung                                         | Potenziell hoch zur Optimierung von Lesevorgängen                     |
-| **Transaktionseigenschaften** | ACID                                                              | BASE                                                                  |
+| Kriterium                     | SQL                                      | NoSQL                                                   |
+| ----------------------------- | ---------------------------------------- | ------------------------------------------------------- |
+| **Datenspeicherung**          | Relationale Tabellen mit fester Struktur | Schlüssel-Wert-Paare oder Dokumente ohne feste Struktur |
+| **Datenstruktur**             | Komplexe Beziehungen durch Tabellenjoins | Hierarchische oder flexible Formate wie JSON            |
+| **Schema**                    | Statisch, vorab definiert                | Dynamisch, schemalos                                    |
+| **Skalierbarkeit**            | Vertikal (Scale-up)                      | Horizontal (Scale-out) über Sharding                    |
+| **Redundanz**                 | Gering durch Normalisierung              | Potenziell hoch zur Optimierung von Lesevorgängen       |
+| **Transaktionseigenschaften** | ACID                                     | BASE                                                    |
 
 Die Entscheidung richtet sich nach den Anforderungen: Bei strukturierten Daten mit komplexen Abfragen und hoher Konsistenz eignet sich SQL; bei großen, variablen Datenmengen und hohem Skalierungsbedarf ist NoSQL vorzuziehen.
 

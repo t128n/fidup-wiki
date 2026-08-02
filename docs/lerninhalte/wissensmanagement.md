@@ -2,12 +2,12 @@
 title: "Wissensmanagement"
 description: "Wissensmanagement umfasst die systematische Erfassung, Strukturierung, Speicherung und Nutzung von Wissen zur Effizienzsteigerung in Organisationen. Es unterscheidet explizites von implizitem Wissen und folgt dem Bausteinmodell mit strategischen Rahmenprozessen und operativen Kernprozessen."
 sources:
-  - title: "Wissensmanagement • Definition | Gabler Wirtschaftslexikon"
-    url: "https://wirtschaftslexikon.gabler.de/definition/wissensmanagement-47468"
-  - title: "Das Bausteinmodell für Wissensmanagement: Mit dem Genfer Modell zum Erfolg"
-    url: "https://www.tixxt.com/de/wissensmanagement/wissensmanagement-methoden/das-bausteinmodell/"
-  - title: "Wissensmanagement – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Wissensmanagement"
+    - title: "Wissensmanagement • Definition | Gabler Wirtschaftslexikon"
+      url: "https://wirtschaftslexikon.gabler.de/definition/wissensmanagement-47468"
+    - title: "Das Bausteinmodell für Wissensmanagement: Mit dem Genfer Modell zum Erfolg"
+      url: "https://www.tixxt.com/de/wissensmanagement/wissensmanagement-methoden/das-bausteinmodell/"
+    - title: "Wissensmanagement – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Wissensmanagement"
 ---
 
 **Wissensmanagement** bezeichnet den systematischen Prozess der Erfassung, Strukturierung, Speicherung, Verteilung und Nutzung von Wissen in einer Organisation, um Ziele effizienter zu erreichen. Anders als das reine Informationsmanagement zielt es auf die Umwandlung von Informationen in handlungsrelevantes Wissen durch Interpretation im Kontext bestehenden Wissens.
@@ -15,9 +15,11 @@ sources:
 ## Grundlagen
 
 ### Definition und Abgrenzung
+
 Wissensmanagement ist die systematische Beeinflussung der Wissensbasis einer Organisation zur Erreichung von Unternehmenszielen. Informationen stellen vorhandenes Wissen dar (Know-what), Wissen entsteht jedoch durch Interpretation von Informationen im Kontext (Know-why). Diese Unterscheidung ist wichtig für das Verständnis von Wissensmanagement.
 
 ### Daten, Informationen und Wissen
+
 Für Auszubildende in [Datenanalyse](datenanalyse) ist diese Abgrenzung besonders relevant:
 
 - **Daten**: Rohdaten ohne Kontext
@@ -27,11 +29,13 @@ Für Auszubildende in [Datenanalyse](datenanalyse) ist diese Abgrenzung besonder
 ## Wissenstheoretische Grundlagen
 
 ### Explizites vs. Implizites Wissen
+
 **Explizites Wissen** ist formulierbares und reproduzierbares Wissen, das sich dokumentieren und ohne Kontextverlust weitergeben lässt. Beispiele sind Prozessdokumentationen, Handbücher oder Datenbankschemata.
 
 **Implizites Wissen** (Tactit Knowledge) ist erfahrungsbasiertes, schwer formalisierbares Wissen mit persönlichem Charakter. Nach Michael Polanyi gilt: "Wir wissen mehr, als wir sagen können." Es ist in Handlungen und Erfahrungen verankert und lässt sich kaum ohne Kontextverlust dokumentieren.
 
 ### Die Wissensspirale (SECI-Modell)
+
 Das SECI-Modell nach Nonaka und Takeuchi beschreibt, wie neues Wissen in Organisationen mittels vier Modi entsteht:
 
 1. **Sozialisation** (implizit→implizit): Erfahrungsaustausch durch gemeinsames Handeln
@@ -44,12 +48,14 @@ Dieser kontinuierliche Prozess heißt "Wissensspirale" und ist wichtig für das 
 ## Das Bausteinmodell des Wissensmanagements
 
 ### Strategische Rahmenprozesse
+
 Die strategischen Rahmenprozesse bilden den äußeren Kreislauf und definieren die Ausrichtung des Wissensmanagements:
 
 1. **Wissensziele**: Definition strategischer Ziele für den Umgang mit Wissen
 2. **Wissensbewertung**: Messung und Bewertung des Wissenskapitals
 
 ### Operative Kernprozesse
+
 Die operativen Kernprozesse bilden den inneren Kreislauf:
 
 1. **Wissensidentifikation**: Erkennen vorhandenen Wissens und Wissenslücken
@@ -76,6 +82,7 @@ Die operativen Kernprozesse bilden den inneren Kreislauf:
 - **Lessons Learned**: Systematische Auswertung von Projekterfahrungen
 
 ### Messung und Bewertung
+
 Die **Wissensbilanz** ist ein zentrales Instrument zur Messung des intellektuellen Kapitals einer Organisation. Sie erfasst Humankapital, Strukturkapital und Beziehungskapital und macht den Wert von Wissen sichtbar.
 
 ## Geschäftsprozessorientiertes Wissensmanagement
@@ -83,6 +90,7 @@ Die **Wissensbilanz** ist ein zentrales Instrument zur Messung des intellektuell
 Für Auszubildende in Daten- und Prozessanalyse ist die Verbindung zwischen Wissensmanagement und [Geschäftsprozessen](geschaeftsprozess) besonders relevant:
 
 ### Prozess-Wissen-Verknüpfung
+
 Jeder [Geschäftsprozess](geschaeftsprozess) benötigt spezifisches Prozesswissen:
 
 - **Prozessdokumentation**: Explizites Wissen über Prozessabläufe
@@ -90,6 +98,7 @@ Jeder [Geschäftsprozess](geschaeftsprozess) benötigt spezifisches Prozesswisse
 - **Prozessoptimierung**: Kontinuierliche Verbesserung durch Wissensentwicklung
 
 ### Integration in BPM-Systeme
+
 Moderne [BPM-Systeme](bpmn) integrieren Wissensmanagement-Funktionen:
 
 - Automatische Prozess-Wissen-Verknüpfung
@@ -106,6 +115,7 @@ Moderne [BPM-Systeme](bpmn) integrieren Wissensmanagement-Funktionen:
 - **Personelle Faktoren**: Zeitdruck, Ressourcenmangel, fehlende Anreize
 
 ### Kritische Perspektiven
+
 Wissenschaftlich wird Wissensmanagement kritisch diskutiert:
 
 - **Paradoxon**: Management erfordert Kontrolle, Wissen braucht jedoch Kreativität

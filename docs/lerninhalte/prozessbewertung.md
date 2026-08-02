@@ -2,10 +2,10 @@
 title: "Prozessbewertung"
 description: "Prozessbewertung analysiert Geschäftsprozesse durch Kennzahlen und Feedback, um Effizienz und Zufriedenheit zu messen. Sie unterstützt Auszubildende in Daten- und Prozessanalyse bei der Optimierung betrieblicher Abläufe."
 sources:
-  - title: "Erfolgreiche Prozessoptimierung mit Qualitätskennzahlen"
-    url: "https://www.tuev-nord.de/de/wissen/wissen-kompakt/qualitaetsmanagement/wie-qualitaetskennzahlen-dabei-helfen-prozesse-zu-steuern/"
-  - title: "Processes & Key Performance Indicators"
-    url: "https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/intralogistics_and_it_planning/services/operational_excellence/Prozessoptimierung/prozesse---kennzahlen.html"
+    - title: "Erfolgreiche Prozessoptimierung mit Qualitätskennzahlen"
+      url: "https://www.tuev-nord.de/de/wissen/wissen-kompakt/qualitaetsmanagement/wie-qualitaetskennzahlen-dabei-helfen-prozesse-zu-steuern/"
+    - title: "Processes & Key Performance Indicators"
+      url: "https://www.iml.fraunhofer.de/en/fields_of_activity/material-flow-systems/intralogistics_and_it_planning/services/operational_excellence/Prozessoptimierung/prozesse---kennzahlen.html"
 ---
 
 **Prozessbewertung** dient der systematischen Analyse und Verbesserung von Geschäftsprozessen, indem quantitative Kennzahlen mit qualitativen Einschätzungen kombiniert werden. Sie misst Effizienz, Effektivität und Zufriedenheit, um Schwachstellen aufzudecken und Optimierungsmöglichkeiten zu identifizieren. In der Daten- und Prozessanalyse unterstützt sie Auszubildende dabei, betriebliche Abläufe objektiv zu beurteilen und fundierte Entscheidungen für Verbesserungen zu treffen.

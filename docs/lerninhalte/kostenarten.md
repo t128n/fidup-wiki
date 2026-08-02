@@ -2,15 +2,16 @@
 title: "Kostenarten"
 description: "Kostenarten kategorisieren verschiedene Ausgaben in Projekten wie Softwarekosten, Hardwarekosten, Personalkosten, Kommunikationskosten und Qualifizierungskosten. Sie helfen bei der präzisen Kostenplanung und Analyse zur Sicherstellung des Projekterfolgs."
 sources:
-  - title: "Kostenartenrechnung"
-    url: "https://www.bwl-lexikon.de/wiki/kostenartenrechnung/"
-  - title: "Kostenartenrechnung: Definition und Beispiel"
-    url: "https://studyflix.de/wirtschaft/kostenartenrechnung-51"
+    - title: "Kostenartenrechnung"
+      url: "https://www.bwl-lexikon.de/wiki/kostenartenrechnung/"
+    - title: "Kostenartenrechnung: Definition und Beispiel"
+      url: "https://studyflix.de/wirtschaft/kostenartenrechnung-51"
 ---
 
 **Kostenarten** sind Kategorien zur systematischen Erfassung und Analyse verschiedener Ausgaben in [Projekten](projektmanagement). Sie bilden die Grundlage für eine präzise Kostenplanung und unterstützen die Budgetierung sowie Kostenkontrolle, insbesondere in der Daten- und Prozessanalyse.
 
 ## Lernziele
+
 Dieser Artikel vermittelt das Wissen zu:
 
 - Unterscheidung der grundlegenden Kostenarten in Projekten,
@@ -19,6 +20,7 @@ Dieser Artikel vermittelt das Wissen zu:
 - Durchführung einer einfachen Kostenplanung für ein Projekt.
 
 ## Kontext und Einordnung
+
 Kostenarten gehören zum Bereich des Kostenmanagements innerhalb der [Betriebswirtschaftslehre](kostenrechnung). In der Kosten- und Leistungsrechnung dienen sie als erste Stufe der Kostenrechnung, bevor Kostenstellen und Kostenträger betrachtet werden. Im Projektmanagement helfen sie dabei, Ausgaben transparent zu machen und unerwartete Kosten zu vermeiden.
 
 ## Begriffe und Definitionen
@@ -32,6 +34,7 @@ Kostenarten gehören zum Bereich des Kostenmanagements innerhalb der [Betriebswi
 - **Sekundäre Kosten**: Kosten für interne Leistungen, die selbst erstellt werden.
 
 ## Systematische Gliederung von Kostenarten
+
 Kostenarten werden nach verschiedenen Kriterien eingeteilt, um eine bessere Analyse zu ermöglichen.
 
 ### Nach Zurechenbarkeit: Einzelkosten vs. Gemeinkosten
@@ -50,6 +53,7 @@ Kostenarten werden nach verschiedenen Kriterien eingeteilt, um eine bessere Anal
 - **Variable Kosten**: Ändern sich mit dem Projektvolumen, z. B. Reisekosten für Workshops.
 
 ## Wichtige Kostenarten im Projekt
+
 In Projekten der Daten- und Prozessanalyse sind folgende Kostenarten besonders relevant. Sie basieren auf den systematischen Gliederungen.
 
 - **Personalkosten**: Gehälter, Sozialabgaben und Schulungen für Mitarbeiter (oft Einzelkosten, variabel).
@@ -65,6 +69,7 @@ In Projekten der Daten- und Prozessanalyse sind folgende Kostenarten besonders r
 - **Abschreibungen**: Wertminderung von Anlagen (Fix, Gemeinkosten).
 
 ## Kostenplanung im Projekt
+
 Die Kostenplanung erfolgt in Schritten zur systematischen Erfassung.
 
 1. Identifizieren aller relevanten Kostenarten basierend auf dem Projektumfang.
@@ -96,4 +101,5 @@ Beispiel: Für ein Datenanalyseprojekt mit 5 Mitarbeitern über 6 Monate könnte
 6. Warum sind Reserven wichtig? (Antwort: Für unvorhergesehene Ausgaben.)
 
 ## Weiterführendes
+
 Weitere Informationen finden sich in der Kostenstellenrechnung und Kostenträgerrechnung.

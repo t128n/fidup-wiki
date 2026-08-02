@@ -2,15 +2,16 @@
 title: "KPI (Key Performance Indicators)"
 description: "KPI (Key Performance Indicators) sind messbare Kennzahlen zur Bewertung der Leistung von Prozessen und Produkten im Qualitätsmanagement. Sie unterstützen die Entscheidungsfindung und kontinuierliche Verbesserung gemäß ISO 9001:2015."
 sources:
-  - title: "QM Kennzahlen in ISO 9000 und ISO 9001"
-    url: "https://www.dgq.de/fachbeitraege/qm-kennzahlen-in-iso-9000-und-iso-9001/"
-  - title: "Erfolgreiche Prozessoptimierung mit Qualitätskennzahlen | TÜV NORD"
-    url: "https://www.tuev-nord.de/de/wissen/wissen-kompakt/qualitaetsmanagement/wie-qualitaetskennzahlen-dabei-helfen-prozesse-zu-steuern/"
+    - title: "QM Kennzahlen in ISO 9000 und ISO 9001"
+      url: "https://www.dgq.de/fachbeitraege/qm-kennzahlen-in-iso-9000-und-iso-9001/"
+    - title: "Erfolgreiche Prozessoptimierung mit Qualitätskennzahlen | TÜV NORD"
+      url: "https://www.tuev-nord.de/de/wissen/wissen-kompakt/qualitaetsmanagement/wie-qualitaetskennzahlen-dabei-helfen-prozesse-zu-steuern/"
 ---
 
 **KPI (Key Performance Indicators)** sind messbare Kennzahlen zur Bewertung der Leistung von Prozessen, Produkten oder Dienstleistungen. Im Qualitätsmanagement überwachen sie die Qualität, steuern Prozesse und unterstützen Entscheidungen auf Basis von Daten. Sie vergleichen den Ist-Zustand mit Zielen und leiten Verbesserungsmaßnahmen ab.
 
 ## Lernziele
+
 Die Lernziele umfassen:
 
 - Die Abgrenzung von KPIs von einfachen Kennzahlen und die Erklärung ihrer Bedeutung im Qualitätsmanagement.
@@ -21,9 +22,11 @@ Die Lernziele umfassen:
 - Die Beschreibung von Schritten zur Implementierung von KPIs in Unternehmen.
 
 ## Kurzueberblick
+
 KPIs sind zentrale Werkzeuge im Qualitätsmanagement, um die Wirksamkeit von Prozessen zu messen. Sie konzentrieren sich auf Schlüsselbereiche des Unternehmenserfolgs und unterstützen die kontinuierliche Verbesserung. Gemäß [ISO 9001](iso-9001) dienen KPIs der Prozesssteuerung und Managementbewertung. Gute KPIs erfüllen SMART-Kriterien: spezifisch, messbar, erreichbar, relevant und terminbezogen. Sie werden in Kategorien wie Ergebniskennzahlen (z. B. Fehlerquote), Störungskennzahlen (z. B. Ausfallzeiten) und Steuerungskennzahlen (z. B. Durchlaufzeiten) unterteilt. KPIs sind eng mit dem [PDCA-Zyklus](pdca-zyklus) verbunden, indem sie Daten für die Phasen "Check" und "Act" liefern.
 
 ## Kontext und Einordnung
+
 KPIs ordnen sich in das Qualitätsmanagementsystem (QMS) ein, wo sie die Leistung von Organisationen objektiv bewerten. Die [ISO 9001:2015](iso-9001) fordert in Kapitel 4.4.1, dass Organisationen ihre wichtigsten Prozesse definieren und mittels Leistungsindikatoren steuern. In Kapitel 9.3 erfolgt die Managementbewertung regelmäßig auf Basis dieser Kennzahlen. KPIs unterstützen den PDCA-Zyklus, indem sie Messdaten für die Planung, Überprüfung und Anpassung von Prozessen bereitstellen. Verantwortlichkeiten liegen beim Management für die strategische Ausrichtung und bei Prozessverantwortlichen für die Definition und Messung. Ein abgestimmtes Kennzahlensystem stellt sicher, dass KPIs nicht isoliert, sondern vernetzt wirken.
 
 ## Begriffe und Definitionen
@@ -34,6 +37,7 @@ KPIs ordnen sich in das Qualitätsmanagementsystem (QMS) ein, wo sie die Leistun
 - **Kennzahlensystem**: Vernetztes System von KPIs, das einzelne Kennzahlen in einen Gesamtzusammenhang bringt und widersprüchliche Signale vermeidet.
 
 ## Vorgehen
+
 Die Implementierung von KPIs erfolgt in Schritten:
 
 1. Strategische Ausrichtung: Ziele des Unternehmens definieren und relevante Prozesse identifizieren.
@@ -44,13 +48,17 @@ Die Implementierung von KPIs erfolgt in Schritten:
 6. Anpassung: Bei Bedarf KPIs überprüfen und aktualisieren.
 
 ## Beispiele
+
 ### Ergebniskennzahlen
+
 Diese messen die Zielerreichung. Beispiel: Fehlerquote in der Produktion. Bei 500 gefertigten Teilen und 10 Fehlern beträgt die Quote 2 %. Ziel: Quote unter 1 % halten.
 
 ### Störungskennzahlen
+
 Diese bewerten Risiken. Beispiel: Anlagenausfallquote. Bei 10 Tagen Betrieb mit 2 Tagen Ausfall beträgt die Quote 20 %. Ziel: Quote unter 5 % reduzieren durch Wartung.
 
 ### Steuerungskennzahlen
+
 Diese überwachen Prozesse. Beispiel: Durchlaufzeit. Von Auftragseingang bis Lieferung 5 Tage. Ziel: Auf 3 Tage verkürzen durch Optimierung.
 
 ## Haeufige Fehler und Tipps
@@ -70,4 +78,5 @@ Diese überwachen Prozesse. Beispiel: Durchlaufzeit. Von Auftragseingang bis Lie
 - Wie unterstützen KPIs den PDCA-Zyklus? (Antwort: Sie liefern Daten für "Check" und "Act".)
 
 ## Weiterfuehrendes
+
 Für tiefergehende Themen zu Prozesssteuerung siehe [Prozessmanagement](prozessmanagement). Bei Fragen zu Normen dient die [ISO 9001](iso-9001)-Dokumentation als Referenz. Für praktische Anwendungen eignen sich Schulungen zu Kennzahlensystemen.

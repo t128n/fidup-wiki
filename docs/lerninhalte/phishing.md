@@ -2,10 +2,10 @@
 title: "Phishing"
 description: "Phishing bezeichnet eine betrügerische Methode, bei der Angreifer sensible Informationen durch Vortäuschung vertrauenswürdiger Quellen stehlen. Es umfasst verschiedene Formen wie E-Mail-Phishing, Spear-Phishing und Smishing und erfordert Aufklärung sowie technische Schutzmaßnahmen für effektiven Schutz."
 sources:
-  - title: "Spam, Phishing & Co"
-    url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Spam-Phishing-Co/spam-phishing-co_node.html"
-  - title: "Phishing Guidance: Stopping the Attack Cycle at Phase One"
-    url: "https://www.cisa.gov/resources-tools/resources/phishing-guidance-stopping-attack-cycle-phase-one"
+    - title: "Spam, Phishing & Co"
+      url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Spam-Phishing-Co/spam-phishing-co_node.html"
+    - title: "Phishing Guidance: Stopping the Attack Cycle at Phase One"
+      url: "https://www.cisa.gov/resources-tools/resources/phishing-guidance-stopping-attack-cycle-phase-one"
 ---
 
 Der **Phishing**-Begriff beschreibt eine betrügerische Methode, bei der Angreifer sich als vertrauenswürdige Institutionen oder Personen ausgeben, um sensible Daten wie Passwörter, Kreditkartennummern oder persönliche Informationen zu stehlen. Als Form des [Datendiebstahls](datendiebstahl) nutzt Phishing psychologische Manipulation und technische Täuschung, um Opfer zur Preisgabe von Informationen zu verleiten. Es zählt zu den häufigsten Cyberbedrohungen und kann erhebliche finanzielle, rechtliche und reputative Folgen haben.

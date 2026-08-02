@@ -2,12 +2,12 @@
 title: "Ordinalskala"
 description: "Die Ordinalskala ist ein Skalenniveau in der Statistik, das Rangordnungen ermöglicht und Vergleiche wie größer oder kleiner zulässt, ohne dass Abstände quantifizierbar sind. Sie findet Anwendung in Bewertungen und Rankings wie Schulnoten oder Kundenzufriedenheit."
 sources:
-  - title: "Skalenniveaus | Methodenportal der Uni Leipzig"
-    url: "https://home.uni-leipzig.de/methodenportal/skalenniveaus/"
-  - title: "Skalenniveaus – Datenanalyse mit R"
-    url: "https://datenanalyse.ifkw.lmu.de/skalenniveaus/"
-  - title: "Skalenniveau – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Skalenniveau"
+    - title: "Skalenniveaus | Methodenportal der Uni Leipzig"
+      url: "https://home.uni-leipzig.de/methodenportal/skalenniveaus/"
+    - title: "Skalenniveaus – Datenanalyse mit R"
+      url: "https://datenanalyse.ifkw.lmu.de/skalenniveaus/"
+    - title: "Skalenniveau – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Skalenniveau"
 ---
 
 Die **Ordinalskala** ist ein Skalenniveau in der Statistik, das Merkmalsausprägungen in eine logische Rangordnung bringt. Sie erlaubt Vergleiche auf Gleichheit und Ungleichheit sowie größer oder kleiner, ohne dass Abstände zwischen den Rängen quantifizierbar sind. Typische Anwendungen sind Bewertungen wie Schulnoten oder Likert-Skalen in Umfragen.

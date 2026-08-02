@@ -2,12 +2,12 @@
 title: "HTTPS"
 description: "Sicherer Standard für die Übertragung von Daten im Internet, der HTTP mit TLS-Verschlüsselung kombiniert, um Vertraulichkeit, Integrität und Authentifizierung zu gewährleisten."
 sources:
-  - title: "Transport Layer Security (TLS) - MDN Web Docs"
-    url: "https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Transport_Layer_Security"
-  - title: "HTTPS - Glossary | MDN Web Docs"
-    url: "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS"
-  - title: "Verschlüsselung und Zertifikate | BSI"
-    url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Der-Browser/Verschluesselung-und-Zertifikate/verschluesselung-und-zertifikate_node.html"
+    - title: "Transport Layer Security (TLS) - MDN Web Docs"
+      url: "https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Transport_Layer_Security"
+    - title: "HTTPS - Glossary | MDN Web Docs"
+      url: "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS"
+    - title: "Verschlüsselung und Zertifikate | BSI"
+      url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Der-Browser/Verschluesselung-und-Zertifikate/verschluesselung-und-zertifikate_node.html"
 ---
 
 Der **HTTPS**-Begriff beschreibt eine sichere Variante des HTTP-Protokolls, die TLS zur [Verschlüsselung](hashing--und-verschluesselungsverfahren) der gesamten Kommunikation zwischen Client und Server einsetzt. Dies ermöglicht den sicheren Austausch sensibler Daten wie bei Online-Banking oder E-Commerce und schützt vor Abhören oder Manipulation.

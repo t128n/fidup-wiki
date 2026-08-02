@@ -2,12 +2,12 @@
 title: "Kontinuierlicher Verbesserungsprozess (KVP)"
 description: "Der Kontinuierliche Verbesserungsprozess (KVP) ist ein systematischer Ansatz zur ständigen Optimierung von Prozessen und Produkten durch kleine, iterative Verbesserungen. Er fördert Mitarbeiterbeteiligung und basiert auf dem PDCA-Zyklus, um Effizienz und Qualität in Unternehmen zu steigern."
 sources:
-  - title: "Kontinuierlicher Verbesserungsprozess (KVP) | REFA"
-    url: "https://refa.de/service/refa-lexikon/kontinuierlicher-verbesserungsprozess-kvp"
-  - title: "Was ist der KVP-Prozess? | Qualitätsmanagement.me"
-    url: "https://qualitaetsmanagement.me/qualitaetsmanagement-iso-9001/lexikon/kvp-prozess/"
-  - title: "KVP 6 Phasen – Der Kontinuierliche Verbesserungsprozess Im Überblick | QUALITY"
-    url: "https://www.quality.de/kvp-magazin/kvp-6-phasen-der-kontinuierliche-verbesserungsprozess-im-ueberblick/"
+    - title: "Kontinuierlicher Verbesserungsprozess (KVP) | REFA"
+      url: "https://refa.de/service/refa-lexikon/kontinuierlicher-verbesserungsprozess-kvp"
+    - title: "Was ist der KVP-Prozess? | Qualitätsmanagement.me"
+      url: "https://qualitaetsmanagement.me/qualitaetsmanagement-iso-9001/lexikon/kvp-prozess/"
+    - title: "KVP 6 Phasen – Der Kontinuierliche Verbesserungsprozess Im Überblick | QUALITY"
+      url: "https://www.quality.de/kvp-magazin/kvp-6-phasen-der-kontinuierliche-verbesserungsprozess-im-ueberblick/"
 ---
 
 Der **Kontinuierliche Verbesserungsprozess (KVP)** ist ein systematischer Ansatz zur fortlaufenden Optimierung von Prozessen, Produkten und Dienstleistungen. Er beruht auf der Annahme, dass zahlreiche kleine, kontinuierliche Verbesserungen größere Wirkungen erzielen als sporadische Großprojekte. Der Ansatz fördert die Beteiligung aller Mitarbeiterebenen und basiert auf dem [PDCA-Zyklus](pdca). Er ist ein zentraler Bestandteil von Qualitätsmanagementsystemen wie der ISO 9001.
@@ -63,4 +63,3 @@ Im Büroalltag wird ein Prozess zur Kundenanfragebearbeitung verbessert. Durch M
 - Nicht X: Auf große Projekte setzen statt kleiner Schritte; stattdessen Y: Kleine, schnell umsetzbare Änderungen priorisieren, die motivieren und sichtbare Erfolge zeigen.
 
 Tipp: Messbare Kennzahlen definieren, um Fortschritte zu tracken. Eine positive Fehlerkultur etablieren, in der Vorschläge willkommen sind.
-

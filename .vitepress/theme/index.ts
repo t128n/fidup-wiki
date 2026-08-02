@@ -9,30 +9,30 @@ import AiDisclosure from "./components/AiDisclosure.vue";
 import Sources from "./components/Sources.vue";
 
 export default {
-  extends: DefaultTheme,
-  Layout: () => {
-    const { isDark } = useData();
+    extends: DefaultTheme,
+    Layout: () => {
+        const { isDark } = useData();
 
-    const initMermaid = () => {
-      createMermaidRenderer({
-        theme: isDark.value ? "dark" : "forest",
-      });
-    };
+        const initMermaid = () => {
+            createMermaidRenderer({
+                theme: isDark.value ? "dark" : "forest",
+            });
+        };
 
-    // initial mermaid setup
-    nextTick(() => initMermaid());
+        // initial mermaid setup
+        nextTick(() => initMermaid());
 
-    // on theme change, re-render mermaid charts
-    watch(
-      () => isDark.value,
-      () => {
-        initMermaid();
-      },
-    );
+        // on theme change, re-render mermaid charts
+        watch(
+            () => isDark.value,
+            () => {
+                initMermaid();
+            },
+        );
 
-    return h(DefaultTheme.Layout, null, {
-      // Inject article disclosure and sources into doc-footer-before slot
-      "doc-footer-before": () => [h(AiDisclosure), h(Sources)],
-    });
-  },
+        return h(DefaultTheme.Layout, null, {
+            // Inject article disclosure and sources into doc-footer-before slot
+            "doc-footer-before": () => [h(AiDisclosure), h(Sources)],
+        });
+    },
 } satisfies Theme;

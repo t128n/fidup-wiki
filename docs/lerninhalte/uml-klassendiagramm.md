@@ -2,12 +2,12 @@
 title: "UML-Klassendiagramm"
 description: "Das UML-Klassendiagramm ist ein Strukturdiagramm zur Visualisierung der statischen Architektur objektorientierter Systeme. Es zeigt Klassen, Schnittstellen, Attribute, Methoden und ihre Beziehungen. Ideal für Auszubildende in Daten- und Prozessanalyse zur Modellierung von Software-Designs."
 sources:
-  - title: "UML class diagrams"
-    url: "https://www.uml-diagrams.org/class-diagrams.html"
-  - title: "Objektorientierte Programmierung – 4.3 Beziehungen zwischen Objekten"
-    url: "https://openbook.rheinwerk-verlag.de/oop/oop_kapitel_04_003.htm"
-  - title: "Unified Modeling Language (UML®) Specification Version 2.5.1"
-    url: "https://www.omg.org/spec/UML/2.5.1/About-UML"
+    - title: "UML class diagrams"
+      url: "https://www.uml-diagrams.org/class-diagrams.html"
+    - title: "Objektorientierte Programmierung – 4.3 Beziehungen zwischen Objekten"
+      url: "https://openbook.rheinwerk-verlag.de/oop/oop_kapitel_04_003.htm"
+    - title: "Unified Modeling Language (UML®) Specification Version 2.5.1"
+      url: "https://www.omg.org/spec/UML/2.5.1/About-UML"
 ---
 
 Das UML-Klassendiagramm ist ein Strukturdiagramm der Unified Modeling Language ([UML](uml)). Es visualisiert die statische Architektur objektorientierter Systeme, indem es Klassen, Schnittstellen sowie deren Attribute, Methoden und Beziehungen darstellt. Zustände oder Interaktionen zeigt es nicht.

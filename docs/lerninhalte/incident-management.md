@@ -2,10 +2,10 @@
 title: "Incident Management"
 description: "Incident Management ist ein ITIL-basierter Prozess zur schnellen Behebung von IT-Störungen, um Ausfallzeiten zu minimieren und Servicequalität zu sichern. Dieser Artikel erklärt Auszubildenden in Daten- und Prozessanalyse die Grundlagen, Methoden und Best Practices."
 sources:
-  - title: "Incident Management | IT Process Wiki"
-    url: "https://wiki.de.it-processmaps.com/index.php/Incident_Management"
-  - title: "Problemmanagement und Vorfallmanagement | Atlassian"
-    url: "https://www.atlassian.com/de/incident-management/devops/incident-vs-problem-management"
+    - title: "Incident Management | IT Process Wiki"
+      url: "https://wiki.de.it-processmaps.com/index.php/Incident_Management"
+    - title: "Problemmanagement und Vorfallmanagement | Atlassian"
+      url: "https://www.atlassian.com/de/incident-management/devops/incident-vs-problem-management"
 ---
 
 Der **Incident Management**-Prozess zielt darauf ab, ungeplante Unterbrechungen oder Qualitätsminderungen von IT-Services schnell zu identifizieren, zu beheben und zu analysieren, um die Auswirkungen auf den Geschäftsbetrieb zu minimieren und die Servicequalität aufrechtzuerhalten.

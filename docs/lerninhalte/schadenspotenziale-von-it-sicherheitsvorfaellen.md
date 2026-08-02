@@ -2,12 +2,12 @@
 title: "Schadenspotenziale von IT-Sicherheitsvorfällen"
 description: "Eine Übersicht über potenzielle Schäden durch IT-Sicherheitsvorfälle, einschließlich finanzieller, rechtlicher und reputativer Auswirkungen, für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Lerneinheit 4.1: Grundlegende Definitionen"
-    url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/4_01_Definitionen.html"
-  - title: "Lerneinheit 4.4: Schutzbedarfsfeststellung für Prozesse und Anwendungen"
-    url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_04/Lektion_4_04_node.html"
-  - title: "IT-Sicherheit"
-    url: "https://www.idw.de/idw/themen-branchen/digitalisierung/it-sicherheit/"
+    - title: "Lerneinheit 4.1: Grundlegende Definitionen"
+      url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/4_01_Definitionen.html"
+    - title: "Lerneinheit 4.4: Schutzbedarfsfeststellung für Prozesse und Anwendungen"
+      url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_04/Lektion_4_04_node.html"
+    - title: "IT-Sicherheit"
+      url: "https://www.idw.de/idw/themen-branchen/digitalisierung/it-sicherheit/"
 ---
 
 **Schadenspotenziale von IT-Sicherheitsvorfällen** sind die möglichen negativen Auswirkungen auf Unternehmen und Organisationen, wenn die Grundwerte der IT-Sicherheit verletzt werden. Diese Potenziale helfen dabei, Risiken einzuschätzen und Maßnahmen zur Vermeidung oder Minimierung von Schäden zu planen.

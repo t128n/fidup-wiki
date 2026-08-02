@@ -2,12 +2,12 @@
 title: "Internet der Dinge (IoT)"
 description: "Das Internet der Dinge (IoT) verbindet physische Objekte mit dem Internet, um Daten zu sammeln und zu kommunizieren. Erfahren Sie mehr über Architektur, Protokolle, Anwendungen und Herausforderungen von IoT-Systemen für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Internet der Dinge - Smart leben (BSI)"
-    url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Internet-der-Dinge-Smart-leben/Internet-der-dinge-smart-leben.html"
-  - title: "RFC 7252 - The Constrained Application Protocol (CoAP)"
-    url: "https://datatracker.ietf.org/doc/html/rfc7252"
-  - title: "MQTT – Leitfaden zum Protokoll für das Internet der Dinge (Informatik Aktuell)"
-    url: "https://www.informatik-aktuell.de/betrieb/netzwerke/mqtt-leitfaden-zum-protokoll-fuer-das-internet-der-dinge.html"
+    - title: "Internet der Dinge - Smart leben (BSI)"
+      url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Internet-der-Dinge-Smart-leben/Internet-der-dinge-smart-leben.html"
+    - title: "RFC 7252 - The Constrained Application Protocol (CoAP)"
+      url: "https://datatracker.ietf.org/doc/html/rfc7252"
+    - title: "MQTT – Leitfaden zum Protokoll für das Internet der Dinge (Informatik Aktuell)"
+      url: "https://www.informatik-aktuell.de/betrieb/netzwerke/mqtt-leitfaden-zum-protokoll-fuer-das-internet-der-dinge.html"
 ---
 
 Der **Internet der Dinge (IoT)** beschreibt ein Netzwerk aus physischen Objekten, die mit Sensoren, Software und Konnektivität ausgestattet sind, um Daten aus ihrer Umgebung zu erfassen und autonom zu kommunizieren. Dies ermöglicht Automatisierung und Effizienzsteigerung in verschiedenen Bereichen wie Smart Homes, Industrie und Gesundheitswesen.

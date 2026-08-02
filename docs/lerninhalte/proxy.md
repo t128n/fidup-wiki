@@ -2,12 +2,12 @@
 title: "Proxy-Server"
 description: "Proxy-Server fungieren als Vermittler zwischen Clients und Servern, um Anfragen weiterzuleiten und Funktionen wie Caching, Anonymisierung und Zugriffssteuerung zu übernehmen. Verschiedene Arten wie HTTP-, HTTPS- und SOCKS-Proxys verbessern Sicherheit und Leistung, bergen jedoch Herausforderungen wie Komplexität und potenzielle Risiken."
 sources:
-  - title: "Proxy servers and tunneling - HTTP | MDN"
-    url: "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Proxy_servers_and_tunneling"
-  - title: "Was ist ein Proxy Server? Definition einfach erklärt"
-    url: "https://www.heise-homepages.de/glossary/proxy-server/"
-  - title: "What Is a Proxy Server? Definition & Explanation"
-    url: "https://www.paloaltonetworks.com/cyberpedia/what-is-a-proxy-server"
+    - title: "Proxy servers and tunneling - HTTP | MDN"
+      url: "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Proxy_servers_and_tunneling"
+    - title: "Was ist ein Proxy Server? Definition einfach erklärt"
+      url: "https://www.heise-homepages.de/glossary/proxy-server/"
+    - title: "What Is a Proxy Server? Definition & Explanation"
+      url: "https://www.paloaltonetworks.com/cyberpedia/what-is-a-proxy-server"
 ---
 
 Der **Proxy-Server** ist eine Netzwerkkomponente, die als Vermittler zwischen einem Client und einem Server fungiert. Er leitet Anfragen des Clients an den Zielserver weiter und kann dabei Funktionen wie Caching, Anonymisierung oder Zugriffssteuerung übernehmen. Proxy-Server kommen in Unternehmensnetzwerken, beim Web-Hosting und zur Verbesserung der Privatsphäre zum Einsatz.

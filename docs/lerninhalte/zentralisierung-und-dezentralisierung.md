@@ -2,12 +2,12 @@
 title: "Zentralisierung und Dezentralisierung"
 description: "Zentralisierung konzentriert IT-Ressourcen an einem Ort für einheitliche Verwaltung, während Dezentralisierung Autonomie und Flexibilität fördert. Beide Ansätze haben Vor- und Nachteile in Sicherheit, Kosten und Innovation."
 sources:
-  - title: "Cloud vs Edge: Definitionen und Unterschiede"
-    url: "https://www.redhat.com/de/topics/cloud-computing/cloud-vs-edge"
-  - title: "Die Balance zwischen Zentralisierung und Dezentralisierung"
-    url: "https://nachhaltigkeit-wirtschaft.de/die-balance-zwischen-zentralisierung-und-dezentralisierung/"
-  - title: "Zentrale vs. dezentrale IT-Struktur"
-    url: "https://www.bloopark.de/blog/odoo-erp-einblicke-1/zentrale-vs-dezentrale-it-struktur-463"
+    - title: "Cloud vs Edge: Definitionen und Unterschiede"
+      url: "https://www.redhat.com/de/topics/cloud-computing/cloud-vs-edge"
+    - title: "Die Balance zwischen Zentralisierung und Dezentralisierung"
+      url: "https://nachhaltigkeit-wirtschaft.de/die-balance-zwischen-zentralisierung-und-dezentralisierung/"
+    - title: "Zentrale vs. dezentrale IT-Struktur"
+      url: "https://www.bloopark.de/blog/odoo-erp-einblicke-1/zentrale-vs-dezentrale-it-struktur-463"
 ---
 
 **Zentralisierung und Dezentralisierung** sind zwei grundlegende Ansätze zur Organisation von IT-Ressourcen, Daten und Entscheidungsprozessen. Zentralisierung bündelt diese an einem Ort für eine einheitliche Verwaltung. Dezentralisierung verteilt sie auf mehrere Standorte, um Autonomie und Flexibilität zu fördern. Beide finden sich in Unternehmen und Technologien wie [Cloud-Computing](cloud-computing) wieder und bringen jeweils Vor- und Nachteile in Sicherheit, Kosten und Innovation.
@@ -50,26 +50,26 @@ Beide Ansätze haben Stärken und Schwächen, die je nach Kontext abgewogen werd
 ### Zentralisierung
 
 - **Vorteile**:
-  - Einheitliche Kontrolle und Governance, was Sicherheit und Compliance erleichtert.
-  - Kosteneinsparungen durch Bündelung von Ressourcen und Vermeidung von Duplikaten.
-  - Einfachere Wartung und Aktualisierung von Systemen.
+    - Einheitliche Kontrolle und Governance, was Sicherheit und Compliance erleichtert.
+    - Kosteneinsparungen durch Bündelung von Ressourcen und Vermeidung von Duplikaten.
+    - Einfachere Wartung und Aktualisierung von Systemen.
 
 - **Nachteile**:
-  - Geringere Anpassungsfähigkeit an lokale Bedürfnisse, was zu Verzögerungen führen kann.
-  - Hohes Risiko von Ausfällen bei Überlastung der zentralen Infrastruktur.
-  - Potenzielle Bürokratie und langsame Entscheidungsprozesse.
+    - Geringere Anpassungsfähigkeit an lokale Bedürfnisse, was zu Verzögerungen führen kann.
+    - Hohes Risiko von Ausfällen bei Überlastung der zentralen Infrastruktur.
+    - Potenzielle Bürokratie und langsame Entscheidungsprozesse.
 
 ### Dezentralisierung
 
 - **Vorteile**:
-  - Höhere Flexibilität und schnelle Reaktion auf lokale Veränderungen.
-  - Bessere Ausfallsicherheit durch Verteilung der Ressourcen.
-  - Förderung von Innovation durch lokale Autonomie und Experimente.
+    - Höhere Flexibilität und schnelle Reaktion auf lokale Veränderungen.
+    - Bessere Ausfallsicherheit durch Verteilung der Ressourcen.
+    - Förderung von Innovation durch lokale Autonomie und Experimente.
 
 - **Nachteile**:
-  - Erhöhte Komplexität in der Koordination und Datenkonsistenz.
-  - Höhere Gesamtkosten durch redundante Systeme und möglicher Schatten-IT.
-  - Schwierigere Durchsetzung einheitlicher Sicherheitsstandards.
+    - Erhöhte Komplexität in der Koordination und Datenkonsistenz.
+    - Höhere Gesamtkosten durch redundante Systeme und möglicher Schatten-IT.
+    - Schwierigere Durchsetzung einheitlicher Sicherheitsstandards.
 
 Wenn hohe Sicherheit und Kosteneffizienz Priorität haben, eignet sich Zentralisierung; für Agilität und lokale Anpassung ist Dezentralisierung vorteilhafter.
 

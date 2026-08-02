@@ -2,12 +2,12 @@
 title: "Machbarkeitsstudie"
 description: "Eine Machbarkeitsstudie bewertet die Durchführbarkeit eines Projekts aus technischen, wirtschaftlichen, rechtlichen und organisatorischen Aspekten und hilft Auszubildenden in Daten- und Prozessanalyse, fundierte Entscheidungen zu treffen."
 sources:
-  - title: "Machbarkeitsstudie – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Machbarkeitsstudie"
-  - title: "Feasibility study – Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Feasibility_study"
-  - title: "Projektprozess Analyse und Definition des Projekts – Business-Wissen"
-    url: "https://www.business-wissen.de/hb/projektprozess-analyse-und-definition-des-projekts/"
+    - title: "Machbarkeitsstudie – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Machbarkeitsstudie"
+    - title: "Feasibility study – Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Feasibility_study"
+    - title: "Projektprozess Analyse und Definition des Projekts – Business-Wissen"
+      url: "https://www.business-wissen.de/hb/projektprozess-analyse-und-definition-des-projekts/"
 ---
 
 Die **Machbarkeitsstudie** ist ein Instrument zur Bewertung der Durchführbarkeit eines Projekts, das in der frühen Phase des [Projektmanagements](projektmanagement) eingesetzt wird. Sie analysiert technische, wirtschaftliche, rechtliche, organisatorische, ressourcenbezogene und zeitliche Aspekte, um eine fundierte Entscheidungsgrundlage zu schaffen und potenzielle Risiken frühzeitig zu identifizieren.

@@ -2,12 +2,12 @@
 title: "Ransomware"
 description: "Ransomware verschlüsselt Daten und fordert Lösegeld. Arten wie Crypto- und Locker-Ransomware verbreiten sich via Phishing. Vorbeugung durch Backups, Sicherheit und Schulung; Reaktion mit Isolation und Wiederherstellung."
 sources:
-  - title: "Ransomware – Vorsicht vor Erpressersoftware"
-    url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Schadprogramme/Ransomware/ransomware_node.html"
-  - title: "Top 10 Ransomware-Maßnahmen"
-    url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Ransomware-Massnahmen/top-10-ransomware-massnahmen.html"
-  - title: "#StopRansomware Guide"
-    url: "https://www.cisa.gov/stopransomware/ransomware-guide"
+    - title: "Ransomware – Vorsicht vor Erpressersoftware"
+      url: "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Schadprogramme/Ransomware/ransomware_node.html"
+    - title: "Top 10 Ransomware-Maßnahmen"
+      url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Ransomware-Angriffe/Top-10-Ransomware-Massnahmen/top-10-ransomware-massnahmen.html"
+    - title: "#StopRansomware Guide"
+      url: "https://www.cisa.gov/stopransomware/ransomware-guide"
 ---
 
 **Ransomware** ist eine Schadsoftware, die den Zugriff auf Daten und Systeme blockiert. Sie fordert Lösegeld für die Freigabe, ohne Garantie auf Wiederherstellung. Ransomware kann zu Datenverlust, finanziellen Schäden und Rufschädigung führen. Die häufigste Form ist Crypto-Ransomware, die Dateien verschlüsselt und einen Entschlüsselungsschlüssel fordert. Moderne Varianten verwenden oft Double Extortion: Sie verschlüsseln Daten und drohen zugleich mit deren Veröffentlichung.

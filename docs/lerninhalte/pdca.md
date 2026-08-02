@@ -2,12 +2,12 @@
 title: "PDCA-Zyklus"
 description: "Der PDCA-Zyklus ist ein vierphasiges Vorgehensmodell für kontinuierliche Verbesserungsprozesse im Qualitätsmanagement und Prozessoptimierung."
 sources:
-  - title: "PDCA-Zyklus Definition – Was ist das? | REFA"
-    url: "https://refa.de/service/refa-lexikon/pdca-zyklus"
-  - title: "PDCA und SDCA im Lean Management | Q-Learning"
-    url: "https://www.q-learning.de/fachwissen/pdca-und-sdca/"
-  - title: "PDCA-Zyklus: Plan-Do-Check-Act – einfach erklärt | Karrierebibel"
-    url: "https://karrierebibel.de/pdca-zyklus/"
+    - title: "PDCA-Zyklus Definition – Was ist das? | REFA"
+      url: "https://refa.de/service/refa-lexikon/pdca-zyklus"
+    - title: "PDCA und SDCA im Lean Management | Q-Learning"
+      url: "https://www.q-learning.de/fachwissen/pdca-und-sdca/"
+    - title: "PDCA-Zyklus: Plan-Do-Check-Act – einfach erklärt | Karrierebibel"
+      url: "https://karrierebibel.de/pdca-zyklus/"
 ---
 
 Der **PDCA-Zyklus** ist ein zyklisches Vorgehensmodell, das im Rahmen des [Kontinuierlichen Verbesserungsprozesses](kontinuierlicher-verbesserungsprozess) (KVP) eingesetzt wird. Er dient der systematischen Weiterentwicklung von Produkten, Dienstleistungen und Prozessen sowie der Analyse von Fehlern. Das Modell besteht aus vier Schritten: Planen (Plan), Umsetzen (Do), Überprüfen (Check) und Handeln (Act). Der Ansatz geht auf den US-amerikanischen Physiker William Edwards Deming zurück und basiert auf Ideen von Walter Andrew Shewhart.
@@ -32,6 +32,7 @@ Der PDCA-Zyklus ist ein zentrales Instrument im Qualitätsmanagement und im Lean
 ## Die vier Phasen des PDCA-Zyklus
 
 ### 1. Plan (Planen)
+
 Die Plan-Phase ist die Grundlage des gesamten Zyklus. Hier werden folgende Schritte durchgeführt:
 
 - Problem identifizieren
@@ -41,9 +42,11 @@ Die Plan-Phase ist die Grundlage des gesamten Zyklus. Hier werden folgende Schri
 - Erfolgskriterien festlegen
 
 ### 2. Do (Umsetzen)
+
 In dieser Phase wird der Plan in die Praxis umgesetzt. Die Umsetzung erfolgt häufig im kleinen Rahmen getestet (Pilotphase), bevor sie im gesamten Unternehmen ausgerollt wird. Dies minimiert Risiken und ermöglicht frühzeitige Anpassungen.
 
 ### 3. Check (Überprüfen)
+
 Hier wird ein [Soll-Ist-Vergleich](soll-ist-vergleich) durchgeführt. Die Ergebnisse der Do-Phase werden objektiv ausgewertet:
 
 - Daten sammeln und analysieren
@@ -52,6 +55,7 @@ Hier wird ein [Soll-Ist-Vergleich](soll-ist-vergleich) durchgeführt. Die Ergebn
 - Ursachen von Abweichungen untersuchen
 
 ### 4. Act (Handeln)
+
 In der Act-Phase werden die Erkenntnisse aus der Check-Phase umgesetzt:
 
 - Erfolgreiche Maßnahmen standardisieren
@@ -73,9 +77,11 @@ flowchart TD
 ## Varianten des PDCA-Modells
 
 ### PDSA (Plan-Do-Study-Act)
+
 PDSA ist eine Variante, bei der die dritte Phase nicht "Check", sondern "Study" heißt. Der Begriff "Study" betont stärker das Lernen aus der Umsetzung statt eines reinen rückwärtsgewandten Soll-Ist-Vergleichs. Deming bevorzugte diese Formulierung, da "Check" oft missverständlich als reine Kontrolle verstanden wurde.
 
 ### SDCA (Standardize-Do-Check-Act)
+
 SDCA ist ein komplementärer Zyklus, der auf die Stabilisierung von Prozessen fokussiert, nachdem diese durch PDCA optimiert wurden. Die Phasen sind: Standardize (Prozess dokumentieren), Do (Standard trainieren und anwenden), Check (Audits zur Einhaltung), Act (Standard bei Bedarf nachschärfen). PDCA treibt Innovation, SDCA sichert Stabilität.
 
 ## Beispiel: Fehlerquote in der Produktion senken

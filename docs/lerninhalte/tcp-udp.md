@@ -2,12 +2,12 @@
 title: "TCP und UDP"
 description: "TCP und UDP sind die beiden Haupttransportprotokolle im Netzwerk. TCP bietet zuverlässige und geordnete Datenübertragung, ideal für Anwendungen wie Downloads und E-Mails. UDP priorisiert Geschwindigkeit und Effizienz, geeignet für Echtzeitanwendungen wie Streaming und Spiele. Dieser Artikel erklärt ihre Unterschiede und Anwendungsfälle."
 sources:
-  - title: "RFC 793: Transmission Control Protocol"
-    url: "https://www.rfc-editor.org/rfc/rfc793"
-  - title: "RFC 768: User Datagram Protocol"
-    url: "https://www.rfc-editor.org/rfc/rfc768"
-  - title: "TCP-Handshake - Glossary | MDN Web Docs"
-    url: "https://developer.mozilla.org/de/docs/Glossary/TCP_handshake"
+    - title: "RFC 793: Transmission Control Protocol"
+      url: "https://www.rfc-editor.org/rfc/rfc793"
+    - title: "RFC 768: User Datagram Protocol"
+      url: "https://www.rfc-editor.org/rfc/rfc768"
+    - title: "TCP-Handshake - Glossary | MDN Web Docs"
+      url: "https://developer.mozilla.org/de/docs/Glossary/TCP_handshake"
 ---
 
 **TCP und UDP** sind die zwei wichtigsten Transportprotokolle im Internet, die auf der Transportschicht des [OSI-Modells](osi-modell) und des [TCP/IP-Modells](tcp-ip-modell) arbeiten. TCP stellt eine garantierte und geordnete Datenübertragung sicher, UDP setzt auf Geschwindigkeit ohne Garantien.
@@ -38,18 +38,18 @@ UDP wird eingesetzt für Echtzeitanwendungen wie Videostreaming, Online-Spiele, 
 
 ## Vergleich TCP vs. UDP
 
-| Aspekt                  | TCP                          | UDP                          |
-|-------------------------|------------------------------|------------------------------|
-| Verbindungsart         | Verbindungsorientiert       | Verbindungslos              |
-| Header-Größe           | 20 Byte                     | 8 Byte                      |
-| Datenübertragung       | Garantiert                  | Nicht garantiert            |
-| Reihenfolge            | Einhaltung garantiert       | Keine Garantie              |
-| Fehlererkennung        | Umfassend (Flow/Congestion Control, Retransmission) | Schwach (Checksumme)        |
-| Geschwindigkeit        | Langsamer                   | Schneller                   |
-| Retransmission         | Ja                          | Nein                        |
-| Sequenzierung          | Ja                          | Nein                        |
-| Broadcasting/Multicasting | Nein                        | Ja                          |
-| Anwendungsgebiete      | E-Mail, Downloads, HTTP/HTTPS | Streaming, Spiele, DNS, DHCP |
+| Aspekt                    | TCP                                                 | UDP                          |
+| ------------------------- | --------------------------------------------------- | ---------------------------- |
+| Verbindungsart            | Verbindungsorientiert                               | Verbindungslos               |
+| Header-Größe              | 20 Byte                                             | 8 Byte                       |
+| Datenübertragung          | Garantiert                                          | Nicht garantiert             |
+| Reihenfolge               | Einhaltung garantiert                               | Keine Garantie               |
+| Fehlererkennung           | Umfassend (Flow/Congestion Control, Retransmission) | Schwach (Checksumme)         |
+| Geschwindigkeit           | Langsamer                                           | Schneller                    |
+| Retransmission            | Ja                                                  | Nein                         |
+| Sequenzierung             | Ja                                                  | Nein                         |
+| Broadcasting/Multicasting | Nein                                                | Ja                           |
+| Anwendungsgebiete         | E-Mail, Downloads, HTTP/HTTPS                       | Streaming, Spiele, DNS, DHCP |
 
 ## Beispiele
 

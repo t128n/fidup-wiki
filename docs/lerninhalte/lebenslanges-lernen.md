@@ -2,12 +2,12 @@
 title: "Lebenslanges Lernen"
 description: "Lebenslanges Lernen umfasst alle Lernaktivitäten während des gesamten Lebens, die darauf abzielen, Wissen, Fähigkeiten und Kompetenzen aus persönlichen, bürgergesellschaftlichen, sozialen oder beschäftigungsbezogenen Perspektiven zu verbessern. Es fördert persönliche Entwicklung, berufliche Flexibilität und gesellschaftliche Teilhabe für Auszubildende in der Daten- und Prozessanalyse."
 sources:
-  - title: "Glossary: Lifelong learning (LLL) - Statistics Explained"
-    url: "https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Lifelong_learning_(LLL)"
-  - title: "Lebenslanges Lernen | socialnet Lexikon"
-    url: "https://www.socialnet.de/lexikon/Lebenslanges-Lernen"
-  - title: "Lernformen : Grundlagen : Lebenslanges Lernen : Themen-Archiv : Themen :: erwachsenenbildung.at"
-    url: "https://erwachsenenbildung.at/themen/lebenslanges_lernen/was_ist_lll/lernformen.php"
+    - title: "Glossary: Lifelong learning (LLL) - Statistics Explained"
+      url: "https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Lifelong_learning_(LLL)"
+    - title: "Lebenslanges Lernen | socialnet Lexikon"
+      url: "https://www.socialnet.de/lexikon/Lebenslanges-Lernen"
+    - title: "Lernformen : Grundlagen : Lebenslanges Lernen : Themen-Archiv : Themen :: erwachsenenbildung.at"
+      url: "https://erwachsenenbildung.at/themen/lebenslanges_lernen/was_ist_lll/lernformen.php"
 ---
 
 **Lebenslanges Lernen** umfasst alle Lernaktivitäten während des gesamten Lebens, die darauf abzielen, Wissen, Fähigkeiten und Kompetenzen aus persönlichen, bürgergesellschaftlichen, sozialen oder beschäftigungsbezogenen Perspektiven zu verbessern. Dabei ist das entscheidende Kriterium die Intention oder das Ziel zu lernen, wodurch sich Lernaktivitäten von rein kulturellen oder sportlichen Veranstaltungen abgrenzen. Lebenslanges Lernen fördert die Anpassung an sich verändernde Anforderungen in Beruf und Gesellschaft, unterstützt die persönliche Entwicklung sowie die Selbstständigkeit und trägt zur aktiven Teilnahme an politischen und sozialen Prozessen bei.

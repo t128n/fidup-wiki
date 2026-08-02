@@ -16,22 +16,28 @@ Das **UML-Zustandsdiagramm** beschreibt den Lebenszyklus von Objekten oder Syste
 - Zustandsdiagramme von anderen UML-Diagrammen wie dem [Aktivitätsdiagramm](uml-aktivitaetsdiagramm) abgrenzen.
 
 ## Kurzüberblick
+
 Das UML-Zustandsdiagramm visualisiert Zustände eines Objekts oder Systems sowie mögliche Übergänge. Es basiert auf dem Konzept des endlichen Automaten und strukturiert komplexe Verhaltensmuster. Typische Anwendungen sind Lebenszyklen, wie der Betrieb einer Maschine oder ein Bestellprozess.
 
 ## Kontext und Einordnung
+
 Zustandsdiagramme gehören zu den Verhaltensdiagrammen in der Unified Modeling Language ([UML](uml)). Sie konzentrieren sich auf den Zustand eines einzelnen Objekts über die Zeit. Im Gegensatz dazu zeigt das [Sequenzdiagramm](uml-sequenzdiagramm) Interaktionen zwischen Objekten, und das Aktivitätsdiagramm bildet Prozesse und Workflows ab. Zustandsdiagramme eignen sich für Systeme mit klar definierten Zuständen und auslösenden Ereignissen.
 
 ## Grundelemente
+
 ### Zustände
+
 Zustände stellen eine Phase dar, in der sich ein Objekt befindet. Sie erscheinen als abgerundete Rechtecke und können Aktionen enthalten:
 
 - **Einfacher Zustand**: Grundlegender Zustand ohne Unterstrukturen.
 - **Zusammengesetzter Zustand**: Enthält Unterzustände für hierarchische Modelle.
 
 ### Transitionen
+
 Transitionen sind gerichtete Pfeile, die einen Wechsel von einem Zustand zum nächsten beschreiben. Ereignisse lösen sie aus, und sie können Bedingungen (Guards) haben. Innere Transitionen führen keine Zustandsänderung herbei, sondern Aktionen innerhalb des Zustands. Äußere Transitionen bewirken einen Zustandswechsel.
 
 ### Aktionen
+
 Aktionen definieren, was in einem Zustand geschieht:
 
 - **entry**: Einmal beim Eintritt ausgeführt.
@@ -39,6 +45,7 @@ Aktionen definieren, was in einem Zustand geschieht:
 - **do**: Kontinuierlich, solange der Zustand aktiv ist.
 
 ## Pseudozustände
+
 Pseudozustände steuern den Ablauf, ohne echte Zustände darzustellen:
 
 - **Startzustand**: Schwarzer Punkt, Ausgangspunkt des Diagramms.
@@ -51,6 +58,7 @@ Pseudozustände steuern den Ablauf, ohne echte Zustände darzustellen:
 - **Historie**: Kreis mit H, speichert den letzten Unterzustand; flach (eine Ebene) oder tief (gesamte Hierarchie).
 
 ## Ereignisse und Bedingungen
+
 Ereignisse lösen Transitionen aus:
 
 - **Signalereignisse**: Externe Signale wie Benutzereingaben.
@@ -60,7 +68,9 @@ Ereignisse lösen Transitionen aus:
 Bedingungen (Guards) sind boolesche Ausdrücke in eckigen Klammern. Sie lassen Transitionen nur bei Erfüllung zu, zum Beispiel [zahlung_erfolgt].
 
 ## Beispiele
+
 ### Einfaches Beispiel: Lampe
+
 ```mermaid
 stateDiagram-v2
     [*] --> Aus
@@ -70,6 +80,7 @@ stateDiagram-v2
 ```
 
 ### Beispiel mit Parallelisierung: Bestellprozess
+
 ```mermaid
 stateDiagram-v2
     [*] --> Bestellt
@@ -85,6 +96,7 @@ stateDiagram-v2
 ```
 
 ### Beispiel mit Historie: Musikplayer
+
 ```mermaid
 stateDiagram-v2
     [*] --> Stopped
@@ -114,4 +126,5 @@ stateDiagram-v2
 6. Grenze Zustandsdiagramme von Aktivitätsdiagrammen ab.
 
 ## Weiterführendes
+
 Für tiefergehende Kenntnisse empfiehlt sich die UML-Spezifikation. Praxisbeispiele finden sich in der Modellierung von Embedded-Systemen oder Geschäftsprozessen.

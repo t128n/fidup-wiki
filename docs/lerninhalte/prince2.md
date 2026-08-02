@@ -2,12 +2,12 @@
 title: "PRINCE2"
 description: "PRINCE2 ist eine strukturierte, prozessorientierte Projektmanagementmethodik, die Projekte von der Initiierung bis zum Abschluss steuert. Sie basiert auf sieben Prinzipien, sieben Themen und sieben Prozessen und eignet sich für Auszubildende in Daten- und Prozessanalyse, um komplexe Projekte effizient zu managen."
 sources:
-  - title: "PRINCE2® Methode erklärt"
-    url: "https://www.prince2.com/de/prince2-methodology"
-  - title: "PRINCE2 7 Foundation Certification"
-    url: "https://www.axelos.com/certifications/prince2-foundation"
-  - title: "PRINCE2 - Definition, Geschichte und Best Practices"
-    url: "https://www.pureconsultant.de/de/prince2/prince2/"
+    - title: "PRINCE2® Methode erklärt"
+      url: "https://www.prince2.com/de/prince2-methodology"
+    - title: "PRINCE2 7 Foundation Certification"
+      url: "https://www.axelos.com/certifications/prince2-foundation"
+    - title: "PRINCE2 - Definition, Geschichte und Best Practices"
+      url: "https://www.pureconsultant.de/de/prince2/prince2/"
 ---
 
 **PRINCE2** ist eine strukturierte Methodik zur Steuerung von Projekten. Sie basiert auf Prinzipien, Themen und Prozessen. Die Methode unterstützt Planung, Durchführung und Abschluss von Projekten mit Schwerpunkt auf wirtschaftlicher Rechtfertigung, Qualität und Risikomanagement.

@@ -2,12 +2,12 @@
 title: "Stakeholder-Analyse"
 description: "Stakeholder-Analyse: Methode zur Identifizierung und Bewertung von Projektbeteiligten im Projektmanagement, um Risiken zu minimieren und Akzeptanz zu erhöhen."
 sources:
-  - title: "Grundlagen des Stakeholdermanagements im Projektmanagement"
-    url: "https://www.gpm-ipma.de/ueber-die-gpm/blog/grundlagen-des-stakeholdermanagements-im-projektmanagement"
-  - title: "Stakeholder - Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Stakeholder"
-  - title: "Einfluss-Interessen-Matrix"
-    url: "https://tiefenschaerfe.de/einfluss-interessen-matrix"
+    - title: "Grundlagen des Stakeholdermanagements im Projektmanagement"
+      url: "https://www.gpm-ipma.de/ueber-die-gpm/blog/grundlagen-des-stakeholdermanagements-im-projektmanagement"
+    - title: "Stakeholder - Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Stakeholder"
+    - title: "Einfluss-Interessen-Matrix"
+      url: "https://tiefenschaerfe.de/einfluss-interessen-matrix"
 ---
 
 Die **Stakeholder-Analyse** ist ein Verfahren zur Identifizierung und Bewertung von Personen oder Gruppen, die ein Interesse an einem Projekt haben oder von dessen Ergebnissen betroffen sind. Sie umfasst die Analyse ihrer Interessen und Befürchtungen, die Entwicklung von Gegenmaßnahmen sowie die kontinuierliche Überwachung und Anpassung. Dieses Verfahren trägt dazu bei, Risiken zu minimieren und die Akzeptanz des Projekts zu erhöhen.
@@ -56,12 +56,12 @@ Monitoring: Nach sechs Monaten zeigt eine Umfrage, dass die Akzeptanz gestiegen 
 
 ### Stakeholder-Matrix (Dummy-Daten)
 
-| Stakeholder          | Interesse | Einfluss | Priorität | Maßnahmen                          |
-|----------------------|-----------|----------|-----------|------------------------------------|
-| IT-Abteilung        | Hoch     | Hoch    | Kritisch | Regelmäßige Meetings, Schulungen  |
-| Buchhaltung         | Hoch     | Mittel  | Hoch     | Workshops, Feedback-Schleifen     |
-| Management          | Mittel   | Hoch    | Hoch     | Strategische Einbindung           |
-| Lieferanten         | Niedrig  | Niedrig | Niedrig  | Gelegentliche Updates             |
+| Stakeholder  | Interesse | Einfluss | Priorität | Maßnahmen                        |
+| ------------ | --------- | -------- | --------- | -------------------------------- |
+| IT-Abteilung | Hoch      | Hoch     | Kritisch  | Regelmäßige Meetings, Schulungen |
+| Buchhaltung  | Hoch      | Mittel   | Hoch      | Workshops, Feedback-Schleifen    |
+| Management   | Mittel    | Hoch     | Hoch      | Strategische Einbindung          |
+| Lieferanten  | Niedrig   | Niedrig  | Niedrig   | Gelegentliche Updates            |
 
 Diese Matrix hilft, Ressourcen zielgerichtet einzusetzen.
 

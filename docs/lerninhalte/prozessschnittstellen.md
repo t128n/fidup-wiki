@@ -2,12 +2,12 @@
 title: "Prozessschnittstellen"
 description: "Prozessschnittstellen sind Übergabepunkte zwischen Prozessen oder Systemen, die den Austausch von Informationen, Daten und Ressourcen ermöglichen. Sie sind entscheidend für die Integration und Optimierung von Geschäftsprozessen und werden in technische, organisatorische und menschliche Kategorien unterteilt."
 sources:
-  - title: "Prozessschnittstelle • Prozessmanagement"
-    url: "https://www.fu-berlin.de/sites/prozessmanagement/glossar/prozessschnittstelle.html"
-  - title: "Prozessschnittstellen - Glossar | ibo Gruppe"
-    url: "https://www.ibo.de/glossar/definition/prozessschnittstellen"
-  - title: "Schnittstellenmanagement • Definition"
-    url: "https://wirtschaftslexikon.gabler.de/definition/schnittstellenmanagement-45575"
+    - title: "Prozessschnittstelle • Prozessmanagement"
+      url: "https://www.fu-berlin.de/sites/prozessmanagement/glossar/prozessschnittstelle.html"
+    - title: "Prozessschnittstellen - Glossar | ibo Gruppe"
+      url: "https://www.ibo.de/glossar/definition/prozessschnittstellen"
+    - title: "Schnittstellenmanagement • Definition"
+      url: "https://wirtschaftslexikon.gabler.de/definition/schnittstellenmanagement-45575"
 ---
 
 **Prozessschnittstellen** sind Übergabepunkte zwischen Prozessen oder Systemen, an denen Informationen, Daten, Dokumente oder andere Ressourcen ausgetauscht werden. Sie entstehen durch Verbindungen oder Abgrenzungen von Prozessen, Teilsystemen oder Organisationseinheiten und fördern eine nahtlose Integration, um Effizienz zu steigern, Fehler zu mindern und Zusammenarbeit zu verbessern.

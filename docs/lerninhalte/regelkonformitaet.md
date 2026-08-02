@@ -2,12 +2,12 @@
 title: "Regelkonformität"
 description: "Regelkonformität beschreibt die Übereinstimmung von Handlungen, Prozessen und Systemen mit festgelegten Regeln, Normen und gesetzlichen Vorgaben. Sie trägt zur Rechtssicherheit, zum Vertrauen und zur Qualitätssicherung bei und umfasst rechtliche, normative und ethische Aspekte. Maßnahmen zur Förderung umfassen Schulungen, Audits und Dokumentation."
 sources:
-  - title: "ISO 37301:2021 - Compliance management systems — Requirements with guidance for use"
-    url: "https://www.iso.org/standard/75080.html"
-  - title: "Justizweites Compliance Management System - Bundesministerium für Justiz Österreich"
-    url: "https://www.bmj.gv.at/themen/Erfolgsgeschichten-Agenda-2030/Justizweites-Compliance-Management-System.html"
-  - title: "Compliance (Recht) – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Compliance_(Recht)"
+    - title: "ISO 37301:2021 - Compliance management systems — Requirements with guidance for use"
+      url: "https://www.iso.org/standard/75080.html"
+    - title: "Justizweites Compliance Management System - Bundesministerium für Justiz Österreich"
+      url: "https://www.bmj.gv.at/themen/Erfolgsgeschichten-Agenda-2030/Justizweites-Compliance-Management-System.html"
+    - title: "Compliance (Recht) – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Compliance_(Recht)"
 ---
 
 **Regelkonformität** bedeutet Übereinstimmung von Handlungen, Prozessen oder Systemen mit Regeln, Normen und Gesetzen. Sie hilft Organisationen, rechtliche Sicherheit zu erreichen, Vertrauen zu schaffen und Qualität zu wahren. Die Konformität umfasst rechtliche, normative und ethische Bereiche. Faktoren wie Unternehmenskultur, Schulungen und Kontrollmechanismen wirken ein. Maßnahmen zur Förderung sind Dokumentation, Compliance-Management-Systeme und Feedback-Mechanismen.
@@ -32,12 +32,15 @@ Der Artikel vermittelt folgende Kenntnisse:
 Regelkonformität gliedert sich in drei Dimensionen: rechtliche, normative und ethische Konformität.
 
 ### Rechtliche Regelkonformität
+
 Dies umfasst die verpflichtende Einhaltung von Gesetzen und Vorschriften, wie Datenschutz-Grundverordnung (DSGVO) oder Arbeitsrecht. Verstöße führen zu Bußgeldern, Strafen oder Haft. Rechtliche Konformität ist obligatorisch und Grundlage für die anderen Dimensionen.
 
 ### Normative Regelkonformität
+
 Im Gegensatz zur rechtlichen Dimension handelt es sich um freiwillige Standards und Normen, etwa [ISO-Normen](iso-standards) wie ISO 37301 oder ITIL. Diese dienen der Qualitätssicherung und Effizienz, sind aber nicht gesetzlich vorgeschrieben. Normative Konformität ergänzt die rechtliche und hilft bei der Optimierung von Prozessen.
 
 ### Ethische Regelkonformität
+
 Diese Dimension orientiert sich an ethischen Standards und Unternehmenswerten, die oft über gesetzliche Mindestanforderungen hinausgehen. Sie umfasst Aspekte wie Corporate Social Responsibility (CSR) und fördert eine Kultur der Integrität. Ethische Konformität stärkt das langfristige Vertrauen bei Stakeholdern.
 
 ## Bedeutung für Organisationen

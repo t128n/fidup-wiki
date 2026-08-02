@@ -2,10 +2,10 @@
 title: "Struktogramm"
 description: "Das Struktogramm, auch Nassi-Shneiderman-Diagramm genannt, ist eine Notation zur visuellen Darstellung von Programmstrukturen und Algorithmen in der Informatik. Es unterstützt die strukturierte Programmierung durch hierarchische Anordnung von Kontrollstrukturen."
 sources:
-  - title: "Nassi-Shneiderman-Diagramm – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm"
-  - title: "Structured Programming – Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Structured_programming"
+    - title: "Nassi-Shneiderman-Diagramm – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Nassi-Shneiderman-Diagramm"
+    - title: "Structured Programming – Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Structured_programming"
 ---
 
 Das **Struktogramm** ist ein grafisches Hilfsmittel zur Darstellung von Algorithmen und Programmabläufen in der strukturierten Programmierung. Es ermöglicht, komplexe Probleme top-down in kleinere Teilprobleme zu zerlegen und schrittweise zu verfeinern. Struktogramme nutzen standardisierte Elemente, um den Ablauf visuell zu strukturieren und die Lesbarkeit durch hierarchische Schachtelung zu verbessern, im Gegensatz zu linearen Verknüpfungen in Flussdiagrammen.

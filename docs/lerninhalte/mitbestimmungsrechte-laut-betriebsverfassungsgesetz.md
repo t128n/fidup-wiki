@@ -2,12 +2,12 @@
 title: "Mitbestimmungsrechte laut Betriebsverfassungsgesetz"
 description: "Das Betriebsverfassungsgesetz regelt die Mitbestimmungsrechte des Betriebsrats in sozialen, personellen und wirtschaftlichen Angelegenheiten. Es unterscheidet Informations-, Mitwirkungs- und echte Mitbestimmungsrechte und zielt darauf ab, die Interessen der Arbeitnehmer zu vertreten."
 sources:
-  - title: "§ 87 BetrVG - Mitbestimmungsrechte"
-    url: "https://www.gesetze-im-internet.de/betrvg/__87.html"
-  - title: "§ 90 BetrVG - Unterrichtungs- und Beratungsrechte"
-    url: "https://www.gesetze-im-internet.de/betrvg/__90.html"
-  - title: "§ 80 BetrVG - Allgemeine Aufgaben des Betriebsrats"
-    url: "https://www.gesetze-im-internet.de/betrvg/__80.html"
+    - title: "§ 87 BetrVG - Mitbestimmungsrechte"
+      url: "https://www.gesetze-im-internet.de/betrvg/__87.html"
+    - title: "§ 90 BetrVG - Unterrichtungs- und Beratungsrechte"
+      url: "https://www.gesetze-im-internet.de/betrvg/__90.html"
+    - title: "§ 80 BetrVG - Allgemeine Aufgaben des Betriebsrats"
+      url: "https://www.gesetze-im-internet.de/betrvg/__80.html"
 ---
 
 **Mitbestimmungsrechte laut Betriebsverfassungsgesetz** bezeichnen die Beteiligungsformen des Betriebsrats in Betrieben der Privatwirtschaft. Sie gliedern sich in Informationsrechte, Mitwirkungsrechte und echte Mitbestimmungsrechte. Diese Rechte betreffen soziale, personelle und wirtschaftliche Angelegenheiten und dienen der Vertretung der Arbeitnehmerinteressen gegenüber dem Arbeitgeber.

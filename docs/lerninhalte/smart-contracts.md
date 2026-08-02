@@ -2,10 +2,10 @@
 title: "Smart Contracts"
 description: "Smart Contracts sind selbst-ausführende Programme auf der Blockchain, die Vertragsbedingungen in Code umsetzen und automatisch ausführen. Sie ermöglichen effiziente, transparente Transaktionen ohne Zwischenparteien und finden Anwendung in Finanzen, Supply Chain und Identitätsmanagement, bergen aber Risiken durch Programmierfehler."
 sources:
-  - title: "Einführung in Smart Contracts | ethereum.org"
-    url: "https://ethereum.org/de/developers/docs/smart-contracts/"
-  - title: "Was sind Ethereum Smart Contracts? | Krypto-online.de"
-    url: "https://krypto-online.de/kryptowaehrungen/ethereum/ethereum-smart-contracts/"
+    - title: "Einführung in Smart Contracts | ethereum.org"
+      url: "https://ethereum.org/de/developers/docs/smart-contracts/"
+    - title: "Was sind Ethereum Smart Contracts? | Krypto-online.de"
+      url: "https://krypto-online.de/kryptowaehrungen/ethereum/ethereum-smart-contracts/"
 ---
 
 **Smart Contracts** sind Computerprogramme, die auf einer [Blockchain](block-chain) gespeichert werden und als digitale Verträge fungieren. Sie formulieren Bedingungen in programmierbarer Logik und führen diese automatisch aus, sobald die Voraussetzungen erfüllt sind. Diese Technologie dient der Automatisierung von Vereinbarungen, ohne dass eine zentrale Instanz wie Banken oder Notare erforderlich ist, und findet in Bereichen wie dezentralen Finanzen und Tokenisierung Anwendung.

@@ -2,10 +2,10 @@
 title: "Projektmanagement"
 description: "Projektmanagement umfasst die systematische Planung, Durchführung und Überwachung zeitlich begrenzter Vorhaben mit einzigartigen Ergebnissen, um definierte Ziele innerhalb vorgegebener Ressourcen zu erreichen. Es unterstützt Auszubildende in Daten- und Prozessanalyse dabei, Projekte effizient zu managen und Erfolgskriterien wie Termintreue, Budgeteinhaltung und Qualität zu sichern."
 sources:
-  - title: "BVA - Projektmanagement Grundbegriffe"
-    url: "https://www.bva.bund.de/DE/Services/Behoerden/Beratung/BZB/Themenwelten/Strategie/Projektmanagement/Wissenspool/_documents/Standardartikel/stda_PM_Grundbegriffe.html"
-  - title: "ISO 21500 - Leitlinien zum Projektmanagement"
-    url: "https://www.iso21500.de/de/ueber-iso-21500/"
+    - title: "BVA - Projektmanagement Grundbegriffe"
+      url: "https://www.bva.bund.de/DE/Services/Behoerden/Beratung/BZB/Themenwelten/Strategie/Projektmanagement/Wissenspool/_documents/Standardartikel/stda_PM_Grundbegriffe.html"
+    - title: "ISO 21500 - Leitlinien zum Projektmanagement"
+      url: "https://www.iso21500.de/de/ueber-iso-21500/"
 ---
 
 **Projektmanagement** beschreibt die Gesamtheit von Führungsaufgaben, -organisation, -techniken und -mitteln für die Initiierung, Definition, Planung, Steuerung und den Abschluss von Projekten. Projekte sind zeitlich begrenzte Vorhaben mit einzigartigen Ergebnissen, die Ressourcen effizient nutzen, um Ziele in den Bereichen Inhalt, Zeit, Kosten und Qualität zu erreichen. Klassisches Projektmanagement geht von detaillierter Vorabplanung aus, während agiles Projektmanagement iterative Anpassungen ermöglicht.

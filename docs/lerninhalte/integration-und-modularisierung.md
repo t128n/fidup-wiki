@@ -2,12 +2,12 @@
 title: "Integration und Modularisierung"
 description: "Integration und Modularisierung sind zentrale Konzepte in der Softwareentwicklung, die Auszubildenden in Daten- und Prozessanalyse helfen, effiziente und wartbare Systeme zu gestalten. Dieser Artikel erklärt, wie Systeme in Module aufgeteilt und integriert werden, um Wiederverwendbarkeit und Flexibilität zu erreichen."
 sources:
-  - title: "Modul (Software) – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Modul_(Software)"
-  - title: "Introduction – Oracle Fusion Middleware Documentation"
-    url: "https://docs.oracle.com/cd/E15523_01/core.1111/e10103/intro.htm"
-  - title: "Was ist eine serviceorientierte Architektur (SOA)? | IBM"
-    url: "https://www.ibm.com/de-de/think/topics/soa"
+    - title: "Modul (Software) – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Modul_(Software)"
+    - title: "Introduction – Oracle Fusion Middleware Documentation"
+      url: "https://docs.oracle.com/cd/E15523_01/core.1111/e10103/intro.htm"
+    - title: "Was ist eine serviceorientierte Architektur (SOA)? | IBM"
+      url: "https://www.ibm.com/de-de/think/topics/soa"
 ---
 
 **Integration und Modularisierung** bezeichnen zwei komplementäre Ansätze in der Softwareentwicklung und Systemarchitektur. Modularisierung teilt ein System in kleinere, unabhängige Module auf, die spezifische Aufgaben erfüllen. Integration verbindet diese Module zu einer kohärenten Gesamtfunktionalität. Die Konzepte fördern Wartbarkeit, Effizienz und Erweiterbarkeit von Softwaresystemen, erfordern aber sorgfältige Planung, um Komplexität und Abhängigkeiten zu managen.

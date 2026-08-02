@@ -2,10 +2,10 @@
 title: "Planning Poker"
 description: "Planning Poker ist eine agile Schätzungstechnik zur Ermittlung von Aufwand in Projekten wie Scrum. Teams verwenden Spielkarten für unabhängige Schätzungen und erreichen durch Diskussion Konsens, um Bias zu reduzieren und Wissen zu teilen."
 sources:
-  - title: "Mountain Goat Software - Planning Poker"
-    url: "https://www.mountaingoatsoftware.com/agile/planning-poker"
-  - title: "Wikipedia - Planning Poker"
-    url: "https://en.wikipedia.org/wiki/Planning_poker"
+    - title: "Mountain Goat Software - Planning Poker"
+      url: "https://www.mountaingoatsoftware.com/agile/planning-poker"
+    - title: "Wikipedia - Planning Poker"
+      url: "https://en.wikipedia.org/wiki/Planning_poker"
 ---
 
 Der **Planning Poker**-Begriff bezeichnet eine spielerische Methode zur konsensbasierten Schätzung von Arbeitseffort in agilen Projekten, insbesondere im [Scrum](scrum)-Rahmenwerk. Teilnehmer nutzen Karten mit Zahlenwerten, um unabhängig zu schätzen und anschließend zu diskutieren, um Konsens zu erreichen. Dies unterstützt die Verwendung von Story Points und lässt sich auf andere Schätzungen anwenden.

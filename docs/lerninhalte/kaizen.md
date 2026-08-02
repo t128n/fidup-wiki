@@ -2,10 +2,10 @@
 title: "Kaizen"
 description: "Kaizen ist eine japanische Managementphilosophie zur kontinuierlichen, schrittweisen Verbesserung in Unternehmen, die durch kleine Veränderungen langfristig Effizienz, Qualität und Mitarbeiterengagement erreicht."
 sources:
-  - title: "Beherrschung von Kaizen und Lean Management zur Erreichung operativer Exzellenz"
-    url: "https://kaizen.com/de/einblicke/kaizen-lean-operative-exzellenz/"
-  - title: "Kaizen & ISO 9001:2015: Steigern Sie Ihre Qualität"
-    url: "https://schlanderundblum.de/blog/qualitaet-verbessern-kaizen/"
+    - title: "Beherrschung von Kaizen und Lean Management zur Erreichung operativer Exzellenz"
+      url: "https://kaizen.com/de/einblicke/kaizen-lean-operative-exzellenz/"
+    - title: "Kaizen & ISO 9001:2015: Steigern Sie Ihre Qualität"
+      url: "https://schlanderundblum.de/blog/qualitaet-verbessern-kaizen/"
 ---
 
 **Kaizen** ist eine japanische Managementphilosophie, die kontinuierliche, schrittweise Verbesserung betont. Sie zielt darauf ab, durch viele kleine Veränderungen langfristige Ergebnisse zu erreichen. Kaizen bindet alle Mitarbeiter ein, um eine Kultur stetiger Optimierung zu schaffen. Es steht in engem Zusammenhang mit dem [Kontinuierlichen Verbesserungsprozess](kontinuierlicher-verbesserungsprozess) und hilft Unternehmen, Produkte, Qualität und Prozesse zu verbessern.
@@ -18,12 +18,15 @@ sources:
 - Praktische Beispiele für Kaizen-Anwendungen in verschiedenen Bereichen benennen.
 
 ## Kurzüberblick
+
 Kaizen entstand nach dem Zweiten Weltkrieg in Japan, inspiriert von Qualitätspraktiken W. Edwards Demings. Es betont kleine, inkrementelle Verbesserungen statt radikaler Innovationen. Im deutschen Sprachraum heißt es Kontinuierlicher Verbesserungsprozess (KVP). Das Konzept fördert eine offene Fehlerkultur, in der Fehler als Lernchancen gelten, und integriert sich in Standards wie ISO 9001:2015.
 
 ## Historischer Kontext
+
 Kaizen entwickelte sich in Japan nach dem Zweiten Weltkrieg unter Einfluss amerikanischer Qualitätsexperten wie W. Edwards Deming. Deming führte das [PDCA](pdca)-Konzept ein, das Grundlage für Kaizen wurde. Toyota und andere Unternehmen nutzten diese Philosophie, um Produktionsprozesse zu optimieren. Dies trug zum japanischen Wirtschaftswunder bei und verbreitete Kaizen global als Methode zur Effizienzsteigerung.
 
 ## Grundprinzipien von Kaizen
+
 Kaizen basiert auf Kernprinzipien für kontinuierliche Verbesserungen:
 
 1. **Kundenorientierung**: Fokus auf Kundenwert durch optimierte Prozesse.
@@ -35,6 +38,7 @@ Kaizen basiert auf Kernprinzipien für kontinuierliche Verbesserungen:
 7. **Offene Fehlerkultur**: Fehler als Lernchancen betrachten.
 
 ## Werkzeuge und Methoden
+
 Kaizen nutzt verschiedene Werkzeuge:
 
 ### PDCA- und SDCA-Zyklen
@@ -44,6 +48,7 @@ Kaizen nutzt verschiedene Werkzeuge:
 - Zusammenspiel: Erst Standards stabilisieren (SDCA), dann verbessern (PDCA).
 
 ### 5S-Methode
+
 Die 5S-Methode organisiert Arbeitsplätze:
 
 1. **Seiri (Sortieren)**: Unnötiges entfernen.
@@ -60,6 +65,7 @@ Die 5S-Methode organisiert Arbeitsplätze:
 - **Kaizen Blitz**: Schnelle Verbesserungsprojekte.
 
 ## Einordnung in Qualitätsmanagement
+
 Kaizen verbindet sich eng mit Lean Management, das Verschwendung minimiert und Kundenwert maximiert. In ISO 9001:2015 ist kontinuierliche Verbesserung ein Kernprinzip, Kaizen bietet Werkzeuge zur Umsetzung. Im deutschen Kontext entspricht Kaizen dem Kontinuierlichen Verbesserungsprozess (KVP). Kaizen unterscheidet sich von Kaikaku, das radikale, transformative Veränderungen meint.
 
 ## Vorgehen
@@ -90,4 +96,5 @@ Kaizen verbindet sich eng mit Lean Management, das Verschwendung minimiert und K
 4. Wie integriert sich Kaizen in ISO 9001:2015?
 
 ## Weiterführendes
+
 Für tiefergehende Kenntnisse zu Qualitätsmanagement siehe ISO 9001 und [Kontinuierlichen Verbesserungsprozess](kontinuierlicher-verbesserungsprozess).

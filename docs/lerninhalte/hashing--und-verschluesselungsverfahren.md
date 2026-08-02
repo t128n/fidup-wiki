@@ -2,12 +2,12 @@
 title: "Hashing-Verfahren"
 description: "Hashing-Verfahren schützen Datenintegrität durch Umwandlung von Daten in feste Hashwerte. Sie helfen Auszubildenden, sichere Methoden für digitale Signaturen und Integritätsprüfungen zu verstehen und anzuwenden."
 sources:
-  - title: "NIST Policy on Hash Functions"
-    url: "https://csrc.nist.gov/Projects/Hash-Functions/NIST-Policy-on-Hash-Functions"
-  - title: "NIST Retires SHA-1 Cryptographic Algorithm"
-    url: "https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm"
-  - title: "RFC 9155: Deprecating MD5 and SHA-1 in TLS 1.2"
-    url: "https://www.rfc-editor.org/rfc/rfc9155.html"
+    - title: "NIST Policy on Hash Functions"
+      url: "https://csrc.nist.gov/Projects/Hash-Functions/NIST-Policy-on-Hash-Functions"
+    - title: "NIST Retires SHA-1 Cryptographic Algorithm"
+      url: "https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm"
+    - title: "RFC 9155: Deprecating MD5 and SHA-1 in TLS 1.2"
+      url: "https://www.rfc-editor.org/rfc/rfc9155.html"
 ---
 
 **Hashing-Verfahren** sind Methoden zur Sicherung von Datenintegrität. Sie wandeln Daten beliebiger Größe in feste Werte um, um deren Unveränderlichkeit zu prüfen, ohne dass der Originalinhalt wiederhergestellt werden kann.

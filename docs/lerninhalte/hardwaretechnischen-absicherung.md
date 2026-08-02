@@ -2,10 +2,10 @@
 title: "Hardwaretechnische Absicherung"
 description: "Hardwaretechnische Absicherung umfasst physische Sicherheitsmaßnahmen zum Schutz von IT-Infrastruktur vor unbefugtem Zugriff, Diebstahl und Schäden. Sie beinhaltet Zutrittskontrolle, Überwachungssysteme und Notfallpläne für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "IT-Grundschutz-Kompendium des BSI - INF.2 Rechenzentrum sowie Serverraum"
-    url: "https://it-grundschutzkompendium.de/inf_infrastruktur/inf.2_rechenzentrum_sowie_serverraum"
-  - title: "Universität Kassel - Serverräume nach BSI IT-Grundschutz"
-    url: "https://www.uni-kassel.de/hochschulverwaltung/organisation/beauftragte/informationssicherheit/it-betreibende/serverraeume.html"
+    - title: "IT-Grundschutz-Kompendium des BSI - INF.2 Rechenzentrum sowie Serverraum"
+      url: "https://it-grundschutzkompendium.de/inf_infrastruktur/inf.2_rechenzentrum_sowie_serverraum"
+    - title: "Universität Kassel - Serverräume nach BSI IT-Grundschutz"
+      url: "https://www.uni-kassel.de/hochschulverwaltung/organisation/beauftragte/informationssicherheit/it-betreibende/serverraeume.html"
 ---
 
 **Hardwaretechnische Absicherung** bezeichnet Maßnahmen zur physischen Sicherheit von IT-Infrastrukturen und Gebäuden. Sie zielt darauf ab, unbefugten Zugang zu verhindern, Risiken zu minimieren und die Integrität von Hardware zu gewährleisten. Dazu gehören Zugangskontrollen, Überwachungssysteme, Barrieren und Alarmanlagen, ergänzt durch Schulungen und Notfallpläne.

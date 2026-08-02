@@ -2,12 +2,12 @@
 title: "SQL"
 description: "SQL ist eine standardisierte Abfragesprache zur Verwaltung relationaler Datenbanken. Sie ermöglicht die Definition von Tabellenstrukturen, Datentypen, Integritätsregeln sowie die Durchführung von CRUD-Operationen und komplexen Abfragen mit Joins und Aggregatfunktionen. Beispiele für Datenbanksysteme, die SQL unterstützen, sind MySQL und PostgreSQL."
 sources:
-  - title: "The SQL Standard - ISO/IEC 9075:2023 (ANSI X3.135)"
-    url: "https://blog.ansi.org/ansi/sql-standard-iso-iec-9075-2023-ansi-x3-135/"
-  - title: "SQL Standards"
-    url: "https://docs.oracle.com/en/database/oracle/oracle-database/18/sqlrf/SQL-Standards.html"
-  - title: "Primary and foreign key constraints - SQL Server"
-    url: "https://learn.microsoft.com/en-us/sql/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-ver17"
+    - title: "The SQL Standard - ISO/IEC 9075:2023 (ANSI X3.135)"
+      url: "https://blog.ansi.org/ansi/sql-standard-iso-iec-9075-2023-ansi-x3-135/"
+    - title: "SQL Standards"
+      url: "https://docs.oracle.com/en/database/oracle/oracle-database/18/sqlrf/SQL-Standards.html"
+    - title: "Primary and foreign key constraints - SQL Server"
+      url: "https://learn.microsoft.com/en-us/sql/relational-databases/tables/primary-and-foreign-key-constraints?view=sql-server-ver17"
 ---
 
 **SQL** ist eine standardisierte Abfragesprache zur Verwaltung relationaler Datenbanken. Sie basiert auf dem relationalen Modell, das Daten in Tabellen mit fester Struktur organisiert und Beziehungen zwischen diesen Tabellen durch Schlüssel herstellt. SQL unterstützt verschiedene Datentypen, Integritätsregeln sowie Operationen zur Datenmanipulation und -abfrage. Zu den gängigen Datenbanksystemen, die SQL verwenden, gehören MySQL, PostgreSQL und Oracle. Der aktuelle Standard ist ISO/IEC 9075:2023, der ursprünglich auf ANSI X3.135-1986 zurückgeht.
@@ -130,20 +130,20 @@ Berechnet Durchschnittsmenge pro Produkt, filtert Gruppen über 5.
 
 ### Vergleichsoperatoren
 
-| Operator | Bedeutung | Beispiel |
-|----------|-----------|----------|
-| = | Gleich | WHERE id = 1 |
-| <> oder != | Ungleich | WHERE status <> 'aktiv' |
-| < | Kleiner | WHERE alter < 30 |
-| > | Größer | WHERE preis > 100 |
-| <= | Kleiner oder gleich | WHERE menge <= 10 |
-| >= | Größer oder gleich | WHERE wert >= 50 |
+| Operator   | Bedeutung           | Beispiel                |
+| ---------- | ------------------- | ----------------------- |
+| =          | Gleich              | WHERE id = 1            |
+| <> oder != | Ungleich            | WHERE status <> 'aktiv' |
+| <          | Kleiner             | WHERE alter < 30        |
+| >          | Größer              | WHERE preis > 100       |
+| <=         | Kleiner oder gleich | WHERE menge <= 10       |
+| >=         | Größer oder gleich  | WHERE wert >= 50        |
 
 Logische Operatoren: AND, OR, NOT. LIKE für Muster ('A%'), BETWEEN für Bereiche, IN für Listen.
 
 ## Häufige Fehler und Tipps
 
-- **NULL in Aggregaten:** SUM, AVG, COUNT(spalte) ignorieren NULL; COUNT(*) zählt alle. Für NULL-Behandlung eignet sich COALESCE.
+- **NULL in Aggregaten:** SUM, AVG, COUNT(spalte) ignorieren NULL; COUNT(\*) zählt alle. Für NULL-Behandlung eignet sich COALESCE.
 - **Joins ohne Index:** Langsame Abfragen; Fremdschlüssel sollten indiziert werden.
 - **CASCADE mit Timestamps:** Nicht möglich; mögliche Optionen sind SET NULL oder NO ACTION.
 - **Datentyp-Fehlwahl:** Float für Geld führt zu Rundungsfehlern; für solche Fälle ist DECIMAL geeignet.
@@ -158,7 +158,7 @@ Logische Operatoren: AND, OR, NOT. LIKE für Muster ('A%'), BETWEEN für Bereich
 3. Wie werden CRUD-Operationen mit Beispielen erklärt?
 4. Wann wird referenzielle Integrität verletzt?
 5. Wie wird die Summe einer Spalte mit Bedingung berechnet?
-6. Was macht COUNT(*) im Gegensatz zu COUNT(spalte)?
+6. Was macht COUNT(\*) im Gegensatz zu COUNT(spalte)?
 
 ## Weiterführendes
 

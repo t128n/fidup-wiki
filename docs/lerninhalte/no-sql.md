@@ -2,12 +2,12 @@
 title: "NoSQL"
 description: "NoSQL-Datenbanken sind nicht-relationale Systeme, die für Skalierbarkeit und Flexibilität bei großen Datenmengen entwickelt wurden. Sie umfassen Typen wie dokumentenorientiert, spaltenorientiert, Key-Value Stores und Graph-Datenbanken mit Eventual Consistency."
 sources:
-  - title: "CAP Twelve Years Later: How the 'Rules' Have Changed"
-    url: "https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/"
-  - title: "What is NoSQL?"
-    url: "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
-  - title: "Dynamo: Amazon's Highly Available Key-value Store"
-    url: "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
+    - title: "CAP Twelve Years Later: How the 'Rules' Have Changed"
+      url: "https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/"
+    - title: "What is NoSQL?"
+      url: "https://www.mongodb.com/nosql-explained/nosql-vs-sql"
+    - title: "Dynamo: Amazon's Highly Available Key-value Store"
+      url: "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf"
 ---
 
 **NoSQL** steht für "Not Only SQL" und bezeichnet nicht-relationale Datenbanksysteme, die entwickelt wurden, um die Einschränkungen traditioneller relationaler Datenbanken zu überwinden. Sie bieten gute Skalierbarkeit und Flexibilität, insbesondere bei der Verarbeitung großer und unstrukturierter Datenmengen, und verzichten oft auf strikte Konsistenz zugunsten von Verfügbarkeit und Fehlertoleranz.
@@ -58,17 +58,17 @@ Ein Benutzerprofil könnte als JSON-Dokument gespeichert werden:
 
 ```json
 {
-  "user_id": "12345",
-  "name": "Max Mustermann",
-  "email": "max@example.com",
-  "preferences": {
-    "theme": "dark",
-    "language": "de"
-  },
-  "orders": [
-    {"order_id": "o001", "amount": 99.99},
-    {"order_id": "o002", "amount": 49.50}
-  ]
+    "user_id": "12345",
+    "name": "Max Mustermann",
+    "email": "max@example.com",
+    "preferences": {
+        "theme": "dark",
+        "language": "de"
+    },
+    "orders": [
+        { "order_id": "o001", "amount": 99.99 },
+        { "order_id": "o002", "amount": 49.5 }
+    ]
 }
 ```
 
@@ -78,10 +78,10 @@ Dies ermöglicht flexible Abfragen, z. B. nach eingebetteten Objekten wie Bestel
 
 Zeitreihe-Daten für Sensoren werden in Spaltenfamilien organisiert:
 
-| row_key | timestamp       | sensor_id | value |
-|---------|-----------------|-----------|-------|
-| s001   | 2023-01-01T10:00| s001      | 23.5  |
-| s001   | 2023-01-01T10:05| s001      | 24.0  |
+| row_key | timestamp        | sensor_id | value |
+| ------- | ---------------- | --------- | ----- |
+| s001    | 2023-01-01T10:00 | s001      | 23.5  |
+| s001    | 2023-01-01T10:05 | s001      | 24.0  |
 
 Effizient für Analysen großer Datenmengen.
 

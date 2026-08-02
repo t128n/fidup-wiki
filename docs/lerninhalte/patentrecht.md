@@ -2,12 +2,12 @@
 title: "Patentrecht"
 description: "Einführung in das Patentrecht, einschließlich Voraussetzungen für Patentierbarkeit, Antragsverfahren und Relevanz für Fachinformatiker in der Daten- und Prozessanalyse."
 sources:
-  - title: "DPMA | Schutzvoraussetzungen"
-    url: "https://www.dpma.de/patente/patentschutz/schutzvoraussetzungen/index.html"
-  - title: "DPMA | Computerimplementierte Erfindungen"
-    url: "https://www.dpma.de/patente/patentschutz/schutzvoraussetzungen/schutz_computerprogramme/index.html"
-  - title: "PatG - Patentgesetz"
-    url: "https://www.gesetze-im-internet.de/patg/BJNR201170936.html"
+    - title: "DPMA | Schutzvoraussetzungen"
+      url: "https://www.dpma.de/patente/patentschutz/schutzvoraussetzungen/index.html"
+    - title: "DPMA | Computerimplementierte Erfindungen"
+      url: "https://www.dpma.de/patente/patentschutz/schutzvoraussetzungen/schutz_computerprogramme/index.html"
+    - title: "PatG - Patentgesetz"
+      url: "https://www.gesetze-im-internet.de/patg/BJNR201170936.html"
 ---
 
 Das **Patentrecht** schützt technische Erfindungen durch ein zeitlich begrenztes Monopol für den Erfinder. Es beruht auf den Prinzipien der Neuheit, erfinderischen Tätigkeit und gewerblichen Anwendbarkeit und ist ein wichtiger Teil des geistigen Eigentums, besonders in der Fachinformatik.
@@ -47,6 +47,7 @@ Nicht alle Erfindungen sind patentfähig. Ausgeschlossen sind:
 Erfindungen, die mit einem Computer oder Computernetzwerk realisiert werden, können patentfähig sein, wenn sie ein technisches Problem mit technischen Mitteln lösen. Computerprogramme allein sind nicht patentierbar. Der Bundesgerichtshof (BGH) verwendet einen dreistufigen Prüfungsansatz: Erstens muss ein technisches Problem vorliegen, zweitens eine technische Lösung und drittens eine über den Stand der Technik hinausgehende Wirkung.
 
 ### Beispiel
+
 Ein Navigationssystem, das Verkehrsdaten verarbeitet, um Staus zu vermeiden, kann patentierbar sein, da es ein technisches Problem (Verkehrsoptimierung) mit technischen Mitteln (Algorithmen und Datenverarbeitung) löst. Eine einfache Webseitenanzeige ohne technischen Beitrag ist hingegen nicht patentfähig.
 
 ## Patentarten und alternative Schutzrechte

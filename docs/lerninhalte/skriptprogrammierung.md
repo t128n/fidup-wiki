@@ -2,17 +2,18 @@
 title: "Skriptprogrammierung"
 description: "Skriptprogrammierung umfasst die Nutzung interpretierter Programmiersprachen zur Automatisierung von Aufgaben, Webentwicklung und Datenverarbeitung. Beliebte Sprachen wie JavaScript, Python, Ruby und PHP bieten Flexibilität, erfordern aber einen geeigneten Interpreter."
 sources:
-  - title: "Skriptsprache – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Skriptsprache"
-  - title: "What is JavaScript? - MDN Web Docs"
-    url: "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript"
-  - title: "Understanding the Difference Between Compiled and Interpreted Languages - AlgoCademy"
-    url: "https://algocademy.com/blog/understanding-the-difference-between-compiled-and-interpreted-languages/"
+    - title: "Skriptsprache – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Skriptsprache"
+    - title: "What is JavaScript? - MDN Web Docs"
+      url: "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript"
+    - title: "Understanding the Difference Between Compiled and Interpreted Languages - AlgoCademy"
+      url: "https://algocademy.com/blog/understanding-the-difference-between-compiled-and-interpreted-languages/"
 ---
 
 **Skriptprogrammierung** bezeichnet die Verwendung von Skriptsprachen zur Automatisierung von Aufgaben, Webentwicklung und Datenverarbeitung. Diese Sprachen werden typischerweise interpretiert und ergänzen bestehende Systeme.
 
 ## Merkmale von Skriptsprachen
+
 Skriptsprachen haben folgende Merkmale:
 
 - **Interpretation und JIT-Kompilierung**: Der Code wird zur Laufzeit interpretiert, wobei moderne Sprachen wie JavaScript und Python Just-In-Time-Kompilierung nutzen, um die Performance zu verbessern. Dies ermöglicht eine schnellere Entwicklung ohne vorherige Kompilierung.
@@ -23,18 +24,23 @@ Skriptsprachen haben folgende Merkmale:
 ## Beliebte Skriptsprachen
 
 ### JavaScript
+
 Eine Sprache für die Webentwicklung, die dynamische Inhalte in Webseiten ermöglicht. Sie nutzt JIT-Kompilierung für Leistung und kann client-seitig im Browser (z. B. für interaktive Formulare und Animationen) oder server-seitig mit Node.js eingesetzt werden.
 
 ### Python
+
 Eine vielseitige Sprache mit Fokus auf Lesbarkeit, verwendet in Webentwicklung, Datenanalyse und Automatisierung. Mit Bibliotheken wie Pandas eignet sie sich für Datenverarbeitung und maschinelles Lernen.
 
 ### Ruby
+
 Bekannt für Einfachheit und Objektorientierung, häufig in der Webentwicklung mit dem Framework Ruby on Rails. Sie folgt der Philosophie "Convention over Configuration" und wird für E-Commerce-Plattformen genutzt.
 
 ### PHP
+
 Eine server-seitige Sprache für dynamische Webseiten, oft in Kombination mit Datenbanken wie MySQL. Sie ist die verbreitetste Skriptsprache auf Webservern und wird für Content-Management-Systeme verwendet.
 
 ## Anwendungen der Skriptprogrammierung
+
 Skriptprogrammierung findet in verschiedenen Bereichen Anwendung:
 
 - **Webentwicklung**: Client-seitige Skripte wie [JavaScript](javascript) für interaktive Elemente, server-seitige wie PHP für dynamische Seiten.
@@ -50,6 +56,7 @@ Skriptprogrammierung findet in verschiedenen Bereichen Anwendung:
 - **Ruby on Rails für E-Commerce**: Eine Anwendung verwaltet Produkte, Warenkorb und Zahlungen mit vordefinierten Strukturen.
 
 ## Vorteile der Skriptprogrammierung
+
 Die Vorteile umfassen:
 
 - **Schnelligkeit**: Schnelle Iteration und Prototypen ohne Kompilierung.
@@ -57,6 +64,7 @@ Die Vorteile umfassen:
 - **Zugänglichkeit**: Große Communities und Bibliotheken erleichtern den Einstieg.
 
 ## Herausforderungen
+
 Zu den Herausforderungen zählen:
 
 - **Leistung**: Oft langsamer als kompilierte Sprachen, besonders bei großen Anwendungen.
@@ -64,6 +72,7 @@ Zu den Herausforderungen zählen:
 - **Sicherheit**: Bei unsachgemäßer Implementierung, besonders in Webanwendungen, können Lücken wie SQL-Injection oder Cross-Site Scripting auftreten, die nicht spezifisch für Skriptsprachen sind.
 
 ## Best Practices
+
 Folgende Best Practices werden empfohlen:
 
 - **Code-Organisation**: Strukturierung des Codes in Module oder Funktionen zur Verbesserung der Lesbarkeit und Wartbarkeit.

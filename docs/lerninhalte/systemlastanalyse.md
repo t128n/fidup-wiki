@@ -2,12 +2,12 @@
 title: "Systemlastanalyse"
 description: "Die Systemlastanalyse unterstützt Auszubildende in Daten- und Prozessanalyse dabei, die Auslastung von IT-Systemressourcen wie CPU, RAM und Speicher zu überwachen, Engpässe zu erkennen und fundierte Kapazitätsplanungen durchzuführen."
 sources:
-  - title: "Aufzeichnen der ressourcenbasierten Analyse | Microsoft Learn"
-    url: "https://learn.microsoft.com/de-de/windows-hardware/test/wpt/recording-for-resource-based-analysis"
-  - title: "CPU-Monitoring mit Checkmk"
-    url: "https://checkmk.com/de/produkt/cpu-monitoring"
-  - title: "Werkzeuge zum Überwachen von Clouds und Cloud-Workloads | iX"
-    url: "https://www.heise.de/select/ix/2019/9/1908809453706059712"
+    - title: "Aufzeichnen der ressourcenbasierten Analyse | Microsoft Learn"
+      url: "https://learn.microsoft.com/de-de/windows-hardware/test/wpt/recording-for-resource-based-analysis"
+    - title: "CPU-Monitoring mit Checkmk"
+      url: "https://checkmk.com/de/produkt/cpu-monitoring"
+    - title: "Werkzeuge zum Überwachen von Clouds und Cloud-Workloads | iX"
+      url: "https://www.heise.de/select/ix/2019/9/1908809453706059712"
 ---
 
 Die **Systemlastanalyse** ist eine systematische Untersuchung der Auslastung von Ressourcen in IT-Systemen, einschließlich CPU, Arbeitsspeicher, Festplatten und Netzwerk. Sie dient der Überwachung der Leistung, der Identifikation von Engpässen und der Optimierung der Systemeffizienz, um Stabilität und Kosteneffizienz zu gewährleisten.

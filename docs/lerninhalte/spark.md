@@ -2,12 +2,12 @@
 title: "Apache Spark"
 description: "Apache Spark ist ein Open-Source-Framework für skalierbare Big-Data-Verarbeitung, das In-Memory-Computing nutzt und Komponenten für SQL, Streaming und maschinelles Lernen bietet. Es richtet sich an Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Apache Spark 4.1.0 Documentation - Overview"
-    url: "https://spark.apache.org/docs/latest/index.html"
-  - title: "What Is Apache Spark? | IBM"
-    url: "https://www.ibm.com/think/topics/apache-spark"
-  - title: "What Is a Resilient Distributed Dataset (RDD)? | IBM"
-    url: "https://www.ibm.com/think/topics/resilient-distributed-dataset"
+    - title: "Apache Spark 4.1.0 Documentation - Overview"
+      url: "https://spark.apache.org/docs/latest/index.html"
+    - title: "What Is Apache Spark? | IBM"
+      url: "https://www.ibm.com/think/topics/apache-spark"
+    - title: "What Is a Resilient Distributed Dataset (RDD)? | IBM"
+      url: "https://www.ibm.com/think/topics/resilient-distributed-dataset"
 ---
 
 **Apache Spark** ist ein Open-Source-Framework für skalierbare Big-Data-Verarbeitung. Es nutzt In-Memory-Computing zur Beschleunigung von Geschwindigkeit und bietet Komponenten für strukturierte Daten, SQL, Streaming und maschinelles Lernen.

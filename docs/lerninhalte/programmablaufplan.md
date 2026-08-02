@@ -2,12 +2,12 @@
 title: "Programmablaufplan"
 description: "Der Programmablaufplan ist ein standardisiertes Diagramm nach DIN 66001 zur visuellen Darstellung von Algorithmen und Programmabläufen. Er unterstützt Auszubildende in der Daten- und Prozessanalyse beim Verständnis, der Analyse und der Kommunikation von Prozessen und Algorithmen."
 sources:
-  - title: "Programmablaufplan – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Programmablaufplan"
-  - title: "Programmablaufplan – TU Darmstadt"
-    url: "https://www.iim.maschinenbau.tu-darmstadt.de/kursunterlagen_archiv/ikt_ws1415/03/Theorie/programmablaufplan.html"
-  - title: "Übersicht der Programmentwurfsmethoden – OER Informatik"
-    url: "https://oer-informatik.de/programmentwurfstechniken"
+    - title: "Programmablaufplan – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Programmablaufplan"
+    - title: "Programmablaufplan – TU Darmstadt"
+      url: "https://www.iim.maschinenbau.tu-darmstadt.de/kursunterlagen_archiv/ikt_ws1415/03/Theorie/programmablaufplan.html"
+    - title: "Übersicht der Programmentwurfsmethoden – OER Informatik"
+      url: "https://oer-informatik.de/programmentwurfstechniken"
 ---
 
 Der **Programmablaufplan** ist eine grafische Darstellung zur Visualisierung des zeitlichen Ablaufs von Algorithmen und Computerprogrammen. Er verwendet standardisierte Symbole nach DIN 66001, um Operationen, Entscheidungen, Ein- und Ausgaben sowie den Kontrollfluss zu zeigen. Dies erleichtert das Verständnis komplexer Abläufe, die Analyse von Problemen und die Kommunikation zwischen Fachleuten.

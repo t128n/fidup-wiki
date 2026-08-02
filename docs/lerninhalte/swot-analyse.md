@@ -2,8 +2,8 @@
 title: "SWOT-Analyse"
 description: "Die SWOT-Analyse ist ein strategisches Werkzeug zur Bewertung von Stärken, Schwächen, Chancen und Risiken, das Unternehmen und Prozesse bei der Strategieentwicklung unterstützt."
 sources:
-  - title: "SWOT-Analyse – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/SWOT-Analyse"
+    - title: "SWOT-Analyse – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/SWOT-Analyse"
 ---
 
 Die **SWOT-Analyse** ist ein Instrument der strategischen Planung zur Bewertung interner und externer Faktoren von Organisationen oder Prozessen. Sie kombiniert Stärken und Schwächen mit Chancen und Risiken, um eine Positionsbestimmung zu ermöglichen und Strategien zu entwickeln. Die Methode dient zur Identifikation von Wettbewerbsvorteilen und zur Ableitung gezielter Maßnahmen. Sie findet Anwendung in Bereichen wie Unternehmensstrategie, Personalentwicklung und Prozessanalyse.
@@ -49,14 +49,14 @@ Die Durchführung folgt einem strukturierten Prozess:
 
 ### Worked Example: SWOT-Analyse eines Datenanalyse-Prozesses
 
-| Stärken | Schwächen |
-|---------|-----------|
-| Hohe Datenqualität | Hoher manueller Aufwand |
+| Stärken             | Schwächen                         |
+| ------------------- | --------------------------------- |
+| Hohe Datenqualität  | Hoher manueller Aufwand           |
 | Erfahrene Analysten | Abhängigkeit von wenigen Experten |
 
-| Chancen | Risiken |
-|---------|---------|
-| Neue Analyse-Tools | Technologischer Rückstand |
+| Chancen                       | Risiken                   |
+| ----------------------------- | ------------------------- |
+| Neue Analyse-Tools            | Technologischer Rückstand |
 | Marktwachstum in Datenanalyse | Regulatorische Änderungen |
 
 **Abgeleitete Strategien:**

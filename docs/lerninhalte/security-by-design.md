@@ -2,10 +2,10 @@
 title: "Security by Design"
 description: "Security by Design beschreibt einen Ansatz zur Integration von Sicherheitsaspekten in die Softwareentwicklung von Beginn an. Dieser Artikel hilft Auszubildenden in Daten- und Prozessanalyse, die Prinzipien, Methoden und praktischen Anwendungen für die Entwicklung sicherer Systeme zu verstehen."
 sources:
-  - title: "OWASP Secure Coding Practices"
-    url: "https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/"
-  - title: "NIST Cybersecurity Framework"
-    url: "https://www.nist.gov/cyberframework"
+    - title: "OWASP Secure Coding Practices"
+      url: "https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/"
+    - title: "NIST Cybersecurity Framework"
+      url: "https://www.nist.gov/cyberframework"
 ---
 
 Der **Security by Design**-Ansatz integriert Sicherheitsüberlegungen von Beginn an in den Entwicklungsprozess von Software und Systemen, um Risiken zu minimieren und die Gesamtsicherheit zu erhöhen.
@@ -17,9 +17,11 @@ Der **Security by Design**-Ansatz integriert Sicherheitsüberlegungen von Beginn
 - Er behandelt Vorteile, Herausforderungen und regulatorische Aspekte im Kontext von Daten- und Prozessanalyse.
 
 ## Kurzüberblick
+
 Security by Design bezeichnet einen proaktiven Ansatz, bei dem Sicherheitsaspekte als fundamentale Anforderung in Architektur, Design und Implementierung einfließen. Im Gegensatz zu reaktiven Ansätzen, die Sicherheit nachträglich hinzufügen, zielt dieser Ansatz darauf ab, Schwachstellen durch frühzeitige Maßnahmen zu verhindern. Er ergänzt Konzepte wie [Redundante Systeme](redundante-systeme) und trägt zur Compliance mit Standards wie ISO 27001 bei.
 
 ## Grundprinzipien
+
 Security by Design basiert auf mehreren Kernprinzipien, die den Entwicklungsprozess leiten:
 
 1. **Frühe Integration**: Sicherheitsüberlegungen beginnen in der Planungs- und Entwurfsphase.
@@ -30,12 +32,15 @@ Security by Design basiert auf mehreren Kernprinzipien, die den Entwicklungsproz
 6. **Transparenz und Überprüfbarkeit**: Sicherheitsmaßnahmen sind nachvollziehbar und testbar.
 
 ## Methoden und Werkzeuge
+
 Zur praktischen Umsetzung dienen verschiedene Methoden und Werkzeuge.
 
 ### Threat Modeling
+
 Bedrohungsmodellierung identifiziert potenzielle Risiken frühzeitig. Methoden wie STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege) oder PASTA analysieren Systeme systematisch.
 
 ### Secure Development Lifecycle
+
 Dieser Lebenszyklus integriert Sicherheit in jede Phase:
 
 - Anforderungsanalyse: Definition sicherer Anforderungen.
@@ -45,6 +50,7 @@ Dieser Lebenszyklus integriert Sicherheit in jede Phase:
 - Deployment und Wartung: Sichere Bereitstellung und kontinuierliche Überwachung.
 
 ### Sichere Programmierpraktiken
+
 Praktiken umfassen Authentifizierung, Autorisierung, Session-Management und Verschlüsselung, um häufige Probleme wie SQL-Injection oder XSS zu vermeiden.
 
 ## Vorteile
@@ -62,11 +68,13 @@ Praktiken umfassen Authentifizierung, Autorisierung, Session-Management und Vers
 - Möglicher Widerstand gegen Veränderungen und Balance zwischen Sicherheit und Benutzerfreundlichkeit.
 
 ## Beispiele
+
 Ein Beispiel ist die Entwicklung einer Webanwendung mit Authentifizierung. Durch Threat Modeling werden Risiken wie schwache Passwörter identifiziert. Das Design implementiert Multi-Faktor-Authentifizierung und Least Privilege, während Tests mit DAST Schwachstellen aufdecken.
 
 Ein weiteres Beispiel betrifft API-Sicherheit: Hier minimiert Rate Limiting die Angriffsfläche, und Fail-safe Defaults verhindern unsichere Konfigurationen.
 
 ## Häufige Fehler und Tipps
+
 Ein häufiger Fehler besteht darin, Sicherheitsaspekte erst am Ende des Entwicklungsprozesses zu berücksichtigen. Stattdessen sollten sie früh integriert werden, um teure Nachbesserungen zu vermeiden. Bei Unsicherheiten empfiehlt sich die Konsultation von Standards wie OWASP.
 
 ## Selbsttest
@@ -76,4 +84,5 @@ Ein häufiger Fehler besteht darin, Sicherheitsaspekte erst am Ende des Entwickl
 3. Threat Modeling trägt zur Sicherheit bei, indem es potenzielle Risiken frühzeitig identifiziert und systematische Methoden wie STRIDE zur Analyse anwendet.
 
 ## Weiterführendes
+
 Weitere Konzepte umfassen [Webserver](webserver)-Sicherheit und DevSecOps für kontinuierliche Integration. Für regulatorische Details siehe NIST-Framework.

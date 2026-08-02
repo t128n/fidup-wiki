@@ -2,12 +2,12 @@
 title: "Self-Monitoring, Analysis and Reporting Technology"
 description: "Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.) überwacht den Zustand von Festplatten und prognostiziert potenzielle Ausfälle. Diese Technologie nutzt Sensoren zur Messung von Parametern wie Lesefehlerrate und Temperatur, um frühzeitig auf Probleme hinzuweisen und die Datenintegrität zu sichern."
 sources:
-  - title: "Self-Monitoring, Analysis and Reporting Technology – Wikipedia"
-    url: "https://en.wikipedia.org/wiki/S.M.A.R.T."
-  - title: "Hard Drive Reliability Stats - Backblaze"
-    url: "https://www.backblaze.com/blog/hard-drive-reliability-stats/"
-  - title: "Failure Trends in a Large Disk Drive Population - Google Research"
-    url: "https://static.googleusercontent.com/media/research.google.com/en//archive/disk_failures.pdf"
+    - title: "Self-Monitoring, Analysis and Reporting Technology – Wikipedia"
+      url: "https://en.wikipedia.org/wiki/S.M.A.R.T."
+    - title: "Hard Drive Reliability Stats - Backblaze"
+      url: "https://www.backblaze.com/blog/hard-drive-reliability-stats/"
+    - title: "Failure Trends in a Large Disk Drive Population - Google Research"
+      url: "https://static.googleusercontent.com/media/research.google.com/en//archive/disk_failures.pdf"
 ---
 
 **Self-Monitoring, Analysis and Reporting Technology** (S.M.A.R.T.) bezeichnet ein eingebautes Überwachungssystem in Festplatten. Es erfasst Betriebsparameter, um potenzielle Ausfälle frühzeitig zu erkennen und zu melden. Die Technologie basiert auf Sensoren in der Festplatte. Sie ermöglicht eine kontinuierliche Bewertung des Hardwarezustands und gibt Warnungen aus, wenn Schwellenwerte überschritten werden.

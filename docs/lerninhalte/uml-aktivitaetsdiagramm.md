@@ -2,20 +2,22 @@
 title: "UML-Aktivitätsdiagramm"
 description: "Das UML-Aktivitätsdiagramm ist ein Verhaltensdiagramm der Unified Modeling Language zur grafischen Darstellung von Aktivitätsabläufen in Systemen, Geschäftsprozessen und Algorithmen."
 sources:
-  - title: "Aktivitätsdiagramm – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Aktivitätsdiagramm"
-  - title: "UML Activity Diagrams – uml-diagrams.org"
-    url: "https://www.uml-diagrams.org/activity-diagrams.html"
-  - title: "Workflows und Algorithmen mit dem UML Aktivitätsdiagramm entwerfen/dokumentieren – OER Informatik"
-    url: "https://oer-informatik.de/uml-aktivitaetsdiagramm"
+    - title: "Aktivitätsdiagramm – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Aktivitätsdiagramm"
+    - title: "UML Activity Diagrams – uml-diagrams.org"
+      url: "https://www.uml-diagrams.org/activity-diagrams.html"
+    - title: "Workflows und Algorithmen mit dem UML Aktivitätsdiagramm entwerfen/dokumentieren – OER Informatik"
+      url: "https://oer-informatik.de/uml-aktivitaetsdiagramm"
 ---
 
 Das **UML-Aktivitätsdiagramm** ist ein Verhaltensdiagramm der [Unified Modeling Language](uml), das den Ablauf von Aktivitäten in einem System grafisch darstellt. Es dient zur Modellierung von Anwendungsfällen, Geschäftsprozessen und Algorithmen, wobei es parallele Abläufe, Verzweigungen und Synchronisation unterstützt.
 
 ## Kurzüberblick
+
 Das UML-Aktivitätsdiagramm visualisiert den Fluss von Aktivitäten in einem System. Es baut auf dem Token-Modell auf: Ein Token wird am Startknoten erzeugt und fließt entlang der Kanten, wobei es sich bei Entscheidungen verzweigt oder bei Parallelisierungen vervielfacht. Im Vergleich zu einfachen Flussdiagrammen ermöglicht es Objektflüsse, Signal-Kommunikation und Exception-Handling. Es ist besonders nützlich für die Modellierung komplexer Abläufe mit Bedingungen und Parallelität.
 
 ## Kontext und Einordnung
+
 Das UML-Aktivitätsdiagramm entstand als objektorientierte Weiterentwicklung des klassischen Programmablaufplans. Es gehört zu den Verhaltensdiagrammen der [UML](uml) und konzentriert sich auf den Ablauf von Aktivitäten, im Gegensatz zum [Sequenzdiagramm](sequenzdiagramm), das den Nachrichtenaustausch zwischen Objekten zeigt. In UML 2.x wurden wesentliche Erweiterungen wie Pins, Parameter und eine präzisere Semantik eingeführt, während UML 1.x einfacher gehalten war. Es findet Anwendung in der Softwareentwicklung, Geschäftsprozessmodellierung und Algorithmus-Visualisierung.
 
 ## Begriffe und Definitionen
@@ -39,6 +41,7 @@ Das UML-Aktivitätsdiagramm entstand als objektorientierte Weiterentwicklung des
 - **Exception-Handling**: Konstrukte für abnormale Verläufe, oft mit Blitz-Symbol, zur Modellierung von Fehlerfällen.
 
 ## Vorgehen
+
 Ein mögliches Vorgehen zur Erstellung eines UML-Aktivitätsdiagramms umfasst folgende Schritte:
 
 1. Definition des Zwecks: Bestimmung, ob es um einen Geschäftsprozess, Algorithmus oder Anwendungsfall geht.
@@ -51,13 +54,17 @@ Ein mögliches Vorgehen zur Erstellung eines UML-Aktivitätsdiagramms umfasst fo
 8. Prüfung auf Vollständigkeit: Sicherstellung, dass alle Pfade zu einem Endknoten führen und das Token-Modell beachtet wird.
 
 ## Beispiele
+
 ### Beispiel 1: Einfacher Bestellprozess
+
 Eine Aktivität beginnt am Startknoten mit der Aktion "Bestellung empfangen". Ein Entscheidungsknoten prüft [Bestand verfügbar?]. Bei [ja] folgt "Ware versenden" und dann der Endknoten. Bei [nein] folgt "Ablehnen" und Endknoten. Hier fließt ein Token sequenziell, mit einer Verzweigung.
 
 ### Beispiel 2: Algorithmus mit Schleife
+
 Für einen einfachen Suchalgorithmus: Startknoten → Aktion "Index initialisieren" → Entscheidung [Index < Länge?] → [ja]: "Element vergleichen" → Entscheidung [gefunden?] → [ja]: Endknoten; [nein]: "Index erhöhen" → zurück zur ersten Entscheidung. Bei [nein] zur ersten Entscheidung: Endknoten. Dies zeigt Wiederholungen durch Guards.
 
 ### Beispiel 3: Prozess mit Swimlanes
+
 In einem Bestellprozess: Swimlane "Kunde": "Bestellung aufgeben". Swimlane "Lager": "Prüfen" → Entscheidung. Swimlane "Versand": "Versenden". Swimlanes trennen die Rollen visuell.
 
 ## Häufige Fehler und Tipps
@@ -71,6 +78,7 @@ In einem Bestellprozess: Swimlane "Kunde": "Bestellung aufgeben". Swimlane "Lage
 - Exception-Handling sollte nicht vergessen werden: Fehlerfälle werden frühzeitig modelliert für robuste Systeme.
 
 ## Weiterführendes
+
 Für tiefergehende Modellierung wird die OMG-UML-Spezifikation empfohlen. Tools wie PlantUML oder Draw.io unterstützen die Erstellung. Vergleiche mit anderen Diagrammen wie dem Zustandsdiagramm bieten ergänzende Perspektiven.
 
 ## Einzelnachweise

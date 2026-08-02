@@ -2,12 +2,12 @@
 title: "Open Data"
 description: "Open Data sind Daten, die ohne Einschränkungen genutzt, weiterverbreitet und weiterverwendet werden dürfen. Sie fördern Transparenz, Innovation und Forschung und finden Anwendung in Bereichen wie Verwaltung, Wissenschaft und Wirtschaft."
 sources:
-  - title: "GovData - Das Datenportal für Deutschland"
-    url: "https://www.govdata.de"
-  - title: "opendata.swiss verstehen — Handbuch Opendata.swiss"
-    url: "https://handbook.opendata.swiss/de/content/vorbereiten/erstpublizierende/opendata-swiss-verstehen.html"
-  - title: "Openness Rating | Open Government - Government of Canada"
-    url: "https://open.canada.ca/en/openness-rating"
+    - title: "GovData - Das Datenportal für Deutschland"
+      url: "https://www.govdata.de"
+    - title: "opendata.swiss verstehen — Handbuch Opendata.swiss"
+      url: "https://handbook.opendata.swiss/de/content/vorbereiten/erstpublizierende/opendata-swiss-verstehen.html"
+    - title: "Openness Rating | Open Government - Government of Canada"
+      url: "https://open.canada.ca/en/openness-rating"
 ---
 
 **Open Data** sind Daten, die ohne Einschränkungen genutzt, weiterverbreitet und weiterverwendet werden dürfen. Einschränkungen sind nur zur Sicherung von Ursprung und Offenheit erlaubt, beispielsweise durch die Nennung des Urhebers. Diese Daten fördern Transparenz und Innovation und unterliegen freien Lizenzen. Sie finden Anwendung in Bereichen wie Verwaltung, Wissenschaft und Wirtschaft.
@@ -33,12 +33,15 @@ Open Data ist Teil der Wissensallmende und steht in Verbindung mit Themen wie [D
 ## Begriffe und Definitionen
 
 ### Open Data
+
 Daten, die ohne Einschränkungen genutzt, weiterverbreitet und weiterverwendet werden dürfen. Einschränkungen sind nur zur Sicherung von Ursprung und Offenheit zulässig, beispielsweise durch die Nennung des Urhebers.
 
 ### Open Government Data (OGD)
+
 Eine Teilmenge von Open Data, die spezifisch Daten aus öffentlichen Verwaltungen umfasst. Diese werden proaktiv und kostenfrei zur Verfügung gestellt, um Transparenz und Bürgerbeteiligung zu fördern.
 
 ### Metadatenkatalog
+
 Eine Plattform, die Metadaten zu Datensätzen sammelt und bereitstellt, ohne die Daten selbst zu hosten. Beispiele sind GovData.de und opendata.swiss.
 
 ## Vorgehen

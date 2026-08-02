@@ -2,12 +2,12 @@
 title: "Überwachtes und nicht-überwachtes Lernen"
 description: "Überwachtes Lernen verwendet gekennzeichnete Daten für Vorhersagen, während unüberwachtes Lernen Muster in unbeschrifteten Daten erkennt. Dieser Leitfaden erklärt die Unterschiede, Methoden und Anwendungen für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Supervised Learning"
-    url: "https://www.ibm.com/de-de/topics/supervised-learning"
-  - title: "Unsupervised Learning"
-    url: "https://www.ibm.com/de-de/think/topics/unsupervised-learning"
-  - title: "Supervised Learning"
-    url: "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=de"
+    - title: "Supervised Learning"
+      url: "https://www.ibm.com/de-de/topics/supervised-learning"
+    - title: "Unsupervised Learning"
+      url: "https://www.ibm.com/de-de/think/topics/unsupervised-learning"
+    - title: "Supervised Learning"
+      url: "https://developers.google.com/machine-learning/intro-to-ml/supervised?hl=de"
 ---
 
 **Überwachtes und nicht-überwachtes Lernen** sind zwei grundlegende Paradigmen im [maschinellen Lernen](maschinelles-lernen). **Überwachtes Lernen** verwendet gekennzeichnete Daten zum Trainieren von Modellen für Vorhersagen. **Nicht-überwachtes Lernen** erkennt Muster in unbeschrifteten Daten ohne Labels.

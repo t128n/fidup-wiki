@@ -2,8 +2,8 @@
 title: "Ist-Analyse"
 description: "Die Ist-Analyse erfasst und bewertet systematisch den aktuellen Zustand eines Unternehmens oder Prozesses, um Schwachstellen und Optimierungspotenziale zu identifizieren. Sie nutzt Methoden wie Interviews, Beobachtung und Analysen in Bereichen wie Aufgaben, Prozesse und Personal."
 sources:
-  - title: "Ist-Aufnahme – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Ist-Aufnahme"
+    - title: "Ist-Aufnahme – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Ist-Aufnahme"
 ---
 
 Die **Ist-Analyse** umfasst die systematische Erfassung und Bewertung des aktuellen Zustands eines Unternehmens, Prozesses oder Projekts. Sie bildet die Grundlage zur Identifikation von Schwachstellen und zur Entwicklung von Optimierungsmöglichkeiten, die in einer Soll-Konzeption führen. Dabei werden verschiedene Bereiche wie Aufgaben, Prozesse, Bearbeitungszeiten und organisatorische Strukturen untersucht.

@@ -2,12 +2,12 @@
 title: "Abhängige und unabhängige Daten"
 description: "Klare Unterscheidung zwischen abhängigen und unabhängigen Daten und warum sie die Auswahl von Methoden in der Statistik beeinflusst."
 sources:
-  - title: "Abhängige und unabhängige Variable"
-    url: "https://de.wikipedia.org/wiki/Abh%C3%A4ngige_und_unabh%C3%A4ngige_Variable"
-  - title: "Abhängige vs. unabhängige Variablen | Definition & Beispiele"
-    url: "https://www.scribbr.de/methodik/abhaengige-und-unabhaengige-variable/"
-  - title: "Wodurch unterscheiden sich abhängige und unabhängige Stichproben?"
-    url: "https://support.minitab.com/de-de/minitab/help-and-how-to/statistics/equivalence-tests/supporting-topics/how-are-dependent-and-independent-samples-different/"
+    - title: "Abhängige und unabhängige Variable"
+      url: "https://de.wikipedia.org/wiki/Abh%C3%A4ngige_und_unabh%C3%A4ngige_Variable"
+    - title: "Abhängige vs. unabhängige Variablen | Definition & Beispiele"
+      url: "https://www.scribbr.de/methodik/abhaengige-und-unabhaengige-variable/"
+    - title: "Wodurch unterscheiden sich abhängige und unabhängige Stichproben?"
+      url: "https://support.minitab.com/de-de/minitab/help-and-how-to/statistics/equivalence-tests/supporting-topics/how-are-dependent-and-independent-samples-different/"
 ---
 
 Die Unterscheidung zwischen abhängigen und unabhängigen Daten ist ein Grundbegriff der [Statistik](statistik) und wichtig für viele Aufgaben der [Datenanalyse](datenanalyse). Unabhängige Daten stehen nicht in einem festen Zusammenhang, abhängige Daten sind miteinander verknüpft. Diese Einordnung entscheidet, welche Methoden sinnvoll sind und wie Ergebnisse interpretiert werden.
@@ -30,6 +30,7 @@ Nach diesem Artikel sind folgende Punkte klar:
 ## Begriffe und Grundidee
 
 ### Unabhängige Daten
+
 Unabhängige Daten stammen aus Messungen, die sich gegenseitig nicht beeinflussen. Typisch sind zwei getrennte Gruppen oder Messungen an unterschiedlichen Objekten.
 
 **Beispiele:**
@@ -39,6 +40,7 @@ Unabhängige Daten stammen aus Messungen, die sich gegenseitig nicht beeinflusse
 - Zufriedenheit von Kundengruppen aus zwei Regionen
 
 ### Abhängige Daten
+
 Abhängige Daten entstehen, wenn Messwerte miteinander verbunden sind. Das passiert oft bei Messungen an denselben Personen oder Objekten zu mehreren Zeitpunkten.
 
 **Beispiele:**

@@ -2,12 +2,12 @@
 title: "Schwachstellenanalyse"
 description: "Die Schwachstellenanalyse ist ein systematischer Prozess zur Identifikation und Bewertung von Sicherheitslücken in IT-Systemen, Anwendungen und Netzwerken. Sie hilft Auszubildenden in Daten- und Prozessanalyse, die Grundlagen der IT-Sicherheit zu verstehen und Risiken proaktiv zu minimieren."
 sources:
-  - title: "BSI-Einstiegshilfe für die Schwachstellenanalyse von Verwaltungsportalen"
-    url: "https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/Einstiegshilfe-Schwachstellenanalyse-Webportale.html"
-  - title: "NIST SP 800-115: Technical Guide to Information Security Testing and Assessment"
-    url: "https://csrc.nist.gov/pubs/sp/800/115/final"
-  - title: "OWASP Web Security Testing Guide - Penetration Testing Methodologies"
-    url: "https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies"
+    - title: "BSI-Einstiegshilfe für die Schwachstellenanalyse von Verwaltungsportalen"
+      url: "https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/Einstiegshilfe-Schwachstellenanalyse-Webportale.html"
+    - title: "NIST SP 800-115: Technical Guide to Information Security Testing and Assessment"
+      url: "https://csrc.nist.gov/pubs/sp/800/115/final"
+    - title: "OWASP Web Security Testing Guide - Penetration Testing Methodologies"
+      url: "https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies"
 ---
 
 Die **Schwachstellenanalyse** ist ein systematischer Prozess zur Identifikation und Bewertung von Sicherheitslücken in IT-Systemen, Anwendungen und Netzwerken. Ihr Ziel besteht darin, potenzielle Schwachstellen frühzeitig zu erkennen und zu beheben, bevor Angreifer sie ausnutzen können, um die Informationssicherheit zu stärken.

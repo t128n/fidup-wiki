@@ -2,12 +2,12 @@
 title: "Switching"
 description: "Switching erklärt den Prozess der Datenweiterleitung auf Ebene 2 des OSI-Modells, bei dem Ethernet-Frames basierend auf MAC-Adressen weitergeleitet werden."
 sources:
-  - title: "Switching - Elektronik-Kompendium"
-    url: "https://www.elektronik-kompendium.de/sites/net/0907141.htm"
-  - title: "Switch (Netzwerktechnik) – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Switch_(Netzwerktechnik)"
-  - title: "Eine Einführung in das Layer 2 Switching – BlueOptics"
-    url: "https://www.blueoptics.de/eine-einfuehrung-in-das-layer-2-switching"
+    - title: "Switching - Elektronik-Kompendium"
+      url: "https://www.elektronik-kompendium.de/sites/net/0907141.htm"
+    - title: "Switch (Netzwerktechnik) – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Switch_(Netzwerktechnik)"
+    - title: "Eine Einführung in das Layer 2 Switching – BlueOptics"
+      url: "https://www.blueoptics.de/eine-einfuehrung-in-das-layer-2-switching"
 ---
 
 **Switching** bezeichnet den Prozess auf Ebene 2 des [OSI-Modells](osi-modell), bei dem Ethernet-Frames basierend auf MAC-Adressen analysiert und weitergeleitet werden. Frames werden von einem eingehenden Port empfangen, die Ziel-MAC-Adresse wird überprüft und das Frame an den passenden Ausgangsport gesendet. Dies ermöglicht eine effiziente Datenübertragung in lokalen Netzwerken ohne unnötige Broadcasts.
@@ -33,8 +33,8 @@ Der Switching-Prozess umfasst folgende Schritte:
 2. **Analyse der Adressen**: Der Switch extrahiert die Quell-MAC-Adresse (für MAC-Learning) und die Ziel-MAC-Adresse.
 3. **Lookup in der FDB**: Die Ziel-MAC-Adresse wird in der Forwarding Database gesucht.
 4. **Weiterleitung oder Flooding**:
-   - Ist die Adresse bekannt, wird das Frame an den zugehörigen Port gesendet (Unicast).
-   - Ist sie unbekannt, wird es an alle Ports außer dem Quellport geflutet (Broadcast).
+    - Ist die Adresse bekannt, wird das Frame an den zugehörigen Port gesendet (Unicast).
+    - Ist sie unbekannt, wird es an alle Ports außer dem Quellport geflutet (Broadcast).
 5. **Aktualisierung der FDB**: Die Quell-MAC-Adresse wird mit dem Empfangsport eingetragen oder aktualisiert.
 
 ## Beispiele

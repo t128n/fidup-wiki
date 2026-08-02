@@ -2,12 +2,12 @@
 title: "Nutzungs- und Finanzierungsmodelle"
 description: "Übersicht über Nutzungs- und Finanzierungsmodelle wie Kauf, Leasing und Miete, ihre Merkmale, Vor- und Nachteile sowie rechtliche Grundlagen für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Kaufvertrag • Definition"
-    url: "https://wirtschaftslexikon.gabler.de/definition/kaufvertrag-41898"
-  - title: "Leasing • Definition"
-    url: "https://wirtschaftslexikon.gabler.de/definition/leasing-40697"
-  - title: "Miete • Definition"
-    url: "https://wirtschaftslexikon.gabler.de/definition/miete-40560"
+    - title: "Kaufvertrag • Definition"
+      url: "https://wirtschaftslexikon.gabler.de/definition/kaufvertrag-41898"
+    - title: "Leasing • Definition"
+      url: "https://wirtschaftslexikon.gabler.de/definition/leasing-40697"
+    - title: "Miete • Definition"
+      url: "https://wirtschaftslexikon.gabler.de/definition/miete-40560"
 ---
 
 **Nutzungs- und Finanzierungsmodelle** beschreiben verschiedene Ansätze zur Nutzung von Gütern oder Dienstleistungen. Diese unterscheiden sich hinsichtlich Eigentum, Kostenstruktur und Flexibilität. Gängige Modelle sind der Kauf, bei dem Eigentum erworben wird, das Leasing mit zeitlich begrenzter Nutzung und regelmäßigen Zahlungen sowie die Miete für flexible, kurzfristige Nutzung ohne Eigentumserwerb. Jedes Modell hat spezifische Vor- und Nachteile, die je nach Bedarf und Kontext zu berücksichtigen sind.

@@ -2,10 +2,10 @@
 title: "SDCA-Zyklus"
 description: "Der SDCA-Zyklus ist ein Modell für kontinuierliche Verbesserung, ähnlich dem PDCA-Zyklus. Er umfasst die Schritte Standardize (Lösung standardisieren), Do (testen), Check (überprüfen) und Act (umsetzen)."
 sources:
-  - title: "Lean Prinzip - SDCA-Zyklus"
-    url: "https://www.leanprinzip.de/woerterbuch/sdcazyklus"
-  - title: "Quality-Wissen - Standardisierung"
-    url: "https://www.quality-wissen.de/standardisierung"
+    - title: "Lean Prinzip - SDCA-Zyklus"
+      url: "https://www.leanprinzip.de/woerterbuch/sdcazyklus"
+    - title: "Quality-Wissen - Standardisierung"
+      url: "https://www.quality-wissen.de/standardisierung"
 ---
 
 **SDCA-Zyklus** ist ein Modell für kontinuierliche Verbesserung, ähnlich dem [PDCA-Zyklus](pdca). Er umfasst die Schritte Standardize (Lösung standardisieren), Do (testen), Check (überprüfen) und Act (umsetzen).
@@ -33,6 +33,7 @@ Der SDCA-Zyklus entstammt dem [Lean Management](lean-management) und ist mit dem
 Der SDCA-Zyklus besteht aus vier Schritten, die iterativ durchlaufen werden:
 
 ### 1. Standardize
+
 Die Lösung verstehen und in einen klaren, nachvollziehbaren Standard überführen. Dies umfasst:
 
 - Prozessbeschreibung mit klaren Schritten.
@@ -41,6 +42,7 @@ Die Lösung verstehen und in einen klaren, nachvollziehbaren Standard überführ
 - Erstellung von Arbeitsanweisungen und Dokumentationen.
 
 ### 2. Do
+
 Testen des Standards mit schnellen und einfachen Mitteln. Wichtig hierbei:
 
 - Kleiner, kontrollierter Testlauf (Pilot).
@@ -49,6 +51,7 @@ Testen des Standards mit schnellen und einfachen Mitteln. Wichtig hierbei:
 - Validierung der Praktikabilität.
 
 ### 3. Check
+
 Das Resultat mit der Erwartung überprüfen und bewerten:
 
 - Vergleich der Ergebnisse mit den definierten Kriterien.
@@ -57,6 +60,7 @@ Das Resultat mit der Erwartung überprüfen und bewerten:
 - Bewertung der Prozessstabilität.
 
 ### 4. Act
+
 Die Umsetzung freigeben oder an der Standardisierung weiterarbeiten:
 
 - Bei Erfolg: Freigabe des Standards für die breite Anwendung.

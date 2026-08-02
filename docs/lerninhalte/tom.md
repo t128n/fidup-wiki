@@ -2,12 +2,12 @@
 title: "TOM (Technische und Organisatorische Maßnahmen)"
 description: "Technische und Organisatorische Maßnahmen (TOM) sind Sicherheitsvorkehrungen zur Gewährleistung der Datensicherheit und zur Erfüllung datenschutzrechtlicher Anforderungen gemäß Art. 32 DSGVO. Sie kombinieren technische Aspekte wie Zugriffskontrollen mit organisatorischen Maßnahmen wie Schulungen, um ein risikoadäquates Schutzniveau für personenbezogene Daten zu erreichen."
 sources:
-  - title: "Art. 32 DSGVO – Sicherheit der Verarbeitung"
-    url: "https://dsgvo-gesetz.de/art-32-dsgvo/"
-  - title: "Das Standard-Datenschutzmodell (SDM)"
-    url: "https://www.bfdi.bund.de/DE/Fachthemen/Inhalte/Technik/SDM.html"
-  - title: "IT-Grundschutz"
-    url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html"
+    - title: "Art. 32 DSGVO – Sicherheit der Verarbeitung"
+      url: "https://dsgvo-gesetz.de/art-32-dsgvo/"
+    - title: "Das Standard-Datenschutzmodell (SDM)"
+      url: "https://www.bfdi.bund.de/DE/Fachthemen/Inhalte/Technik/SDM.html"
+    - title: "IT-Grundschutz"
+      url: "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html"
 ---
 
 Der **TOM**-Begriff umfasst Sicherheitsmaßnahmen, die technische und organisatorische Ansätze verbinden, um personenbezogene Daten zu schützen und datenschutzrechtliche Vorgaben zu erfüllen. Diese Maßnahmen zielen darauf ab, Risiken bei der Datenverarbeitung zu minimieren und ein angemessenes Schutzniveau sicherzustellen, wie es die Datenschutz-Grundverordnung fordert.

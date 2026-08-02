@@ -2,10 +2,10 @@
 title: "Automatisierung wiederkehrender Systemabläufe mit Skripten"
 description: "Skripte automatisieren wiederkehrende Systemabläufe und überwachen diese, um die Effizienz in Daten- und Prozessanalyse zu steigern. Beispiele mit Bash, Python und PowerShell für Auszubildende."
 sources:
-  - title: "Logging HOWTO — Python 3.14.2 documentation"
-    url: "https://docs.python.org/3/howto/logging.html"
-  - title: "Everything you wanted to know about exceptions - PowerShell"
-    url: "https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-exceptions?view=powershell-7.5"
+    - title: "Logging HOWTO — Python 3.14.2 documentation"
+      url: "https://docs.python.org/3/howto/logging.html"
+    - title: "Everything you wanted to know about exceptions - PowerShell"
+      url: "https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-exceptions?view=powershell-7.5"
 ---
 
 Die **Automatisierung wiederkehrender Systemabläufe mit Skripten** zielt darauf ab, Routineaufgaben in IT-Systemen effizient zu gestalten und menschliche Fehler zu reduzieren. Sie ermöglicht die Ausführung von Aufgaben wie Datensicherungen oder Systemupdates ohne manuelle Eingriffe. Skriptsprachen wie [Bash](bash), [Python](python) und [PowerShell](powershell) bilden die Grundlage, ergänzt durch Konzepte wie Parameterübergabe, Fehlerbehandlung und Überwachung mittels Logging und Monitoring-Tools.
@@ -18,9 +18,11 @@ Die **Automatisierung wiederkehrender Systemabläufe mit Skripten** zielt darauf
 - Kenntnis von Methoden zur Überwachung automatisierter Abläufe durch Logging und Tools.
 
 ## Kurzüberblick
+
 Skripte automatisieren wiederkehrende Abläufe, indem sie Befehlsfolgen programmieren. Sie sparen Zeit, erhöhen die Zuverlässigkeit und erlauben die Integration von Überwachungsmechanismen. Typische Anwendungen umfassen Systemwartung, Datenverarbeitung und Prozesssteuerung in der Daten- und Prozessanalyse.
 
 ## Kontext und Einordnung
+
 In der Daten- und Prozessanalyse treten häufig wiederkehrende Aufgaben auf, die manuell zeitaufwendig und fehleranfällig sind. Die Automatisierung mit Skripten entlastet Fachkräfte und ermöglicht eine kontinuierliche Überwachung. Sie findet Anwendung in Bereichen wie Backup-Prozessen, Ressourcen-Monitoring und Batch-Verarbeitungen von Daten.
 
 ## Begriffe und Definitionen
@@ -32,6 +34,7 @@ In der Daten- und Prozessanalyse treten häufig wiederkehrende Aufgaben auf, die
 - **Monitoring**: Kontinuierliche Überwachung von Systemen und Prozessen, oft mit Tools wie Nagios oder Zabbix.
 
 ## Vorgehen
+
 Die Automatisierung erfolgt in folgenden Schritten:
 
 1. Auswahl einer Skriptsprache basierend auf der Systemumgebung, z.B. Bash für Unix/Linux oder PowerShell für Windows.
@@ -43,6 +46,7 @@ Die Automatisierung erfolgt in folgenden Schritten:
 7. Test des Skripts in einer sicheren Umgebung und Einsatz in Produktion.
 
 ## Beispiele
+
 Ein einfaches Bash-Skript für eine Datensicherung:
 
 ```bash
@@ -76,6 +80,7 @@ check_disk_space('/')
 Dieses Skript überprüft den freien Speicherplatz und protokolliert die Ergebnisse. Bei wenig Platz erfolgt eine Warnung.
 
 ## Häufige Fehler und Tipps
+
 Häufiger Fehler: Fehlende Fehlerbehandlung führt zu Abbrüchen ohne Rückmeldung. Stattdessen werden Try-Catch-Blöcke integriert, um Ausnahmen abzufangen.
 
 Tipp: Logging wird von Anfang an verwendet, um den Betrieb nachzuvollziehen. Skripte werden mit verschiedenen Parametern in einer Testumgebung getestet.
@@ -92,4 +97,5 @@ Nicht: Überspringen der Dokumentation. Stattdessen werden Skripte mit Kommentar
 6. Welche Log-Level gibt es typischerweise in Python?
 
 ## Weiterführendes
+
 Für tiefergehende Kenntnisse zu Skriptsprachen siehe die Artikel zu [Bash](bash), [Python](python) und [PowerShell](powershell). Informationen zu Monitoring-Tools finden sich in spezialisierten Ressourcen.

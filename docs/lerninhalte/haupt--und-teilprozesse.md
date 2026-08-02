@@ -2,12 +2,12 @@
 title: "Haupt- und Teilprozesse"
 description: "Erfahren Sie, wie Hauptprozesse als wertschöpfende Kernaktivitäten und Teilprozesse als unterstützende Funktionen Unternehmen strukturieren. Mit Beispielen aus der Praxis und Bezug zu ISO 9001:2015."
 sources:
-  - title: "Prozessmanagement-Basics: Grundlagen-Know-how, um Abläufe effizient zu optimieren"
-    url: "https://akademie.tuv.com/blog/grundlagen-prozessmanagement/"
-  - title: "Prozesshierarchie"
-    url: "https://www.bpmo.de/bpm-wiki/prozesshierarchie/"
-  - title: "Was ist ein Prozess in ISO 9001:2015?"
-    url: "https://www.dgq.de/fachbeitraege/prozesse-in-iso-90012015/"
+    - title: "Prozessmanagement-Basics: Grundlagen-Know-how, um Abläufe effizient zu optimieren"
+      url: "https://akademie.tuv.com/blog/grundlagen-prozessmanagement/"
+    - title: "Prozesshierarchie"
+      url: "https://www.bpmo.de/bpm-wiki/prozesshierarchie/"
+    - title: "Was ist ein Prozess in ISO 9001:2015?"
+      url: "https://www.dgq.de/fachbeitraege/prozesse-in-iso-90012015/"
 ---
 
 **Haupt- und Teilprozesse** bilden Grundlagen der Unternehmensorganisation und des Prozessmanagements. Hauptprozesse enthalten die wertschöpfenden Kernaktivitäten, die unmittelbar zur Kundenzufriedenheit und zum Geschäftserfolg führen. Teilprozesse übernehmen unterstützende Aufgaben, die den Ablauf der Kernprozesse gewährleisten. Gemeinsam tragen sie zur Verwirklichung des Unternehmenszwecks bei und ermöglichen eine effiziente Organisation.

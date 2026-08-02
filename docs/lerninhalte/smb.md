@@ -2,10 +2,10 @@
 title: "Server Message Block"
 description: "Das Server Message Block (SMB) Protokoll ermöglicht die gemeinsame Nutzung von Dateien und Druckern in Netzwerken. Es unterstützt verschiedene Versionen und bietet Sicherheitsfeatures wie Verschlüsselung und Authentifizierung, wird hauptsächlich in Windows-Umgebungen eingesetzt und ist auch auf anderen Plattformen über Samba verfügbar."
 sources:
-  - title: "Was ist die SMB-Dateifreigabe für Windows und Windows Server?"
-    url: "https://learn.microsoft.com/de-de/windows-server/storage/file-server/file-server-smb-overview"
-  - title: "SMB-Protokoll – IBM AIX Dokumentation"
-    url: "https://www.ibm.com/docs/de/aix/7.3.0?topic=management-smb-protocol"
+    - title: "Was ist die SMB-Dateifreigabe für Windows und Windows Server?"
+      url: "https://learn.microsoft.com/de-de/windows-server/storage/file-server/file-server-smb-overview"
+    - title: "SMB-Protokoll – IBM AIX Dokumentation"
+      url: "https://www.ibm.com/docs/de/aix/7.3.0?topic=management-smb-protocol"
 ---
 
 Der **Server Message Block (SMB)** ist ein Netzwerkprotokoll für die gemeinsame Nutzung von Dateien und Druckern. Es ermöglicht Clients den Zugriff auf entfernte Ressourcen über eine Client-Server-Architektur und unterstützt Authentifizierung sowie Dateisperren zur Koordination gleichzeitiger Zugriffe.
@@ -30,12 +30,15 @@ SMB entstand ursprünglich aus der Entwicklung von IBM und wurde von Microsoft w
 ## Begriffe und Definitionen
 
 ### Server Message Block (SMB)
+
 Ein client-server-basiertes Kommunikationsprotokoll für den gemeinsamen Zugriff auf Dateien, Verzeichnisse, Drucker und andere Ressourcen in einem Netzwerk. SMB ermöglicht das Lesen, Erstellen und Aktualisieren von Dateien auf Remoteservern über Transportprotokolle wie [TCP/IP](tcp-ip-modell).
 
 ### Client-Server-Architektur
+
 Modell, bei dem SMB-Clients Anfragen an SMB-Server senden. Der Server stellt Ressourcen bereit und antwortet auf Anfragen. Beide Rollen können auf demselben System ausgeführt werden, etwa wenn Windows sowohl Client als auch Server ist.
 
 ### SMB-Versionen
+
 SMB existiert in verschiedenen Dialekten, die Protokollversionen repräsentieren:
 
 - **SMB 1.0**: Ursprüngliche Version mit grundlegenden Funktionen, aber Sicherheitslücken wie EternalBlue.
@@ -60,12 +63,15 @@ Für praktische Nutzung erfolgt der Zugriff oft über UNC-Pfade wie `\\server\sh
 ## Beispiele
 
 ### UNC-Pfad-Zugriff
+
 Ein Benutzer greift auf eine geteilte Datei zu: `\\fileserver\public\bericht.xlsx`. Der Client verwendet SMB, um die Datei zu öffnen, als wäre sie lokal gespeichert. Authentifizierung erfolgt automatisch über Windows-Anmeldedaten.
 
 ### Netzlaufwerk-Mapping
+
 Ein Laufwerk Z: wird auf `\\server\share` gemappt. Der Benutzer kann dann im Explorer auf Z:\ zugreifen, und SMB handhabt die Netzwerkkommunikation im Hintergrund.
 
 ### Druckdienst
+
 Ein Dokument wird an einen Netzwerkdrucker gesendet: Der Client sendet die Druckanfrage über SMB an den Server, der die Datei an den Drucker weiterleitet.
 
 ## Häufige Fehler und Tipps

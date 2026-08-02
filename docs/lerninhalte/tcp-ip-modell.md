@@ -2,12 +2,12 @@
 title: "TCP/IP-Modell"
 description: "Das TCP/IP-Modell ist das grundlegende Referenzmodell für die Netzwerkkommunikation im Internet. Es beschreibt vier Schichten zur Datenübertragung und dient Auszubildenden in Daten- und Prozessanalyse als Einführung in Protokolle wie TCP, IP und UDP."
 sources:
-  - title: "Einführung in TCP/IP - Referenzmodelle"
-    url: "http://www.cfd.tu-berlin.de/Lehre/EDV2/tcpip/kap_1_3.html"
-  - title: "Internet Protocol - RFC 791"
-    url: "https://www.ietf.org/rfc/rfc791"
-  - title: "Internet protocol suite - Wikipedia"
-    url: "https://en.wikipedia.org/wiki/Internet_protocol_suite"
+    - title: "Einführung in TCP/IP - Referenzmodelle"
+      url: "http://www.cfd.tu-berlin.de/Lehre/EDV2/tcpip/kap_1_3.html"
+    - title: "Internet Protocol - RFC 791"
+      url: "https://www.ietf.org/rfc/rfc791"
+    - title: "Internet protocol suite - Wikipedia"
+      url: "https://en.wikipedia.org/wiki/Internet_protocol_suite"
 ---
 
 Das **TCP/IP-Modell** ist das grundlegende Referenzmodell für die Kommunikation in Computernetzwerken. Es standardisiert den Datenaustausch in dezentralen Netzwerken durch vier hierarchische Schichten und bildet die technische Basis des modernen Internets.

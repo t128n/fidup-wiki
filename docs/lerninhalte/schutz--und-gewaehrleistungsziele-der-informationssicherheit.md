@@ -2,10 +2,10 @@
 title: "Schutz- und Gewährleistungsziele der Informationssicherheit"
 description: "Die Schutz- und Gewährleistungsziele der Informationssicherheit umfassen Prinzipien wie Verfügbarkeit, Integrität und Vertraulichkeit, ergänzt durch Datenminimierung, Transparenz, Intervenierbarkeit und Nichtverkettung. Diese Ziele helfen Auszubildenden in Daten- und Prozessanalyse, den Schutz von Informationen und Systeme zu verstehen und umzusetzen."
 sources:
-  - title: "Datenschutz-Grundverordnung (DSGVO)"
-    url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679"
-  - title: "ISO/IEC 27001:2022"
-    url: "https://www.iso.org/standard/82875.html"
+    - title: "Datenschutz-Grundverordnung (DSGVO)"
+      url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679"
+    - title: "ISO/IEC 27001:2022"
+      url: "https://www.iso.org/standard/82875.html"
 ---
 
 Die **Schutz- und Gewährleistungsziele der Informationssicherheit** sind grundlegende Prinzipien, die den Schutz von Informationen und Systemen vor verschiedenen Bedrohungen sicherstellen. Sie unterteilen sich in Kernziele der Informationssicherheit wie Verfügbarkeit, Integrität und Vertraulichkeit sowie in ergänzende Ziele des Datenschutzes wie Datenminimierung, Transparenz, Intervenierbarkeit und Nichtverkettung. Diese Ziele orientieren sich an rechtlichen und technischen Anforderungen und unterstützen die Sicherstellung von Datenschutz und Systemsicherheit in Unternehmen.

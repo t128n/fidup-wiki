@@ -2,10 +2,10 @@
 title: "Ishikawa-Diagramm"
 description: "Das Ishikawa-Diagramm, auch Fischgrätendiagramm genannt, ist ein Werkzeug zur systematischen Analyse von Ursachen eines Problems in Daten- und Prozessanalyse. Es strukturiert die Untersuchung in verschiedene Bereiche und unterstützt Teams bei der Problemlösung."
 sources:
-  - title: "Ursache-Wirkungs-Diagramm – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Ursache-Wirkungs-Diagramm"
-  - title: "Ishikawa-Diagramm erstellen – Ursachen erkennen | TÜV Akademie"
-    url: "https://die-tuev-akademie.de/blog/ishikawa-diagramm-probleme-hinterfragen-ursachen-erkennen"
+    - title: "Ursache-Wirkungs-Diagramm – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Ursache-Wirkungs-Diagramm"
+    - title: "Ishikawa-Diagramm erstellen – Ursachen erkennen | TÜV Akademie"
+      url: "https://die-tuev-akademie.de/blog/ishikawa-diagramm-probleme-hinterfragen-ursachen-erkennen"
 ---
 
 Das **Ishikawa-Diagramm**, auch bekannt als Fischgrätendiagramm oder Ursache-Wirkungs-Diagramm, dient der systematischen Identifikation und Analyse von Ursachen eines Problems. Es strukturiert die Untersuchung in verschiedene Bereiche, die typischerweise mit den Buchstaben M beginnen, und ermöglicht eine visuelle Darstellung der Ursachen-Wirkungs-Beziehungen. Entwickelt wurde es von Kaoru Ishikawa in den 1940er Jahren in Japan, um Qualitätsprobleme in der Produktion zu analysieren. Es basiert auf dem Ursache-Wirkungs-Prinzip und teilt Ursachen in Hauptkategorien auf, die von Hauptursachen zu Unterursachen verzweigen. Die Kategorien orientieren sich an den sogenannten M-Faktoren, die systematisch untersucht werden. Jede Kategorie deckt spezifische Aspekte ab, die zur Problementstehung beitragen können.
@@ -52,13 +52,13 @@ Bei der 7M-Variante werden die folgenden Bereiche untersucht:
 Ein Beispiel: In einem Unternehmen tritt ein Qualitätsproblem bei der Datenverarbeitung auf – ungenaue Berichte. Das Ishikawa-Diagramm könnte so aussehen:
 
 - Problem: Ungenaue Berichte
-  - Menschen: Unzureichende Schulungen in Datenanalyse.
-  - Maschinen: Veraltete Software ohne automatische Validierung.
-  - Material: Fehlerhafte Quelldaten aus Lieferanten.
-  - Methoden: Fehlende Standardprozesse für Datenprüfung.
-  - Mitwelt: Neue Datenschutzregulierung erschwert den Zugriff.
-  - Messung: Ungenaue Messinstrumente für Datenqualität.
-  - Management: Mangelnde Priorisierung von Qualitätssicherung.
+    - Menschen: Unzureichende Schulungen in Datenanalyse.
+    - Maschinen: Veraltete Software ohne automatische Validierung.
+    - Material: Fehlerhafte Quelldaten aus Lieferanten.
+    - Methoden: Fehlende Standardprozesse für Datenprüfung.
+    - Mitwelt: Neue Datenschutzregulierung erschwert den Zugriff.
+    - Messung: Ungenaue Messinstrumente für Datenqualität.
+    - Management: Mangelnde Priorisierung von Qualitätssicherung.
 
 Nach der Analyse wird die Ursache "Fehlende Schulungen" priorisiert, und ein Schulungsprogramm eingeführt.
 

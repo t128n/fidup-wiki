@@ -2,12 +2,12 @@
 title: "Softwareergonomie"
 description: "Softwareergonomie befasst sich mit der Gestaltung von Softwareanwendungen zur Optimierung der Benutzerfreundlichkeit, Effizienz und Zufriedenheit, basierend auf Prinzipien wie benutzerzentriertem Design, Konsistenz und Feedback, unter Berücksichtigung der DIN EN ISO 9241-Normen."
 sources:
-  - title: "ISO 9241-11:2018 - Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts"
-    url: "https://www.iso.org/standard/63500.html"
-  - title: "Richtlinien und Standards - Fraunhofer FIT"
-    url: "https://www.usability-ux.fit.fraunhofer.de/de/richtlinien-und-standards.html"
-  - title: "10 Usability Heuristics for User Interface Design - Nielsen Norman Group"
-    url: "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    - title: "ISO 9241-11:2018 - Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts"
+      url: "https://www.iso.org/standard/63500.html"
+    - title: "Richtlinien und Standards - Fraunhofer FIT"
+      url: "https://www.usability-ux.fit.fraunhofer.de/de/richtlinien-und-standards.html"
+    - title: "10 Usability Heuristics for User Interface Design - Nielsen Norman Group"
+      url: "https://www.nngroup.com/articles/ten-usability-heuristics/"
 ---
 
 **Softwareergonomie** ist ein Fachgebiet der Ergonomie, das die Gestaltung von Softwareanwendungen zur Verbesserung der Interaktion zwischen Menschen und Computern umfasst. Ziel ist die Maximierung der Benutzerfreundlichkeit, Effizienz und Zufriedenheit durch Berücksichtigung der Bedürfnisse, Fähigkeiten und Einschränkungen der Nutzer. Grundlage bilden Standards wie die DIN EN ISO 9241-Normenreihe, die Prinzipien für menschzentrierte Gestaltung definieren.

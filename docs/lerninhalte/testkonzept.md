@@ -2,12 +2,12 @@
 title: "Testkonzept"
 description: "Das Testkonzept definiert den Rahmen für systematische Qualitätssicherung durch Tests in der Daten- und Prozessanalyse. Es legt Ziele, Umfang, Methoden und Ressourcen fest, um Qualität und Funktionalität von Software sicherzustellen."
 sources:
-  - title: "Testkonzept | ISTQB Glossary"
-    url: "https://istqb-glossary.page/de/testkonzept/"
-  - title: "Architekturstrategien für Sicherheitstests | Microsoft Azure Well-Architected Framework"
-    url: "https://learn.microsoft.com/de-de/azure/well-architected/security/test"
-  - title: "Die unterschiedlichen Arten von Softwaretests | Atlassian"
-    url: "https://www.atlassian.com/de/continuous-delivery/software-testing/types-of-software-testing"
+    - title: "Testkonzept | ISTQB Glossary"
+      url: "https://istqb-glossary.page/de/testkonzept/"
+    - title: "Architekturstrategien für Sicherheitstests | Microsoft Azure Well-Architected Framework"
+      url: "https://learn.microsoft.com/de-de/azure/well-architected/security/test"
+    - title: "Die unterschiedlichen Arten von Softwaretests | Atlassian"
+      url: "https://www.atlassian.com/de/continuous-delivery/software-testing/types-of-software-testing"
 ---
 
 Das **Testkonzept** beschreibt den strategischen Rahmen für Tests in der Softwareentwicklung. Es definiert, was, wie, womit und wann getestet wird, um Qualität und Funktionalität einer Anwendung sicherzustellen und Risiken frühzeitig zu erkennen.

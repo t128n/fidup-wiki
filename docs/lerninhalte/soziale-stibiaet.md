@@ -2,12 +2,12 @@
 title: "Soziale Stabilität"
 description: "Soziale Stabilität beschreibt einen Zustand der Gesellschaft, in dem Strukturen, Beziehungen und Institutionen harmonisch funktionieren und fördert digitale Inklusion. Erfahre mehr über Schlüsselfaktoren, Bedeutung in der IT, Maßnahmen und Risiken für Auszubildende in Daten- und Prozessanalyse."
 sources:
-  - title: "Standard-Thesaurus Wirtschaft: Soziale Stabilität"
-    url: "https://zbw.eu/stw/version/8.04/descriptor/19769-4/about.de.html"
-  - title: "Sozialer Zusammenhalt - Robert Bosch Stiftung"
-    url: "https://www.bosch-stiftung.de/de/storys/zusammenhalt"
-  - title: "Digitale Kluft in der deutschen Gesellschaft | bidt"
-    url: "https://www.bidt.digital/themenmonitor/digitale-kluft-in-der-deutschen-gesellschaft/"
+    - title: "Standard-Thesaurus Wirtschaft: Soziale Stabilität"
+      url: "https://zbw.eu/stw/version/8.04/descriptor/19769-4/about.de.html"
+    - title: "Sozialer Zusammenhalt - Robert Bosch Stiftung"
+      url: "https://www.bosch-stiftung.de/de/storys/zusammenhalt"
+    - title: "Digitale Kluft in der deutschen Gesellschaft | bidt"
+      url: "https://www.bidt.digital/themenmonitor/digitale-kluft-in-der-deutschen-gesellschaft/"
 ---
 
 **Soziale Stabilität** ist ein Zustand der Gesellschaft, in dem soziale Strukturen, Beziehungen und Institutionen harmonisch zusammenwirken. Sie zeichnet sich durch ein hohes Maß an sozialer Kohäsion, Gerechtigkeit und das Fehlen von Konflikten oder Unruhen aus. In der Daten- und Prozessanalyse spielt sie eine Rolle bei der Förderung digitaler Inklusion und der Vermeidung von Ungleichheiten durch Technologie.

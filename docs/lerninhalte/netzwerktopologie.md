@@ -2,10 +2,10 @@
 title: "Netzwerktopologie"
 description: "Netzwerktopologie erklärt die Struktur und Anordnung von Geräten in Rechnernetzen. Auszubildende in Daten- und Prozessanalyse lernen hier die wichtigsten Topologien kennen, um Netzwerke effizient zu planen und zu warten."
 sources:
-  - title: "Was Ist Netzwerktopologie? | IBM"
-    url: "https://www.ibm.com/de-de/think/topics/network-topology"
-  - title: "Topologie (Rechnernetz) – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Topologie_(Rechnernetz)"
+    - title: "Was Ist Netzwerktopologie? | IBM"
+      url: "https://www.ibm.com/de-de/think/topics/network-topology"
+    - title: "Topologie (Rechnernetz) – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Topologie_(Rechnernetz)"
 ---
 
 Die **Netzwerktopologie** beschreibt die physische und logische Anordnung von Knoten und Verbindungen in einem Rechnernetzwerk. Sie bestimmt, wie Daten zwischen Geräten fließen, und beeinflusst Kosten, Zuverlässigkeit und Wartungsaufwand. Verschiedene Topologien wie Stern, Ring oder Mesh bieten unterschiedliche Vor- und Nachteile für verschiedene Anwendungsfälle.

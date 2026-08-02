@@ -2,12 +2,12 @@
 title: "Vernetzung"
 description: "Vernetzung ermöglicht den Datenaustausch zwischen Geräten und Systemen. Sie umfasst lokale Netzwerke (LAN), weitreichende Netzwerke (WAN), städtische Netzwerke (MAN) und virtuelle private Netzwerke (VPN). Technologien wie Ethernet, Wi-Fi und IoT-Protokolle unterstützen Ressourcenteilung, Zugänglichkeit und Skalierbarkeit, erfordern aber Sicherheitsmaßnahmen."
 sources:
-  - title: "RFC 1392 - Internet Users' Glossary"
-    url: "https://datatracker.ietf.org/doc/html/rfc1392"
-  - title: "MQTT - The Standard for IoT Messaging"
-    url: "https://mqtt.org/"
-  - title: "TCP - Glossary | MDN Web Docs"
-    url: "https://developer.mozilla.org/en-US/docs/Glossary/TCP"
+    - title: "RFC 1392 - Internet Users' Glossary"
+      url: "https://datatracker.ietf.org/doc/html/rfc1392"
+    - title: "MQTT - The Standard for IoT Messaging"
+      url: "https://mqtt.org/"
+    - title: "TCP - Glossary | MDN Web Docs"
+      url: "https://developer.mozilla.org/en-US/docs/Glossary/TCP"
 ---
 
 **Vernetzung** ist die Verbindung verschiedener Geräte, Systeme oder Netzwerke, um den Austausch von Daten und Ressourcen zu ermöglichen. Sie bildet die Grundlage für Kommunikation und Zusammenarbeit in der Daten- und Prozessanalyse, indem sie lokale und globale Verbindungen unterstützt.

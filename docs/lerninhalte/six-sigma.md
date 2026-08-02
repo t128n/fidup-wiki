@@ -2,12 +2,12 @@
 title: "Six Sigma"
 description: "Six Sigma ist eine datengetriebene Methode zur Prozessoptimierung, die Fehlerquoten reduziert, die Kundenzufriedenheit steigert und den DMAIC-Zyklus sowie spezifische Rollen wie Green Belt und Black Belt nutzt, um nachhaltige Verbesserungen zu erreichen."
 sources:
-  - title: "Six Sigma: Comprehensive guide to process optimization"
-    url: "https://www.zep.de/en/glossary/six-sigma"
-  - title: "DMAIC vs. DMADV - Lean Six Sigma Certification"
-    url: "https://www.purdue.edu/leansixsigmaonline/blog/dmaic-vs-dmadv/"
-  - title: "Six Sigma: Rollen und Verantwortlichkeiten"
-    url: "https://blog.dgq.de/six-sigma-rollen-und-verantwortlichkeiten/"
+    - title: "Six Sigma: Comprehensive guide to process optimization"
+      url: "https://www.zep.de/en/glossary/six-sigma"
+    - title: "DMAIC vs. DMADV - Lean Six Sigma Certification"
+      url: "https://www.purdue.edu/leansixsigmaonline/blog/dmaic-vs-dmadv/"
+    - title: "Six Sigma: Rollen und Verantwortlichkeiten"
+      url: "https://blog.dgq.de/six-sigma-rollen-und-verantwortlichkeiten/"
 ---
 
 Der **Six Sigma**-Ansatz ist eine systematische Methode zur Prozessoptimierung, die auf mathematischen und statistischen Grundlagen basiert. Er zielt darauf ab, Fehlerquoten auf maximal 3,4 pro einer Million Möglichkeiten zu reduzieren, die Kundenzufriedenheit zu steigern und nachhaltige Verbesserungen durch datengestützte Entscheidungen zu erreichen. Entwickelt wurde die Methode in den 1980er Jahren von Motorola, und sie umfasst Kernprinzipien wie Kundenfokus, systematische Prozessverbesserung und eine Kultur des kontinuierlichen Lernens.
@@ -64,13 +64,13 @@ DMADV grenzt sich von DMAIC ab, da es nicht auf bestehende Prozesse abzielt, son
 
 Six Sigma definiert eine rollenbasierte Hierarchie, die Expertise und Verantwortlichkeiten verteilt. Diese Rollen sind nach Kampfsportgürteln benannt und fördern eine strukturierte Umsetzung.
 
-| Rolle              | Beschreibung                                                                 |
-|--------------------|-----------------------------------------------------------------------------|
-| Yellow Belt        | Einstiegszertifizierung mit Grundlagenwissen; unterstützt Projekte operativ und leistet Datensammlung. |
-| Green Belt         | Fundierte methodische Kenntnisse; leitet DMAIC-Projekte im eigenen Bereich und widmet etwa 20 % der Arbeitszeit Six Sigma. |
-| Black Belt         | Tiefe fachliche Expertise und Sozialkompetenz; leitet komplexe unternehmensweite Projekte und motiviert Veränderungen. |
-| Master Black Belt  | Höchste operative Stufe; trainiert andere Belts, entwickelt Kennzahlen und berät strategisch. |
-| Champion           | Managementebene; wählt Projekte aus, initiiert sie und überwacht die Umsetzung ohne operative Beteiligung. |
+| Rolle             | Beschreibung                                                                                                               |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Yellow Belt       | Einstiegszertifizierung mit Grundlagenwissen; unterstützt Projekte operativ und leistet Datensammlung.                     |
+| Green Belt        | Fundierte methodische Kenntnisse; leitet DMAIC-Projekte im eigenen Bereich und widmet etwa 20 % der Arbeitszeit Six Sigma. |
+| Black Belt        | Tiefe fachliche Expertise und Sozialkompetenz; leitet komplexe unternehmensweite Projekte und motiviert Veränderungen.     |
+| Master Black Belt | Höchste operative Stufe; trainiert andere Belts, entwickelt Kennzahlen und berät strategisch.                              |
+| Champion          | Managementebene; wählt Projekte aus, initiiert sie und überwacht die Umsetzung ohne operative Beteiligung.                 |
 
 ## Vorteile und Anwendungsbereiche
 

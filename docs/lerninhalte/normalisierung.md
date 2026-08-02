@@ -2,12 +2,12 @@
 title: "Normalisierung"
 description: "Normalisierung ist eine Strategie zur Beseitigung von Redundanz in relationalen Datenbanken durch Überführung in Normalformen wie 1NF, 2NF und 3NF. Sie verhindert Anomalien und ermöglicht spezialisierte Abfragen."
 sources:
-  - title: "Was ist Datenbanknormalisierung?"
-    url: "https://www.ibm.com/de-de/think/topics/database-normalization"
-  - title: "Relationale Datenbanken - Kapitel 4: Der Königsweg: Normalisierung"
-    url: "https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap4.htm"
-  - title: "Normalisierung (Datenbank) - 1NF, 2NF, 3NF erklärt"
-    url: "https://ausbildung-in-der-it.de/lexikon/normalisierung-datenbank"
+    - title: "Was ist Datenbanknormalisierung?"
+      url: "https://www.ibm.com/de-de/think/topics/database-normalization"
+    - title: "Relationale Datenbanken - Kapitel 4: Der Königsweg: Normalisierung"
+      url: "https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap4.htm"
+    - title: "Normalisierung (Datenbank) - 1NF, 2NF, 3NF erklärt"
+      url: "https://ausbildung-in-der-it.de/lexikon/normalisierung-datenbank"
 ---
 
 **Normalisierung** bezeichnet eine Methode zur Strukturierung relationaler Datenbanken, um Redundanzen zu minimieren und Datenintegrität zu gewährleisten. Durch die schrittweise Anwendung von Normalformen werden Anomalien vermieden und effiziente Abfragen ermöglicht.
@@ -77,59 +77,59 @@ Ein Beispiel verdeutlicht den Prozess der Normalisierung anhand einer Ausgangsta
 
 ### Ausgangslage
 
-| R.-Nr. | R.-Name | P.-Nr. | P.-Name | Anz. | Art.-Nr. | Artikel |
-|--------|---------|--------|---------|------|----------|---------|
-| 1      | Müller  | 1      | Schraube| 10   | 100      | Schraube|
-| 1      | Müller  | 2      | Mutter  | 5    | 101      | Mutter  |
-| 2      | Meier   | 1      | Schraube| 8    | 100      | Schraube|
-| 2      | Meier   | 3      | Bolzen  | 12   | 102      | Bolzen  |
+| R.-Nr. | R.-Name | P.-Nr. | P.-Name  | Anz. | Art.-Nr. | Artikel  |
+| ------ | ------- | ------ | -------- | ---- | -------- | -------- |
+| 1      | Müller  | 1      | Schraube | 10   | 100      | Schraube |
+| 1      | Müller  | 2      | Mutter   | 5    | 101      | Mutter   |
+| 2      | Meier   | 1      | Schraube | 8    | 100      | Schraube |
+| 2      | Meier   | 3      | Bolzen   | 12   | 102      | Bolzen   |
 
 ### 1. Normalform (1NF)
 
 Mehrwertige Daten werden aufgespalten, und Spalten auf Gleichartigkeit geprüft.
 
-| R.-Nr. | R.-Name | P.-Nr. | P.-Name | Anz. | Art.-Nr. | Artikel |
-|--------|---------|--------|---------|------|----------|---------|
-| 1      | Müller  | 1      | Schraube| 10   | 100      | Schraube|
-| 1      | Müller  | 2      | Mutter  | 5    | 101      | Mutter  |
-| 2      | Meier   | 1      | Schraube| 8    | 100      | Schraube|
-| 2      | Meier   | 3      | Bolzen  | 12   | 102      | Bolzen  |
+| R.-Nr. | R.-Name | P.-Nr. | P.-Name  | Anz. | Art.-Nr. | Artikel  |
+| ------ | ------- | ------ | -------- | ---- | -------- | -------- |
+| 1      | Müller  | 1      | Schraube | 10   | 100      | Schraube |
+| 1      | Müller  | 2      | Mutter   | 5    | 101      | Mutter   |
+| 2      | Meier   | 1      | Schraube | 8    | 100      | Schraube |
+| 2      | Meier   | 3      | Bolzen   | 12   | 102      | Bolzen   |
 
 ### 2. Normalform (2NF)
 
 Spalten, die nicht voll funktional abhängig sind, werden ausgelagert. Die Spalte "Anz." ist nur von "P.-Nr." abhängig, nicht von "R.-Nr.", daher werden "P.-Nr." und abhängige Spalten ausgelagert.
 
 | R.-Nr. | R.-Name |
-|--------|---------|
+| ------ | ------- |
 | 1      | Müller  |
 | 2      | Meier   |
 
-| P.-Nr. | P.-Name | Anz. | Art.-Nr. | Artikel |
-|--------|---------|------|----------|---------|
-| 1      | Schraube| 10   | 100      | Schraube|
-| 2      | Mutter  | 5    | 101      | Mutter  |
-| 3      | Bolzen  | 12   | 102      | Bolzen  |
+| P.-Nr. | P.-Name  | Anz. | Art.-Nr. | Artikel  |
+| ------ | -------- | ---- | -------- | -------- |
+| 1      | Schraube | 10   | 100      | Schraube |
+| 2      | Mutter   | 5    | 101      | Mutter   |
+| 3      | Bolzen   | 12   | 102      | Bolzen   |
 
 ### 3. Normalform (3NF)
 
 Spalten, die von einem Nichtschlüsselattribut abhängig sind, werden ausgelagert. "Artikel" ist von "Art.-Nr." abhängig, wobei "Art.-Nr." kein Primärschlüssel ist.
 
 | R.-Nr. | R.-Name |
-|--------|---------|
+| ------ | ------- |
 | 1      | Müller  |
 | 2      | Meier   |
 
-| P.-Nr. | P.-Name | Anz. | Art.-Nr. |
-|--------|---------|------|----------|
-| 1      | Schraube| 10   | 100      |
-| 2      | Mutter  | 5    | 101      |
-| 3      | Bolzen  | 12   | 102      |
+| P.-Nr. | P.-Name  | Anz. | Art.-Nr. |
+| ------ | -------- | ---- | -------- |
+| 1      | Schraube | 10   | 100      |
+| 2      | Mutter   | 5    | 101      |
+| 3      | Bolzen   | 12   | 102      |
 
-| Art.-Nr. | Artikel |
-|----------|---------|
-| 100      | Schraube|
-| 101      | Mutter  |
-| 102      | Bolzen  |
+| Art.-Nr. | Artikel  |
+| -------- | -------- |
+| 100      | Schraube |
+| 101      | Mutter   |
+| 102      | Bolzen   |
 
 ## Häufige Fehler und Tipps
 

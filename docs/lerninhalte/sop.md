@@ -2,10 +2,10 @@
 title: "Standard Operating Procedure"
 description: "Standard Operating Procedures (SOPs) sind dokumentierte Verfahrensanweisungen, die detaillierte Schritte für spezifische Aufgaben vorschreiben, um Konsistenz, Qualität und Compliance in Organisationen sicherzustellen. Der Artikel behandelt ihre Erstellung, Bestandteile und Anwendungsgebiete in Daten- und Prozessanalyse."
 sources:
-  - title: "SOPs (Standard Operating Procedures) | EFSA"
-    url: "https://www.efsa.europa.eu/en/corporate/pub/sops"
-  - title: "Standard Operating Procedure – Wikipedia"
-    url: "https://de.wikipedia.org/wiki/Standard_Operating_Procedure"
+    - title: "SOPs (Standard Operating Procedures) | EFSA"
+      url: "https://www.efsa.europa.eu/en/corporate/pub/sops"
+    - title: "Standard Operating Procedure – Wikipedia"
+      url: "https://de.wikipedia.org/wiki/Standard_Operating_Procedure"
 ---
 
 Der **Standard Operating Procedure**-Begriff bezeichnet eine dokumentierte Verfahrensanweisung, die detaillierte Schritte für die Durchführung spezifischer Aufgaben in einer Organisation vorschreibt. SOPs gewährleisten Konsistenz, Qualität und Effizienz in Arbeitsabläufen und unterstützen die Einhaltung regulatorischer Anforderungen sowie die Schulung von Mitarbeitern.

@@ -2,12 +2,12 @@
 title: "Ablauforganisation"
 description: "Die Ablauforganisation als dynamischer Aspekt der Organisation beschäftigt sich mit der raum-zeitlichen Gestaltung von Arbeitsprozessen. Sie umfasst die methodische Zerlegung und Zusammenfassung von Aufgaben zur Effizienzsteigerung."
 sources:
-  - title: "Ablauforganisation"
-    url: "https://de.wikipedia.org/wiki/Ablauforganisation"
-  - title: "Arbeitsanalyse und -synthese"
-    url: "https://de.wikipedia.org/wiki/Arbeitsanalyse_und_-synthese"
-  - title: "Ablauforganisation • Gabler Wirtschaftslexikon"
-    url: "https://wirtschaftslexikon.gabler.de/definition/ablauforganisation-27126"
+    - title: "Ablauforganisation"
+      url: "https://de.wikipedia.org/wiki/Ablauforganisation"
+    - title: "Arbeitsanalyse und -synthese"
+      url: "https://de.wikipedia.org/wiki/Arbeitsanalyse_und_-synthese"
+    - title: "Ablauforganisation • Gabler Wirtschaftslexikon"
+      url: "https://wirtschaftslexikon.gabler.de/definition/ablauforganisation-27126"
 ---
 
 **Ablauforganisation** ist der raum-zeitliche Aspekt der Organisation. Sie beschäftigt sich mit der dynamischen Gestaltung von Arbeitsabläufen und zielt darauf ab, Aufgaben mit minimalem Aufwand zu erledigen. Dabei werden Kosten gesenkt, Bearbeitungszeiten verkürzt und Kapazitäten optimal genutzt. Im Gegensatz zur Aufbauorganisation, die die statische Struktur festlegt, beschreibt die Ablauforganisation, wie Arbeitsprozesse ablaufen.
@@ -75,12 +75,15 @@ Bei der Arbeitssynthese werden Arbeitsmittel zugeordnet, das Arbeitspensum sowie
 Die Ablauforganisation lässt sich in drei Ausprägungen verstehen:
 
 ### 1. Ablauforganisation als Arbeitsorganisation
+
 Fokus auf die Gestaltung von Arbeitsplätzen und Arbeitsabläufen im mikroökonomischen Bereich. Typische Anwendung in der Produktionsplanung und Arbeitsvorbereitung.
 
 ### 2. Ablauforganisation als Ablaufplan
+
 Betriebswirtschaftliche Perspektive mit Fokus auf terminliche und kapazitive Planung. Erstellt detaillierte Zeit- und Kapazitätspläne für konkrete Aufträge.
 
 ### 3. Ablauforganisation als Prozessorganisation
+
 Moderne, ganzheitliche Sichtweise mit Fokus auf geschäftsprozessorientierte Gestaltung. Betrachtet unternehmensübergreifende Wertschöpfungsketten und Kundenprozesse.
 
 ## Einflussfaktoren auf die Ablauforganisation

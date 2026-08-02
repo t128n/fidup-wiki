@@ -37,5 +37,10 @@
         "vitest": "^4.0.18",
         "vue": "^3.5.27"
     },
-    "packageManager": "pnpm@10.28.2"
+    "packageManager": "pnpm@10.28.2",
+    "pnpm": {
+        "ignoredBuiltDependencies": [
+            "reurl"
+        ]
+    }
 }

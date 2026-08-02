@@ -2,10 +2,10 @@
 title: "UML-Sequenzdiagramm"
 description: "Das UML-Sequenzdiagramm ist ein Diagrammtyp der Unified Modeling Language zur Darstellung des zeitlichen Ablaufs von Interaktionen zwischen Objekten und Akteuren in einem System."
 sources:
-  - title: "Unified Modeling Language Specification Version 2.5.1"
-    url: "https://www.omg.org/spec/UML/2.5.1/About-UML"
-  - title: "UML Sequence Diagram Combined Fragment"
-    url: "https://www.uml-diagrams.org/sequence-diagrams-combined-fragment.html"
+    - title: "Unified Modeling Language Specification Version 2.5.1"
+      url: "https://www.omg.org/spec/UML/2.5.1/About-UML"
+    - title: "UML Sequence Diagram Combined Fragment"
+      url: "https://www.uml-diagrams.org/sequence-diagrams-combined-fragment.html"
 ---
 
 Der **UML-Sequenzdiagramm** ist ein Diagrammtyp der Unified Modeling Language (UML) und visualisiert den zeitlichen Ablauf von Interaktionen zwischen Partizipanten in einem System. Der Schwerpunkt liegt auf der chronologischen Abfolge der Nachrichten zwischen Lifelines, ohne dass absolute Zeitangaben betont werden. Im Gegensatz zu anderen UML-Diagrammen wie dem [Klassendiagramm](uml-klassendiagramm), das statische Strukturen abbildet, konzentriert es sich auf dynamische Aspekte.
@@ -31,11 +31,11 @@ Sequenzdiagramme bestehen aus folgenden Elementen:
 
 1. **Partizipanten**: Akteure oder Objekte, repräsentiert durch Lifelines.
 2. **Nachrichten**:
-   - Synchrone Nachrichten: Der Sender wartet auf eine Antwort.
-   - Asynchrone Nachrichten: Keine Wartezeit erforderlich.
-   - Return-Nachrichten: Antworten, dargestellt mit gestricheltem Pfeil.
-   - Create-Nachrichten: Erstellung neuer Objekte.
-   - Delete-Nachrichten: Zerstörung von Objekten.
+    - Synchrone Nachrichten: Der Sender wartet auf eine Antwort.
+    - Asynchrone Nachrichten: Keine Wartezeit erforderlich.
+    - Return-Nachrichten: Antworten, dargestellt mit gestricheltem Pfeil.
+    - Create-Nachrichten: Erstellung neuer Objekte.
+    - Delete-Nachrichten: Zerstörung von Objekten.
 3. **Execution Specifications**: Aktivierungsbalken auf Lifelines.
 
 ## Kombinierte Fragmente

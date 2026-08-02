@@ -2,10 +2,10 @@
 title: "Speicherlösungen"
 description: "Speicherlösungen sind essenziell für die Datenspeicherung in IT-Infrastrukturen. Sie umfassen Systeme wie DAS, SAN und NAS sowie Techniken wie File, Block und Object Storage, die je nach Leistungs-, Skalierbarkeits- und Kostenanforderungen gewählt werden."
 sources:
-  - title: "Storage-Grundlagen: Ratgeber für IT-Interessierte zu DAS, NAS und SAN"
-    url: "https://www.thomas-krenn.com/de/tkmag/expertentipps/storage-grundlagen-das-san-und-nas-im-ueberblick"
-  - title: "Was ist File Storage, Block Storage und Object Storage?"
-    url: "https://serverhero.de/wissen/speicher-block-objekt-datei"
+    - title: "Storage-Grundlagen: Ratgeber für IT-Interessierte zu DAS, NAS und SAN"
+      url: "https://www.thomas-krenn.com/de/tkmag/expertentipps/storage-grundlagen-das-san-und-nas-im-ueberblick"
+    - title: "Was ist File Storage, Block Storage und Object Storage?"
+      url: "https://serverhero.de/wissen/speicher-block-objekt-datei"
 ---
 
 **Speicherlösungen** bilden die Grundlage für die Datenspeicherung in IT-Infrastrukturen. Sie umfassen verschiedene Systeme wie Direct Attached Storage (DAS), Storage Area Networks (SAN) und Network Attached Storage (NAS) sowie Techniken wie File, Block und Object Storage. Diese Ansätze bieten je nach Anforderungen an Leistung, Skalierbarkeit und Kosten unterschiedliche Vor- und Nachteile und finden in Bereichen wie Datenbanken, Archivierung oder Cloud-Umgebungen Anwendung.

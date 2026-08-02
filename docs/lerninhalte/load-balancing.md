@@ -2,12 +2,12 @@
 title: "Load Balancing"
 description: "Load Balancing verteilt Netzwerk- und Rechenlasten auf mehrere Server, um Performance zu steigern, Ausfallzeiten zu minimieren und Hochverfügbarkeit zu gewährleisten. Es unterscheidet sich in Layer 4- und Layer 7-Ansätze mit Algorithmen wie Round-Robin und Least Connection."
 sources:
-  - title: "What Is Layer 4 Load Balancing? | F5"
-    url: "https://www.f5.com/glossary/layer-4-load-balancing"
-  - title: "Layer 4 vs. Layer 7 Load Balancing: Was ist der Unterschied? | Kemp"
-    url: "https://kemptechnologies.com/de/blog/layer-4-vs-layer-7-load-balancing-was-ist-der-unterschied-und-welchen-brauche-ich"
-  - title: "Using nginx as HTTP load balancer | nginx.org"
-    url: "https://nginx.org/en/docs/http/load_balancing.html"
+    - title: "What Is Layer 4 Load Balancing? | F5"
+      url: "https://www.f5.com/glossary/layer-4-load-balancing"
+    - title: "Layer 4 vs. Layer 7 Load Balancing: Was ist der Unterschied? | Kemp"
+      url: "https://kemptechnologies.com/de/blog/layer-4-vs-layer-7-load-balancing-was-ist-der-unterschied-und-welchen-brauche-ich"
+    - title: "Using nginx as HTTP load balancer | nginx.org"
+      url: "https://nginx.org/en/docs/http/load_balancing.html"
 ---
 
 **Load Balancing** verteilt eingehende Rechen- oder Netzwerklasten auf zwei oder mehr Server, um die Belastung einzelner Systeme zu reduzieren, die Gesamtperformance zu erhöhen und die Latenz zu verringern. Es trägt zur Hochverfügbarkeit und Skalierbarkeit von IT-Infrastrukturen bei, indem es Ausfälle einzelner Server ausgleicht und den Datenverkehr effizient verteilt.

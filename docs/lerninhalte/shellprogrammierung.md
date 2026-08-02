@@ -2,12 +2,12 @@
 title: "Shellprogrammierung"
 description: "Shellprogrammierung ermöglicht die Automatisierung von Aufgaben in Kommandozeilen-Schnittstellen für Daten- und Prozessanalyse. Grundlagen von Bash, PowerShell und CMD zur effizienten Verarbeitung von Dateien, Logs und Systemprozessen."
 sources:
-  - title: "Bash-Skripting-Guide für Anfänger › Shell › Wiki › ubuntuusers.de"
-    url: "https://wiki.ubuntuusers.de/Shell/Bash-Skripting-Guide_f%C3%BCr_Anf%C3%A4nger/"
-  - title: "What is PowerShell? - PowerShell | Microsoft Learn"
-    url: "https://learn.microsoft.com/en-us/powershell/scripting/overview"
-  - title: "Windows commands | Microsoft Learn"
-    url: "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands"
+    - title: "Bash-Skripting-Guide für Anfänger › Shell › Wiki › ubuntuusers.de"
+      url: "https://wiki.ubuntuusers.de/Shell/Bash-Skripting-Guide_f%C3%BCr_Anf%C3%A4nger/"
+    - title: "What is PowerShell? - PowerShell | Microsoft Learn"
+      url: "https://learn.microsoft.com/en-us/powershell/scripting/overview"
+    - title: "Windows commands | Microsoft Learn"
+      url: "https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands"
 ---
 
 **Shellprogrammierung** dient der Automatisierung von Aufgaben durch Skripte in Kommandozeilen-Schnittstellen verschiedener Betriebssysteme. Sie ermöglicht die effiziente Verwaltung von Systemprozessen, Dateioperationen und wiederkehrenden Abläufen, insbesondere in Unix/Linux-Umgebungen mit [Bash](bash) und Zsh sowie in Windows-Umgebungen mit [PowerShell](powershell) und CMD. Die Grundlagen umfassen Syntaxelemente wie Variablen, Bedingungen und Schleifen, die zur Steuerung von Befehlsfolgen dienen und für Datenextraktion sowie Batch-Verarbeitung in der [Prozessanalyse](prozessmanagement) eingesetzt werden.

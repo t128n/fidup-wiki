@@ -2,17 +2,18 @@
 title: "Testprotokolle"
 description: "Testprotokolle dokumentieren die Durchführung von Softwaretests, einschließlich Testumgebung, Daten und Ergebnisse. Sie fördern Transparenz, Nachverfolgbarkeit und Qualitätssicherung in der Daten- und Prozessanalyse für Auszubildende."
 sources:
-  - title: "Das Testprotokoll"
-    url: "https://www.peterjohann-consulting.de/testprotokoll/"
-  - title: "ISO 29119: Die internationalen ISO-Standards"
-    url: "https://www.imbus.de/softwarequalitaet/software-standards-konformitaet/iso-29119"
-  - title: "ISO/IEC 29119"
-    url: "https://en.wikipedia.org/wiki/ISO/IEC_29119"
+    - title: "Das Testprotokoll"
+      url: "https://www.peterjohann-consulting.de/testprotokoll/"
+    - title: "ISO 29119: Die internationalen ISO-Standards"
+      url: "https://www.imbus.de/softwarequalitaet/software-standards-konformitaet/iso-29119"
+    - title: "ISO/IEC 29119"
+      url: "https://en.wikipedia.org/wiki/ISO/IEC_29119"
 ---
 
 **Testprotokolle** sind detaillierte Aufzeichnungen der Durchführung von Softwaretests, die Transparenz und Nachverfolgbarkeit in der Qualitätssicherung gewährleisten. Sie unterscheiden sich von Testberichten, die aggregierte Ergebnisse darstellen, und von Testfällen, die die Testvorbereitung beschreiben.
 
 ## Lernziele
+
 Dieser Artikel vermittelt Kenntnisse über:
 
 - Den Zweck und die Funktionen von Testprotokollen.
@@ -21,9 +22,11 @@ Dieser Artikel vermittelt Kenntnisse über:
 - Die Erstellung eines einfachen Testprotokolls anhand eines Beispiels.
 
 ## Kurzüberblick
+
 Testprotokolle entstehen während der Testausführung und dokumentieren chronologisch die Aktivitäten pro Testfall. Sie bilden die Grundlage für Testberichte und unterstützen Standards wie ISO 29119-3.
 
 ## Zweck und Funktionen
+
 Testprotokolle dienen mehreren Zwecken:
 
 - **Nachverfolgbarkeit**: Sie ermöglichen die Überprüfung, ob alle Anforderungen getestet wurden.
@@ -32,6 +35,7 @@ Testprotokolle dienen mehreren Zwecken:
 - **Compliance**: Sie unterstützen die Einhaltung von Normen und Vorschriften.
 
 ## Aufbau und Inhalte
+
 Ein Testprotokoll teilt sich oft in Übersichtsteil und Informationsteil. Typische Inhalte umfassen:
 
 1. **Testidentifikation**: Name, Version, Datum und Uhrzeit.
@@ -44,15 +48,19 @@ Ein Testprotokoll teilt sich oft in Übersichtsteil und Informationsteil. Typisc
 8. **Zusammenfassung**: Kurze Bewertung und Empfehlungen.
 
 ## Testprotokoll vs. Testbericht
+
 Testprotokolle dokumentieren einzelne Testfälle während der Ausführung, während Testberichte mehrere Protokolle zusammenfassen und Gesamtergebnisse auf Management-Ebene präsentieren. Protokolle sind detailliert und testerzentriert, Berichte aggregiert und stakeholderorientiert.
 
 ## Erstellungsmethoden
+
 Protokolle können manuell erstellt werden, etwa in Tabellen oder Formularen, oder automatisch generiert durch Testtools. Manuelle Erstellung bietet Flexibilität, automatische spart Zeit bei wiederkehrenden Tests.
 
 ## Standards
+
 Der Standard ISO 29119-3 definiert Formate für Testdokumentation, einschließlich Testprotokolle. Er ersetzt ältere Normen und gilt für verschiedene Vorgehensmodelle, wird jedoch für agile Kontexte als zu formal kritisiert.
 
 ## Vorteile und Nachteile
+
 Vorteile:
 
 - Erhöhte Transparenz und Qualitätssicherung.
@@ -64,6 +72,7 @@ Nachteile:
 - Risiko veralteter Informationen ohne regelmäßige Pflege.
 
 ## Beispiel
+
 Angenommen, ein Testfall prüft die Anmeldung in einer Datenanalyse-Software. Das Protokoll könnte folgendermaßen aussehen:
 
 - **Testidentifikation**: Anmeldung_v1.0, 15. Januar 2026, 10:00 Uhr.

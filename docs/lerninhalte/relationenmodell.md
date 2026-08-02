@@ -2,12 +2,12 @@
 title: "Relationenmodell"
 description: "Das Relationenmodell beschreibt die Organisation von Daten in tabellarischer Form und ihre Beziehungen zueinander, basierend auf den Arbeiten von E.F. Codd."
 sources:
-  - title: "Relationenmodell • Definition | Gabler Wirtschaftslexikon"
-    url: "https://wirtschaftslexikon.gabler.de/definition/relationenmodell-44637"
-  - title: "Was ist eine relationale Datenbank? | Oracle Deutschland"
-    url: "https://www.oracle.com/de/database/what-is-a-relational-database/"
-  - title: "inf-schule | Vom ER- zum Relationalen Datenmodell"
-    url: "https://inf-schule.de/datenbanksysteme/ermodelle/datenmodell"
+    - title: "Relationenmodell • Definition | Gabler Wirtschaftslexikon"
+      url: "https://wirtschaftslexikon.gabler.de/definition/relationenmodell-44637"
+    - title: "Was ist eine relationale Datenbank? | Oracle Deutschland"
+      url: "https://www.oracle.com/de/database/what-is-a-relational-database/"
+    - title: "inf-schule | Vom ER- zum Relationalen Datenmodell"
+      url: "https://inf-schule.de/datenbanksysteme/ermodelle/datenmodell"
 ---
 
 Das **Relationenmodell** folgt auf das [Entity-Relationship-Modell](entity-relationship-modell) in der Datenbankentwicklung. Es wandelt die darin definierten Strukturen in eine tabellenbasierte Form um, die in relationalen Datenbanken gespeichert und verarbeitet werden kann.

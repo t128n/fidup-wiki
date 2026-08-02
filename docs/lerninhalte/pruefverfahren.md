@@ -2,12 +2,12 @@
 title: "Prüfverfahren"
 description: "Prüfverfahren wie N-Version Programming und Redundanz sind Methoden zur Sicherstellung der Zuverlässigkeit und Korrektheit in Daten- und Prozessanalyse. Sie helfen, Fehler frühzeitig zu erkennen und Systeme ausfallsicherer zu gestalten."
 sources:
-  - title: "N-Version Programming"
-    url: "https://en.wikipedia.org/wiki/N-version_programming"
-  - title: "Redundancy (Engineering)"
-    url: "https://en.wikipedia.org/wiki/Redundancy_(engineering)"
-  - title: "Was ist Redundanz in der IT und warum ist sie für technikinteressierte IT-Entscheider wichtig?"
-    url: "https://www.hagel-it.de/it-insights/was-ist-redundanz-in-der-it-und-warum-ist-sie-fuer-technikinteressierte-it-entscheider-wichtig.html"
+    - title: "N-Version Programming"
+      url: "https://en.wikipedia.org/wiki/N-version_programming"
+    - title: "Redundancy (Engineering)"
+      url: "https://en.wikipedia.org/wiki/Redundancy_(engineering)"
+    - title: "Was ist Redundanz in der IT und warum ist sie für technikinteressierte IT-Entscheider wichtig?"
+      url: "https://www.hagel-it.de/it-insights/was-ist-redundanz-in-der-it-und-warum-ist-sie-fuer-technikinteressierte-it-entscheider-wichtig.html"
 ---
 
 **Prüfverfahren** sind Methoden zur Überprüfung der Korrektheit, Konsistenz und Zuverlässigkeit von Daten sowie Prozessen in der Daten- und Prozessanalyse. Zu den zentralen Ansätzen gehören N-Version Programming und Redundanz, die in kritischen Systemen wie Softwareentwicklung, Datenübertragung und Infrastrukturen eingesetzt werden. Diese Verfahren steigern die Qualität, erfordern jedoch zusätzliche Ressourcen und bergen Herausforderungen wie erhöhte Komplexität.
